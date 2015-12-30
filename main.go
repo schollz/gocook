@@ -95,7 +95,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://www.epicurious.com/recipes/food/views/potato-latkes-104406")
+	testContent = parseURL("http://rpiai.com/test.html")
 
 	text := getIndredientText(testContent)
 

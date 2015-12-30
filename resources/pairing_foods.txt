@@ -75,7 +75,6 @@ ewe
 sauerkraut
 acacia farnesiana
 vanilla
-red meat
 sauvignon grape
 cognac
 tuna
@@ -90,7 +89,6 @@ crownberry
 cream
 popcorn
 chinese quince peel
-red wine
 honey
 narcissus
 pork sausage
@@ -101,7 +99,7 @@ sweetfish
 corn tortilla
 artemisia
 horseradish
-red bean
+bean
 endive
 raisin
 italian lime
@@ -137,7 +135,6 @@ eremocitrus glauca
 green tea
 rose
 cod
-red currant
 wintergreen
 mutton
 cucumber
@@ -226,7 +223,6 @@ baeckea citriodora
 barosma pulchella leaf
 sparkling wine
 mangosteen
-bean
 camphor
 veal
 scotch spearmint
@@ -606,7 +602,6 @@ peach
 chestnut honey
 artemisia scoparia
 bilberry wine
-red sage
 vitis
 citrus leaf
 lovage
@@ -619,7 +614,6 @@ juniperus phoenicea
 laurel leaf
 wheat flake
 soursop
-red kidney bean
 chinese star anise
 cymbopogon javanensis
 magnolia fuscata
@@ -1075,7 +1069,6 @@ auricula
 rotundifolia
 lauraceae
 bone
-red algae
 psilocaulon absimile
 garlic mustard
 senecio kaempferi
