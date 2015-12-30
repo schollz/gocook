@@ -82,7 +82,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://www.foodnetwork.com/recipes/matzoh-ball-soup-recipe.html")
+	testContent = parseURL("http://www.foodnetwork.com/recipes/food-network-kitchens/slow-cooker-pork-tacos-recipe.html")
 
 	text := getIndredientText(testContent)
 
@@ -91,6 +91,7 @@ Recipe courtesy of Ree Drummond`
 	text = strings.Replace(text, "!", "", -1)
 	text = strings.Replace(text, "?", "", -1)
 	text = strings.Replace(text, "olive oil", "olivoil", -1)
+	text = strings.Replace(text, "cider vinegar", "vinegar", -1)
 	fmt.Println(text)
 
 	fmt.Println("\nFrom food pairing:")
