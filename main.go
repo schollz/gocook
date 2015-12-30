@@ -82,7 +82,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://rpiai.com/test.html")
+	testContent = parseURL("http://www.foodnetwork.com/recipes/matzoh-ball-soup-recipe.html")
 
 	text := getIndredientText(testContent)
 
@@ -108,12 +108,14 @@ Recipe courtesy of Ree Drummond`
 			if j > i {
 				score += float64(pairing[[2]string{food1, food2}])
 				score += float64(pairing[[2]string{food2, food1}])
-				foods += float64(1)
 				if pairing[[2]string{food1, food2}] > 0 {
 					fmt.Println(food1, food2, pairing[[2]string{food1, food2}])
 				}
 				if pairing[[2]string{food2, food1}] > 0 {
 					fmt.Println(food2, food1, pairing[[2]string{food2, food1}])
+				}
+				if score > 0 {
+					foods += float64(1)
 				}
 			}
 		}
