@@ -2,19 +2,60 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
+	"sort"
+	"strconv"
 	"strings"
 )
 
 var commonFoods []string
 var goodContextWords []string
 var badContextWords []string
+var pairing map[[2]string]int
+var uniqueFoods []string
 
 // func gaussianFilter(data []int) (filtered []int) {
 
-// }
-
 func init() {
 	loadData()
+
+	pairing = make(map[[2]string]int, 221777)
+	allFoods := ""
+
+	f, err := ioutil.ReadFile("resources/pairing.csv")
+	if err != nil {
+		panic(err)
+	}
+	for _, l := range strings.Split(string(f), "\n") {
+		arr := strings.Split(string(l), ",")
+		if len(arr) == 3 {
+			k := arr[:2]
+			sort.Sort(sort.StringSlice(k))
+			key := [2]string{k[0], k[1]}
+
+			if strings.Contains(allFoods, k[0]) == false && len(k[0]) > 1 {
+				allFoods += k[0] + ","
+			}
+			if strings.Contains(allFoods, k[1]) == false && len(k[1]) > 1 {
+				allFoods += k[1] + ","
+			}
+
+			val, err := strconv.Atoi(arr[2])
+			if err != nil {
+				panic(err)
+			}
+			if _, ok := pairing[key]; ok {
+				pairing[key] += val
+			} else {
+				pairing[key] = val
+			}
+
+		}
+	}
+	uniqueFoods = strings.Split(allFoods, ",")
+	fmt.Println(pairing[[2]string{"mint oil", "pinto bean"}])
+	fmt.Println(len(pairing), len(uniqueFoods))
+
 }
 
 func main() {
@@ -54,20 +95,49 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://allrecipes.com/recipe/31848/jambalaya/")
+	testContent = parseURL("http://www.epicurious.com/recipes/food/views/potato-latkes-104406")
 
 	text := getIndredientText(testContent)
-	fmt.Println(text)
 
 	text = strings.Replace(text, ",", "", -1)
 	text = strings.Replace(text, ".", "", -1)
 	text = strings.Replace(text, "!", "", -1)
 	text = strings.Replace(text, "?", "", -1)
+	text = strings.Replace(text, "olive oil", "olivoil", -1)
+	fmt.Println(text)
 
+	fmt.Println("From food common:")
 	for _, food := range commonFoods {
 		if strings.Contains(text, " "+food+" ") {
 			fmt.Println(food)
 		}
 	}
+
+	fmt.Println("\nFrom food pairing:")
+	var ingredients []string
+	for _, food := range uniqueFoods {
+		if strings.Contains(text, " "+food) && len(food) > 1 {
+			ingredients = append(ingredients, food)
+		}
+	}
+
+	score := float64(0)
+	foods := float64(0)
+	for i, food1 := range ingredients {
+		for j, food2 := range ingredients {
+			if j > i {
+				score += float64(pairing[[2]string{food1, food2}])
+				score += float64(pairing[[2]string{food2, food1}])
+				foods += float64(1)
+				if pairing[[2]string{food1, food2}] > 0 {
+					fmt.Println(food1, food2, pairing[[2]string{food1, food2}])
+				}
+				if pairing[[2]string{food2, food1}] > 0 {
+					fmt.Println(food2, food1, pairing[[2]string{food2, food1}])
+				}
+			}
+		}
+	}
+	fmt.Println(score, foods, score/foods)
 
 }

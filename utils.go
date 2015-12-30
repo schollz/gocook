@@ -31,7 +31,7 @@ func getIndredientText(testContent string) string {
 				score += 1
 			}
 		}
-		fmt.Println(i, score, line)
+		//fmt.Println(i, score, line)
 		scores[i] = score
 	}
 

@@ -6,6 +6,7 @@ import (
 )
 
 func loadData() {
+
 	badContextWords = []string{"aioloi",
 		"aged",
 		"shallow",
@@ -255,12 +256,19 @@ func loadData() {
 		"rinsed",
 		"removed",
 		"aged"}
-	content, err := ioutil.ReadFile("resources/common.txt")
+	content, err := ioutil.ReadFile("resources/pairing_foods.txt")
 	if err != nil {
 		//Do something
 	}
 	commonFoods = strings.Split(string(content), "\n")
 	for i := 0; i < len(commonFoods); i++ {
-		commonFoods[i] = strings.ToLower(strings.Split(commonFoods[i], "^")[1])
+		commonFoods[i] = strings.ToLower(commonFoods[i])
 	}
+	// if err != nil {
+	// 	//Do something
+	// }
+	// commonFoods = strings.Split(string(content), "\n")
+	// for i := 0; i < len(commonFoods); i++ {
+	// 	commonFoods[i] = strings.ToLower(strings.Split(commonFoods[i], "^")[1])
+	// }
 }
