@@ -13,6 +13,7 @@ var badTags = []atom.Atom{
 	atom.Meta,
 	atom.A,
 	atom.Img,
+	atom.Figcaption,
 }
 
 func parseURL(url string) string {

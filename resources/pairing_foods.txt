@@ -5,13 +5,9 @@ ylangylang
 starfruit
 milk fat
 parmesan cheese
-pork
 wood apple
-pork liver
-pork belly
 porcini
 passion fruit
-pork sausage
 white wine
 mutton
 mushroom
@@ -108,7 +104,7 @@ egg noodle
 french lavender
 fermented shrimp
 green bell pepper
-shellfish
+rosaceae
 skim milk
 neroli
 persea pubescens
@@ -202,7 +198,6 @@ galbanum
 mung bean
 rosemary
 french peppermint
-fish
 prawn
 pinus sabiniana terpentine
 turnip
@@ -232,12 +227,11 @@ tamarind
 rye ergot
 licorice
 enokidake
-nut
+eucalyptus dives
 kiwi
 satsuma mandarin peel
 shallot
 hazelnut
-fatty fish
 emmental cheese
 tsuga canadensis
 rhus cotinus leaf
@@ -304,13 +298,12 @@ european cranberry
 muscat grape
 corn grit
 eucalyptus maideni
-whitefish
 rafanus sativus root
 nutmeg
 cruciferae seed
 datura stramonium
 goat milk
-eucalyptus dives
+nut
 scotch spearmint
 monkey orange
 seal
@@ -337,7 +330,6 @@ turkey
 parsley
 yam
 phebalium dentatum
-rosaceae
 hyacinth
 vinegar
 cream cheese
@@ -346,7 +338,6 @@ eremocitrus glauca
 wild rice
 liver
 polyalthia canangioides flower
-sweetfish
 temoe lawak
 sesame
 sapodilla fruit
@@ -381,7 +372,6 @@ jasminum grandiflorum
 green mate
 crowberry
 veal
-crayfish
 congo geranium
 rose wine
 palm fruit
@@ -456,7 +446,6 @@ piper officinarum
 israeli orange
 gin
 rum brandy
-globefish
 sea bass
 parsnip root
 valerian
@@ -615,7 +604,6 @@ ceylon cinnamon
 zucchini
 oriental storax
 capsicum annuum
-chicken
 chamomile
 celery
 cherry brandy
@@ -642,7 +630,6 @@ chokeberry
 carpinus betulus
 cassia
 texas sage
-catfish
 mentha aquatica
 citrus flower
 kencur
@@ -673,7 +660,6 @@ chamaecyparis pisifera
 cacao
 chokecherry
 choke cherry
-cuttlefish
 ruta montana
 sweet basil
 thuja occidentalis
@@ -791,18 +777,17 @@ russian anise
 artemisia
 apple
 artemisae
-beef
 brown rice
 bilberry
 blue cheese
 buttermilk
 estragon
+persea gratissima peel
 apricot
 solidago odora
 turpentine
 blueberry
 barosma betulina
-persea gratissima peel
 buchu
 bourbon whiskey
 bog blueberry
@@ -880,7 +865,6 @@ litsea odorifera
 achillea millefolium
 artemisia tridentata
 turkmenistan sunguli
-chicken liver
 bulgarian clary sage
 brazil rosewood
 atropa belladonna leaf
@@ -896,7 +880,6 @@ brazilian sassafras
 brussels sprout
 beet
 brazil nut
-beef liver
 benzoin
 maize
 copaiba
@@ -923,8 +906,12 @@ rhus semialata
 cayenne rosewood
 cinnamomum camphora
 artemisia porrecta
-california lemon
 chamaecyparis formosensis
+melaleuca smithii
+helichrysum italicum
+melaleuca viridiflora
+hatsutake
+oat groat
 american pennyroyal
 lippia scaberrima
 ceylon tea citronella
@@ -941,10 +928,8 @@ barosma venustum
 bilberry wine
 grain
 brassica
-chicken broth
 blenheim apricot
 chervil
-hatsutake
 lard
 bay laurel
 caraway
@@ -954,10 +939,7 @@ wild vanilla
 melilotus officinalis flower
 melilotus albus leaf
 magnolia grandiflora
-melaleuca smithii
 juniperus sabina
-helichrysum italicum
-melaleuca viridiflora
 cymbopogon sennaarensis
 dalbergia sissoo
 bergamot
@@ -995,14 +977,15 @@ cicuta virosa
 erica arborea
 russian star anise
 pinus communis
-nance
 spanish peanut
+nance
 tunisian rosemary
 rhodophyllus icterus
 lemon tree
 japanese calamus
 picea alba
 luraceae
+manila copal
 chamaecyparis lawsoniana
 cymbopogon citralis
 cupressus macrocarpa
@@ -1013,6 +996,7 @@ patchouli
 crepis foetida root
 madagascar cinnamon leaf
 rose flower
+california lemon
 chinese cabbage
 cinnamomum
 coal tar
@@ -1031,18 +1015,16 @@ apple brandy
 armagnac
 chenopodium
 arrack
-manila copal
 artemisia transiliensis
 artichoke
 arnica montana
 blackberry brandy
-beef broth
 artemisia brevifolia
-jerusalem artichoke
 artemisia herba alba
 cistus labdanum
 heracleum villosum
 babaco
+jerusalem artichoke
 cocoa liquor
 artemisia santolinifolia
 english peppermint
@@ -1059,7 +1041,6 @@ stirlingia latifolia
 spearmint scotch
 acacia flower
 squash
-oat groat
 mate leaf
 polianthes tuberosa
 waste wort
@@ -1083,6 +1064,7 @@ agarwood
 abies canadensis
 aconitum napellus
 pelargonium
+artemisia ferganensis
 feces
 kumazasa
 darwinia grandiflora
@@ -1094,7 +1076,6 @@ cinnamomum oliveri leaf
 beech tar creosote
 juniperus chinensis
 rhodotorula glutinis
-artemisia ferganensis
 gardenia flower
 phebalium dentatum leaf
 rosa rugosa
@@ -1109,7 +1090,6 @@ boronia ledifolia
 bone
 borosma pulchellum
 callitris intratropica
-fumaria officinalis
 artemisia hausiliensis
 boldo
 artemisia juncea
@@ -1118,7 +1098,6 @@ mentha longifolia
 cassis
 kaempferia ethel bulb
 mandarin leaf
-beef tallow
 acacia farnesiana
 anise seed
 boswellia serrata
@@ -1138,25 +1117,27 @@ honduras balsam
 berry bud
 barosma pulchella
 wallflower
-calyptranthes parriculata
 sudachi
 ananas sativus
 roselle
 citrus fruit blossom
-birch
+beechwood tar
 andropogon jwarancusa
 dacrydium colensoi
 pittosporum flower
 american sassafras
+birch
 carphephorus paniculatus leaf
 carphephorus corymbosus leaf
-beechwood tar
+asarum canadense root
+asarum europaeum root
 ambrette seed
 angelica seed
 cabreuva
 cigarette
 abies alba pine needle
 backhousia citriodora
+calyptranthes parriculata
 salvia spinosa
 beech
 solanaceae
@@ -1174,15 +1155,14 @@ eryngium facidum
 ligusticum acutilobum
 honduras peru balsam
 boletus scaber
+fumaria officinalis
 blumea eriantha
 blumea malcomii
-litsea odorifera leaf
 auricula
 agaricus
 spinach
 orris root
 auto oxidized salmon
-asarum europaeum root
 aristolochia clematitis
 achasma walang
 bulgarian tobacco
@@ -1193,7 +1173,6 @@ abies alba
 acacia dealbata
 bergamot peel
 artemisia maritime
-asarum canadense root
 angelica root
 bystropogon mollis leaf
 artemisia cina

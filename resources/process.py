@@ -32,7 +32,7 @@ with open('srep00196-s2.csv') as f:
         line = line.replace('summer_','')
         line = line.replace('lean_','')
         line = line.replace('red_','')
-        if "#" not in line and "meat" not in line and "tea," not in line and "clove" not in line:
+        if "#" not in line and "meat" not in line and "tea," not in line and "clove" not in line and "pork" not in line and "beef" not in line and "chicken" not in line and "fish" not in line and line[0:5]!="bean,":
             line = line.replace("_"," ")
             foods = line.split(',')
             food1 = foods[0]

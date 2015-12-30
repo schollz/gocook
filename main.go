@@ -86,12 +86,14 @@ Recipe courtesy of Ree Drummond`
 
 	text := getIndredientText(testContent)
 
+	text = strings.ToLower(text)
 	text = strings.Replace(text, ",", "", -1)
 	text = strings.Replace(text, ".", "", -1)
 	text = strings.Replace(text, "!", "", -1)
 	text = strings.Replace(text, "?", "", -1)
 	text = strings.Replace(text, "olive oil", "olivoil", -1)
 	text = strings.Replace(text, "cider vinegar", "vinegar", -1)
+	text = strings.Replace(text, "nutrition", "", -1)
 	fmt.Println(text)
 
 	fmt.Println("\nFrom food pairing:")
