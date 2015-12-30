@@ -83,22 +83,26 @@ func getIndredientText(testContent string) string {
 	}
 	minResidual := 1e8
 	bestSigma := 0
-	for testSigma := 1; testSigma < len(gaussianScores)*4; testSigma++ {
-		testGaussian := gaussianFunc(maxScoreI, testSigma, maxScore, gaussianScores)
-		resid := residualFunc(testGaussian, gaussianScores)
-		// fmt.Println(testSigma, resid)
-		if resid < minResidual && resid > 0 {
-			bestSigma = testSigma
-			minResidual = resid
+	bestMu := 0
+	for muAdjust := -2; muAdjust < 3; muAdjust++ {
+		for testSigma := 4; testSigma < 20*4; testSigma++ {
+			testGaussian := gaussianFunc(maxScoreI+muAdjust, testSigma, maxScore, gaussianScores)
+			resid := residualFunc(testGaussian, gaussianScores)
+			// fmt.Println(testSigma, resid)
+			if resid < minResidual && resid > 0 {
+				bestSigma = testSigma
+				minResidual = resid
+				bestMu = maxScoreI + muAdjust
+			}
 		}
 	}
 	fmt.Println(gaussianScores)
-	fmt.Println(gaussianFunc(maxScoreI, bestSigma, maxScore, gaussianScores))
+	fmt.Println(gaussianFunc(bestMu, bestSigma, maxScore, gaussianScores))
 	fmt.Println(maxScoreI, bestSigma)
 
 	text := ""
 	for i, line := range lines {
-		if i > (maxScoreI-int(float64(bestSigma)/1.5)) && i < (maxScoreI+int(float64(bestSigma)/1.5)) {
+		if i > (bestMu-int(float64(bestSigma)/1.5)) && i < (bestMu+int(float64(bestSigma)/1.5)) {
 			text += line + " \n"
 		}
 	}

@@ -54,7 +54,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://steamykitchen.com/26014-chinese-fried-wontons-recipe-video.html")
+	testContent = parseURL("http://allrecipes.com/recipe/31848/jambalaya/")
 
 	text := getIndredientText(testContent)
 	fmt.Println(text)
