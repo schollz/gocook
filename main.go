@@ -20,7 +20,6 @@ func init() {
 	loadData()
 
 	pairing = make(map[[2]string]int, 221777)
-	allFoods := ""
 
 	f, err := ioutil.ReadFile("resources/pairing.csv")
 	if err != nil {
@@ -33,26 +32,14 @@ func init() {
 			sort.Sort(sort.StringSlice(k))
 			key := [2]string{k[0], k[1]}
 
-			if strings.Contains(allFoods, k[0]) == false && len(k[0]) > 1 {
-				allFoods += k[0] + ","
-			}
-			if strings.Contains(allFoods, k[1]) == false && len(k[1]) > 1 {
-				allFoods += k[1] + ","
-			}
-
 			val, err := strconv.Atoi(arr[2])
 			if err != nil {
 				panic(err)
 			}
-			if _, ok := pairing[key]; ok {
-				pairing[key] += val
-			} else {
-				pairing[key] = val
-			}
+			pairing[key] = val
 
 		}
 	}
-	uniqueFoods = strings.Split(allFoods, ",")
 	fmt.Println(pairing[[2]string{"mint oil", "pinto bean"}])
 	fmt.Println(len(pairing), len(uniqueFoods))
 
@@ -106,16 +93,9 @@ Recipe courtesy of Ree Drummond`
 	text = strings.Replace(text, "olive oil", "olivoil", -1)
 	fmt.Println(text)
 
-	fmt.Println("From food common:")
-	for _, food := range commonFoods {
-		if strings.Contains(text, " "+food+" ") {
-			fmt.Println(food)
-		}
-	}
-
 	fmt.Println("\nFrom food pairing:")
 	var ingredients []string
-	for _, food := range uniqueFoods {
+	for _, food := range commonFoods {
 		if strings.Contains(text, " "+food) && len(food) > 1 {
 			ingredients = append(ingredients, food)
 		}
