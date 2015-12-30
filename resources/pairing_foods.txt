@@ -611,7 +611,6 @@ cassava
 citronella
 cereal
 coconut
-clove
 ceylon cinnamon
 zucchini
 oriental storax
@@ -783,12 +782,12 @@ currant bud
 cabernet sauvignon grape
 bacon
 buckwheat
+banana
 butter
 cabbage
 botrytized wine
 ashanti pepper
 russian anise
-banana
 artemisia
 apple
 artemisae
@@ -1013,7 +1012,6 @@ saigon cinnamon
 patchouli
 crepis foetida root
 madagascar cinnamon leaf
-clove pink
 rose flower
 chinese cabbage
 cinnamomum

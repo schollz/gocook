@@ -185,7 +185,7 @@ comte cheese,lamb,71
 comte cheese,pinus sabiniana,2
 comte cheese,rhubarb,9
 comte cheese,guava peel,2
-comte cheese,hop,68
+comte cheese,hop,67
 comte cheese,plant,2
 comte cheese,kohlrabi,22
 comte cheese,plum brandy,16
@@ -395,7 +395,7 @@ comte cheese,polyalthia canangioides flower,2
 comte cheese,sweetfish,40
 comte cheese,temoe lawak,2
 comte cheese,vanilla,34
-comte cheese,wheaten bread,49
+comte cheese,wheaten bread,48
 comte cheese,yellow passion fruit,7
 comte cheese,sesame,2
 comte cheese,sapodilla fruit,4
@@ -442,7 +442,7 @@ comte cheese,malay apple,4
 comte cheese,limburger cheese,74
 comte cheese,magnolia tripetala,2
 comte cheese,laurel,11
-comte cheese,ham,61
+comte cheese,ham,60
 comte cheese,rose,13
 comte cheese,juniper berry,30
 comte cheese,grapefruit,38
@@ -831,7 +831,7 @@ mackerel,sauerkraut,11
 mackerel,tomato,38
 mackerel,sperm whale,2
 mackerel,morus bombycis,2
-mackerel,potato,69
+mackerel,potato,68
 mackerel,rubus arcticus,7
 mackerel,wild berry,23
 mackerel,mastic gum,7
@@ -1351,7 +1351,7 @@ cabernet sauvignon wine,currant,64
 cabernet sauvignon wine,frankfurter,28
 cabernet sauvignon wine,lavandin,9
 cabernet sauvignon wine,pork liver,9
-cabernet sauvignon wine,sausage,49
+cabernet sauvignon wine,sausage,48
 cabernet sauvignon wine,porcini,47
 cabernet sauvignon wine,sauerkraut,16
 cabernet sauvignon wine,cayenne linaloe,2
@@ -1564,7 +1564,6 @@ cabernet sauvignon wine,grape must,4
 cabernet sauvignon wine,pork belly,46
 cabernet sauvignon wine,zanthoxylum rhetsa,2
 cabernet sauvignon wine,mint,25
-cabernet sauvignon wine,clove,24
 cabernet sauvignon wine,savory,2
 cabernet sauvignon wine,palm fruit,2
 cabernet sauvignon wine,sherry,76
@@ -1668,7 +1667,7 @@ cabernet sauvignon wine,thea chinensis,2
 cabernet sauvignon wine,cayenne,13
 cabernet sauvignon wine,scallop,26
 cabernet sauvignon wine,elderberry fruit,2
-cabernet sauvignon wine,turkey,61
+cabernet sauvignon wine,turkey,60
 cabernet sauvignon wine,rhizopus,2
 cabernet sauvignon wine,caraway seed,2
 cabernet sauvignon wine,shiitake,47
@@ -2145,7 +2144,7 @@ porcini,spanish sage,4
 porcini,taiwan citronella,2
 porcini,wild strawberry,28
 porcini,white bread,34
-porcini,rice,49
+porcini,rice,48
 porcini,pumpkin,11
 porcini,trassi,24
 porcini,port wine,45
@@ -2163,14 +2162,14 @@ porcini,vetiver,6
 porcini,sheep milk,9
 porcini,thyme,13
 porcini,tobacco,9
-porcini,sauvignon blanc grape,49
+porcini,sauvignon blanc grape,48
 porcini,thymus,7
 porcini,whitefish,37
 porcini,rafanus sativus root,2
 porcini,snap bean,50
 porcini,rosemary,14
 porcini,sour cherry,13
-porcini,sauvignon grape,49
+porcini,sauvignon grape,48
 porcini,pork,92
 porcini,randia formosa flower,2
 porcini,sea buckthorn,4
@@ -2216,7 +2215,7 @@ porcini,rye bread,38
 porcini,scallop,32
 porcini,toasted oat groat,2
 porcini,tomato,50
-porcini,soybean,61
+porcini,soybean,60
 porcini,tamarind,33
 porcini,vervain,2
 porcini,rose apple,6
@@ -2259,7 +2258,7 @@ porcini,squid,17
 porcini,seed,2
 porcini,sturgeon caviar,11
 porcini,rice bran,14
-porcini,pork belly,49
+porcini,pork belly,48
 porcini,thai pepper,14
 porcini,zanthoxylum rhetsa,4
 porcini,violet,2
@@ -2280,7 +2279,7 @@ porcini,salmon,63
 porcini,rapeseed,4
 porcini,seabream,37
 porcini,whale,34
-porcini,pork sausage,49
+porcini,pork sausage,48
 porcini,violet leaf,4
 porcini,sperm whale,2
 porcini,potato,80
@@ -2511,7 +2510,7 @@ milk,muskmelon,37
 milk,teucrium chamaedrys,2
 milk,schizandra nigra,2
 milk,reunion geranium,6
-milk,porcini,49
+milk,porcini,48
 milk,passion fruit,45
 milk,rose wine,47
 milk,vitis labrusca,2
@@ -2648,7 +2647,7 @@ milk,narcissus,9
 milk,tamarind,33
 milk,whale,37
 milk,rose apple,7
-milk,turkey,68
+milk,turkey,67
 milk,prickly pear,17
 milk,watercress,10
 milk,parsnip root,2
@@ -2663,7 +2662,7 @@ milk,nezara viridula,2
 milk,spike,4
 milk,wood tar,2
 milk,wheat bread,47
-milk,mushroom,49
+milk,mushroom,48
 milk,vinegar,19
 milk,shallot,7
 milk,tangerine,26
@@ -2701,7 +2700,7 @@ milk,root,2
 milk,mountain papaya,18
 milk,whiskey,50
 milk,toasted sesame seed,13
-milk,russian cheese,61
+milk,russian cheese,60
 milk,pandanus odoratissimus,4
 milk,pear brandy,6
 milk,naranjilla,7
@@ -2732,7 +2731,7 @@ milk,oat,28
 milk,veal,38
 milk,orris,7
 milk,pistachio,9
-milk,provolone cheese,61
+milk,provolone cheese,60
 milk,muscadine grape,44
 milk,romano cheese,60
 milk,plant,2
@@ -3231,7 +3230,7 @@ grape,passion fruit wine,2
 grape,honey,35
 grape,rice bran,13
 grape,tuberose,6
-grape,lamb,63
+grape,lamb,62
 grape,pinus sabiniana,2
 grape,rhubarb,13
 grape,hop,63
@@ -3527,7 +3526,7 @@ grape,rapeseed,6
 grape,sturgeon caviar,11
 grape,violet leaf,4
 grape,morus bombycis,2
-grape,potato,78
+grape,potato,77
 grape,guarana,14
 grape,soy sauce,2
 grape,irish whiskey,2
@@ -3782,7 +3781,7 @@ peanut,sauerkraut,27
 peanut,rubus arcticus,17
 peanut,truffle,40
 peanut,rum,80
-peanut,white wine,77
+peanut,white wine,76
 peanut,swiss cheese,80
 peanut,toasted oat,62
 peanut,yogurt,60
@@ -3814,7 +3813,7 @@ peanut,plum,53
 peanut,raisin,46
 peanut,shrimp,83
 peanut,tilsit cheese,79
-peanut,peanut,88
+peanut,peanut,87
 peanut,popcorn,56
 peanut,peanut butter,88
 peanut,radish,47
@@ -3865,7 +3864,7 @@ peanut,wort,67
 peanut,sweet potato,21
 peanut,potato chip,56
 peanut,whiskey,71
-peanut,toasted sesame seed,49
+peanut,toasted sesame seed,48
 peanut,trassi,55
 peanut,star anise,10
 peanut,pear brandy,7
@@ -3877,7 +3876,7 @@ peanut,welsh onion,2
 peanut,pork belly,81
 peanut,thai pepper,16
 peanut,zanthoxylum rhetsa,10
-peanut,starfruit,67
+peanut,starfruit,66
 peanut,sandalwood,14
 peanut,satsuma,38
 peanut,texas sage,6
@@ -3909,7 +3908,7 @@ peanut,ylangylang,10
 peanut,ruta montana,6
 peanut,wild berry,56
 peanut,veal,69
-peanut,pineapple,61
+peanut,pineapple,60
 peanut,wintergreen leaf,10
 peanut,vachellia farnesiana,2
 peanut,valencia orange,4
@@ -4163,7 +4162,7 @@ anise hyssop,buckwheat,9
 anise hyssop,cantaloupe,7
 anise hyssop,ethiopian pepper,2
 anise hyssop,pinto bean,6
-anise hyssop,chokecherry,4
+anise hyssop,banana,4
 anise hyssop,cauliflower,2
 anise hyssop,rum,6
 anise hyssop,concord grape,4
@@ -4201,7 +4200,6 @@ anise hyssop,cod,6
 anise hyssop,cherry,2
 anise hyssop,chive,2
 anise hyssop,mentha timija,2
-anise hyssop,banana,4
 anise hyssop,malt,7
 anise hyssop,peanut butter,4
 anise hyssop,elder flower,2
@@ -4311,7 +4309,7 @@ anise hyssop,bog blueberry,4
 anise hyssop,endive,4
 anise hyssop,lamb,14
 anise hyssop,satsuma,2
-anise hyssop,clove,6
+anise hyssop,chokecherry,4
 anise hyssop,lemon,2
 anise hyssop,gruyere cheese,6
 anise hyssop,wild raspberry,4
@@ -4378,7 +4376,6 @@ agastache rugosa,sage,2
 agastache rugosa,fennel,2
 agastache rugosa,laurel,2
 agastache rugosa,japanese star anise,2
-agastache rugosa,clove,2
 agastache rugosa,tarragon,2
 agastache rugosa,anise,2
 agastache rugosa,calabash nutmeg,2
@@ -4518,7 +4515,7 @@ champagne wine,durian,4
 champagne wine,tuberose,2
 champagne wine,lamb,65
 champagne wine,rhubarb,6
-champagne wine,hop,61
+champagne wine,hop,60
 champagne wine,plant,2
 champagne wine,ocimum gratissimum,2
 champagne wine,kohlrabi,17
@@ -4624,7 +4621,6 @@ champagne wine,grape must,4
 champagne wine,pork belly,41
 champagne wine,zanthoxylum rhetsa,2
 champagne wine,mint,25
-champagne wine,clove,24
 champagne wine,sherry,74
 champagne wine,lily,4
 champagne wine,zucchini,2
@@ -4713,7 +4709,7 @@ champagne wine,marjoram,14
 champagne wine,thea chinensis,2
 champagne wine,scallop,23
 champagne wine,green bell pepper,13
-champagne wine,turkey,61
+champagne wine,turkey,60
 champagne wine,shiitake,44
 champagne wine,parsley,18
 champagne wine,cognac,64
@@ -5454,7 +5450,7 @@ mozzarella cheese,salmon caviar,2
 mozzarella cheese,peanut,79
 mozzarella cheese,wheat bread,53
 mozzarella cheese,sausage,58
-mozzarella cheese,mutton,67
+mozzarella cheese,mutton,66
 mozzarella cheese,okra,9
 mozzarella cheese,rubus arcticus,13
 mozzarella cheese,sesame,2
@@ -5615,7 +5611,7 @@ mozzarella cheese,roquefort cheese,74
 mozzarella cheese,polysiphonia fastigiata,2
 mozzarella cheese,origanum,2
 mozzarella cheese,wheat flake,2
-mozzarella cheese,salmon,66
+mozzarella cheese,salmon,65
 mozzarella cheese,ruta chalepensis,2
 mozzarella cheese,orange peel,16
 mozzarella cheese,whitefish,40
@@ -5664,7 +5660,7 @@ melon,milk,37
 melon,sour milk,6
 melon,prunus,14
 melon,nectarine,37
-melon,peanut,65
+melon,peanut,64
 melon,pawpaw,16
 melon,walnut,11
 melon,taiwan citronella,2
@@ -5684,7 +5680,7 @@ melon,mexican lime,29
 melon,watermelon,14
 melon,petitgrain bigarade,2
 melon,quince,30
-melon,muskmelon,70
+melon,muskmelon,69
 melon,muscat grape,52
 melon,sparkling wine,46
 melon,strawberry jam,9
@@ -5771,7 +5767,7 @@ melon,whale,22
 melon,wax jambu,2
 melon,rose apple,19
 melon,turkey,52
-melon,raspberry,61
+melon,raspberry,60
 melon,parsnip root,2
 melon,rutabaga,9
 melon,sake,14
@@ -5807,7 +5803,7 @@ melon,sea buckthorn,2
 melon,roman chamomile,23
 melon,peppermint,24
 melon,wheat bread,31
-melon,strawberry,61
+melon,strawberry,60
 melon,wort,22
 melon,sweet potato,9
 melon,potato chip,11
@@ -6253,7 +6249,6 @@ buchu,mint,47
 buchu,durian,7
 buchu,starfruit,18
 buchu,satsuma,18
-buchu,clove,16
 buchu,lemon,22
 buchu,gruyere cheese,10
 buchu,nectandra elaiophora,4
@@ -6343,7 +6338,7 @@ southern pea,yellow passion fruit,2
 southern pea,tuberose,2
 southern pea,teucrium chamaedrys,2
 southern pea,tomato,43
-southern pea,soybean,49
+southern pea,soybean,48
 southern pea,thai pepper,9
 southern pea,tamarind,22
 southern pea,whale,20
@@ -6496,7 +6491,7 @@ mexican lime,petitgrain bergamot,4
 mexican lime,sheep milk,2
 mexican lime,tobacco,4
 mexican lime,onion,20
-mexican lime,orange,66
+mexican lime,orange,65
 mexican lime,sauvignon blanc grape,35
 mexican lime,monarda punctata,2
 mexican lime,monarda fisulosa,2
@@ -6688,7 +6683,7 @@ mexican lime,violet leaf,2
 mexican lime,toasted sesame seed,6
 mexican lime,morus bombycis,2
 mexican lime,nectandra elaiophora,4
-mexican lime,potato,61
+mexican lime,potato,60
 mexican lime,rubus arcticus,6
 mexican lime,ylangylang,10
 mexican lime,myrocarpus frondosus,2
@@ -7335,7 +7330,7 @@ sparkling wine,thai pepper,13
 sparkling wine,winter savory,2
 sparkling wine,tamarind,29
 sparkling wine,tuberose,2
-sparkling wine,turkey,61
+sparkling wine,turkey,60
 sparkling wine,white wine,76
 sparkling wine,watercress,7
 sparkling wine,tarragon,6
@@ -7738,7 +7733,7 @@ asparagus,sheep milk,7
 asparagus,asparagus,2
 asparagus,petitgrain,2
 asparagus,myrtleberry,23
-asparagus,pork,88
+asparagus,pork,87
 asparagus,sheep cheese,34
 asparagus,cabernet sauvignon grape,24
 asparagus,bacon,36
@@ -7756,7 +7751,7 @@ asparagus,magnolia,2
 asparagus,milk,32
 asparagus,white wine,37
 asparagus,litchi,7
-asparagus,filbert,49
+asparagus,filbert,48
 asparagus,jasmine,4
 asparagus,egg noodle,4
 asparagus,french lavender,7
@@ -7772,7 +7767,7 @@ asparagus,mussel,2
 asparagus,radish,7
 asparagus,bulgarian clary sage,2
 asparagus,oak musk,2
-asparagus,soybean,49
+asparagus,soybean,48
 asparagus,herring,38
 asparagus,crownberry,23
 asparagus,rose apple,4
@@ -7926,7 +7921,6 @@ asparagus,pork belly,34
 asparagus,mint,14
 asparagus,bog blueberry,24
 asparagus,beet root,6
-asparagus,clove,16
 asparagus,sherry,28
 asparagus,lily,4
 asparagus,ceylon cinnamon,4
@@ -7959,7 +7953,7 @@ asparagus,wood,4
 asparagus,romano cheese,34
 asparagus,rice,36
 asparagus,pumpkin,9
-asparagus,kidney bean,65
+asparagus,kidney bean,64
 asparagus,italian orange,2
 asparagus,goat cheese,34
 asparagus,yogurt,20
@@ -8549,7 +8543,6 @@ cayenne rosewood,crownberry,2
 cayenne rosewood,mexican linaloe,2
 cayenne rosewood,lime,2
 cayenne rosewood,satsuma,2
-cayenne rosewood,clove,2
 cayenne rosewood,mentha,2
 cayenne rosewood,grape,2
 cayenne rosewood,huckleberry,2
@@ -8831,7 +8824,7 @@ myrtleberry,oyster,14
 myrtleberry,sauerkraut,9
 myrtleberry,violet leaf,6
 myrtleberry,peach,34
-myrtleberry,potato,69
+myrtleberry,potato,68
 myrtleberry,rubus arcticus,6
 myrtleberry,ylangylang,11
 myrtleberry,wild berry,52
@@ -8859,7 +8852,7 @@ pork,taiwan citronella,30
 pork,romano cheese,94
 pork,white bread,88
 pork,rice,92
-pork,pumpkin,68
+pork,pumpkin,67
 pork,russian cheese,94
 pork,port wine,89
 pork,safflower seed,33
@@ -8895,8 +8888,8 @@ pork,pork liver,66
 pork,winter savory,18
 pork,wheat bread,93
 pork,sausage,96
-pork,sauerkraut,63
-pork,sour cherry,63
+pork,sauerkraut,62
+pork,sour cherry,62
 pork,sea algae,4
 pork,umbelliferae,18
 pork,ximenia aegyptiaca,18
@@ -8904,7 +8897,7 @@ pork,white wine,93
 pork,swiss cheese,94
 pork,toasted oat,84
 pork,yogurt,83
-pork,truffle,77
+pork,truffle,76
 pork,wheat,2
 pork,rancid coconut,18
 pork,rum,93
@@ -8919,7 +8912,7 @@ pork,raspberry,95
 pork,potato chip,82
 pork,rosaceae,18
 pork,skim milk,65
-pork,vinegar,72
+pork,vinegar,71
 pork,vervain leaf,4
 pork,raisin,80
 pork,shrimp,95
@@ -8940,7 +8933,7 @@ pork,watercress,49
 pork,rutabaga,62
 pork,rye ergot,18
 pork,shiitake,92
-pork,prickly pear,77
+pork,prickly pear,76
 pork,spike,18
 pork,violet leaf,49
 pork,squid,76
@@ -8959,7 +8952,7 @@ pork,prune,18
 pork,tobacco flower,18
 pork,sweet grass,62
 pork,vanilla,82
-pork,wheaten bread,90
+pork,wheaten bread,89
 pork,sea buckthorn,18
 pork,roman chamomile,80
 pork,sesame,32
@@ -9353,7 +9346,7 @@ almond,juniper berry,4
 almond,turkey,33
 almond,clary sage,4
 almond,apricot kernel,2
-almond,beef,68
+almond,beef,67
 almond,seabream,4
 almond,brown rice,13
 almond,shiitake,14
@@ -9531,7 +9524,7 @@ bacon,japanese seafood,2
 bacon,lavandin,6
 bacon,pork liver,11
 bacon,sausage,66
-bacon,porcini,49
+bacon,porcini,48
 bacon,sauerkraut,10
 bacon,magnolia,2
 bacon,umbelliferae,2
@@ -9563,7 +9556,7 @@ bacon,crownberry,28
 bacon,lime,22
 bacon,rutabaga,10
 bacon,sake,16
-bacon,brown rice,49
+bacon,brown rice,48
 bacon,guinea orange,2
 bacon,crab,46
 bacon,spike,2
@@ -9580,7 +9573,7 @@ bacon,loquat,25
 bacon,malt whiskey,11
 bacon,krill,13
 bacon,spearmint,22
-bacon,rice,49
+bacon,rice,48
 bacon,petasites fragrans,2
 bacon,hinoki,4
 bacon,malt,63
@@ -9632,7 +9625,7 @@ bacon,french bean,46
 bacon,grapefruit peel,4
 bacon,winter savory,2
 bacon,katsuobushi,19
-bacon,lima bean,49
+bacon,lima bean,48
 bacon,pawpaw,9
 bacon,walnut,14
 bacon,eucalyptus cinereea,2
@@ -9698,7 +9691,7 @@ bacon,rye ergot,2
 bacon,licorice,26
 bacon,prickly pear,18
 bacon,cognac,47
-bacon,enokidake,49
+bacon,enokidake,48
 bacon,banana,38
 bacon,kiwi,14
 bacon,shallot,7
@@ -9731,7 +9724,6 @@ bacon,zanthoxylum rhetsa,4
 bacon,mint,20
 bacon,bog blueberry,29
 bacon,beet root,4
-bacon,clove,11
 bacon,phellodendron amurense fruit,2
 bacon,sherry,46
 bacon,lily,2
@@ -9751,13 +9743,13 @@ bacon,mastic gum,13
 bacon,pepino melon,2
 bacon,pineapple,34
 bacon,vachellia farnesiana,2
-bacon,wine,63
+bacon,wine,62
 bacon,scotch,9
 bacon,mastic gum fruit,4
 bacon,bell pepper,16
 bacon,wood spirit,2
 bacon,bilberry wine,2
-bacon,matsutake,49
+bacon,matsutake,48
 bacon,hazelnut,13
 bacon,sage,7
 bacon,boronia ledifolia leaf,2
@@ -9836,7 +9828,7 @@ bacon,brussels sprout,9
 bacon,turkey,77
 bacon,beef,93
 bacon,caraway seed,4
-bacon,shiitake,49
+bacon,shiitake,48
 bacon,parsley,13
 bacon,yam,2
 bacon,buttermilk,11
@@ -9846,7 +9838,7 @@ bacon,beet,7
 bacon,blenheim apricot,2
 bacon,basil,2
 bacon,hyacinth,6
-bacon,mushroom,49
+bacon,mushroom,48
 bacon,vinegar,16
 bacon,cream cheese,57
 bacon,cypress,2
@@ -10372,7 +10364,7 @@ currant,peanut,78
 currant,lemon flower,6
 currant,geranium,18
 currant,dairy,7
-currant,mozzarella cheese,63
+currant,mozzarella cheese,62
 currant,wild strawberry,72
 currant,white bread,45
 currant,robinia pseudoacacia,7
@@ -10389,7 +10381,7 @@ currant,mandarin peel,16
 currant,sheep milk,9
 currant,sauvignon blanc grape,69
 currant,loganberry,72
-currant,malt,68
+currant,malt,67
 currant,sauvignon grape,69
 currant,pork,94
 currant,sea buckthorn,4
@@ -10408,7 +10400,7 @@ currant,ouzo,2
 currant,honey fungus,6
 currant,white wine,67
 currant,litchi,53
-currant,filbert,67
+currant,filbert,66
 currant,tabasco pepper,32
 currant,jasmine,17
 currant,micromeria abyssinica,2
@@ -10427,8 +10419,8 @@ currant,radish,30
 currant,oak musk,9
 currant,soybean,66
 currant,laurel leaf,2
-currant,herring,68
-currant,lime,63
+currant,herring,67
+currant,lime,62
 currant,rutabaga,17
 currant,sake,19
 currant,lippia scaberrima,2
@@ -10484,7 +10476,7 @@ currant,melaleuca smithii,2
 currant,plum brandy,18
 currant,mentha citrata,4
 currant,litsea zeylanica,13
-currant,tomato,66
+currant,tomato,65
 currant,juniperus sabina,4
 currant,ylangylang,22
 currant,parsnip fruit,33
@@ -10552,7 +10544,7 @@ currant,magnolia fuscata,2
 currant,mentha timija,7
 currant,mangosteen,34
 currant,dwarf pine,4
-currant,myrtleberry,72
+currant,myrtleberry,71
 currant,helichrysum italicum,2
 currant,japanese peppermint,34
 currant,eucalyptus goniocalyx,2
@@ -10634,7 +10626,7 @@ currant,wood,4
 currant,spanish sage,11
 currant,mentha,6
 currant,taiwan citronella,4
-currant,romano cheese,63
+currant,romano cheese,62
 currant,helichrysum angustifolium,2
 currant,rice,56
 currant,pumpkin,17
@@ -10667,12 +10659,12 @@ currant,lemon balm,33
 currant,satureia montana,4
 currant,myrcia acris,4
 currant,petitgrain lime,10
-currant,rabbiteye blueberry,72
+currant,rabbiteye blueberry,71
 currant,feta cheese,63
 currant,provolone cheese,62
 currant,white currant,6
 currant,sassafras,9
-currant,huckleberry,72
+currant,huckleberry,71
 currant,paraguay petitgrain,4
 currant,pennyroyal,18
 currant,peanut butter,56
@@ -10708,7 +10700,7 @@ currant,squid,7
 currant,japanese plum,7
 currant,juniperus phoenicea,6
 currant,thymus zygis,2
-currant,wild raspberry,72
+currant,wild raspberry,71
 currant,fermented radish,2
 currant,ewe,45
 currant,sapodilla,4
@@ -10751,7 +10743,7 @@ currant,russian cheese,62
 currant,port wine,63
 currant,safflower seed,22
 currant,endive,31
-currant,gruyere cheese,65
+currant,gruyere cheese,64
 currant,lemon peel,16
 currant,guineafowl,45
 currant,rosa centifolia,2
@@ -10770,7 +10762,7 @@ currant,wintergreen,4
 currant,daffodil,6
 currant,dalbergia sissoo,2
 currant,lobster,4
-currant,domiati cheese,63
+currant,domiati cheese,62
 currant,orchid,6
 currant,pine turpentine,4
 currant,leaf,32
@@ -10780,7 +10772,7 @@ currant,toasted oat,38
 currant,trifolium pratense leaf,4
 currant,truffle,30
 currant,rose apple,43
-currant,pea,68
+currant,pea,67
 currant,pepper,52
 currant,plum wine,2
 currant,rancid coconut,4
@@ -10824,7 +10816,7 @@ currant,dill,42
 currant,palmarosa,19
 currant,rotundifolia,2
 currant,thai pepper,32
-currant,starfruit,65
+currant,starfruit,64
 currant,sandalwood,9
 currant,satsuma,61
 currant,lemon,64
@@ -11028,7 +11020,6 @@ bergamot,mint,4
 bergamot,bog blueberry,9
 bergamot,starfruit,4
 bergamot,satsuma,11
-bergamot,clove,6
 bergamot,lemon,22
 bergamot,nectandra elaiophora,2
 bergamot,wild raspberry,9
@@ -11384,7 +11375,7 @@ frankfurter,walnut,11
 frankfurter,herring,44
 frankfurter,tuna,31
 frankfurter,lime,13
-frankfurter,turkey,77
+frankfurter,turkey,76
 frankfurter,prickly pear,4
 frankfurter,watercress,6
 frankfurter,parsnip root,2
@@ -11484,7 +11475,7 @@ frankfurter,orris,4
 frankfurter,jamaican rum,34
 frankfurter,leek,34
 frankfurter,strawberry,30
-frankfurter,lamb,77
+frankfurter,lamb,76
 frankfurter,papaya,27
 frankfurter,mustard,9
 frankfurter,roquefort cheese,38
@@ -11956,8 +11947,8 @@ guava,mackerel,34
 guava,olive,41
 guava,teucrium chamaedrys,2
 guava,reunion geranium,9
-guava,porcini,49
-guava,passion fruit,61
+guava,porcini,48
+guava,passion fruit,60
 guava,honey fungus,2
 guava,sour milk,10
 guava,mastic gum leaf,16
@@ -12070,7 +12061,7 @@ guava,ylangylang,11
 guava,parsnip fruit,14
 guava,wild berry,43
 guava,tulip,6
-guava,mango,61
+guava,mango,60
 guava,turmeric,7
 guava,winter savory,2
 guava,katsuobushi,20
@@ -12166,11 +12157,11 @@ guava,mastic gum,13
 guava,pepino melon,4
 guava,myrocarpus fastigiatus,4
 guava,vachellia farnesiana,6
-guava,wine,70
+guava,wine,69
 guava,scotch,9
 guava,mastic gum fruit,6
 guava,wood spirit,2
-guava,matsutake,49
+guava,matsutake,48
 guava,sage,9
 guava,vitis labrusca,2
 guava,nectarine,38
@@ -12194,7 +12185,7 @@ guava,monkey orange,42
 guava,seal,30
 guava,japanese star anise,9
 guava,mutton,54
-guava,strawberry,65
+guava,strawberry,64
 guava,yogurt,25
 guava,labdanum,2
 guava,lemon balm,16
@@ -12215,12 +12206,12 @@ guava,provolone cheese,53
 guava,scallop,22
 guava,hoary basil leaf,2
 guava,turkey,61
-guava,shiitake,49
+guava,shiitake,48
 guava,parsley,32
 guava,yam,2
 guava,verbenaceae,2
 guava,hyacinth,9
-guava,mushroom,49
+guava,mushroom,48
 guava,neroli,17
 guava,palm fruit,14
 guava,thymus zygis,2
@@ -12308,7 +12299,7 @@ guava,raspberry,69
 guava,pike,34
 guava,lingonberry,10
 guava,petitgrain lemon,6
-guava,plum,49
+guava,plum,48
 guava,oatmeal,7
 guava,shrimp,49
 guava,pistachio,10
@@ -12352,7 +12343,7 @@ guava,mustard,19
 guava,roquefort cheese,52
 guava,origanum,10
 guava,tahiti vanilla,4
-guava,pineapple,49
+guava,pineapple,48
 guava,pear,33
 guava,navy bean,42
 guava,rapeseed,10
@@ -12591,7 +12582,6 @@ cayenne linaloe,mint,4
 cayenne linaloe,starfruit,2
 cayenne linaloe,sandalwood,2
 cayenne linaloe,satsuma,4
-cayenne linaloe,clove,2
 cayenne linaloe,myrtle,2
 cayenne linaloe,lemon,4
 cayenne linaloe,gruyere cheese,2
@@ -12817,7 +12807,6 @@ banana passion fruit,mint,7
 banana passion fruit,durian,14
 banana passion fruit,cream,2
 banana passion fruit,satsuma,14
-banana passion fruit,clove,4
 banana passion fruit,lemon,14
 banana passion fruit,peach,14
 banana passion fruit,wild raspberry,14
@@ -13020,7 +13009,6 @@ calabash nutmeg,mint,7
 calabash nutmeg,calytrix tetragona,4
 calabash nutmeg,sandalwood,2
 calabash nutmeg,satsuma,2
-calabash nutmeg,clove,4
 calabash nutmeg,lemon,4
 calabash nutmeg,peach,2
 calabash nutmeg,hop,4
@@ -13145,7 +13133,6 @@ bay laurel,pork belly,2
 bay laurel,cassia,4
 bay laurel,zanthoxylum rhetsa,2
 bay laurel,satsuma,2
-bay laurel,clove,4
 bay laurel,gruyere cheese,2
 bay laurel,camembert cheese,2
 bay laurel,cubeb,2
@@ -13780,7 +13767,6 @@ chinese star anise,thai pepper,10
 chinese star anise,mint,13
 chinese star anise,starfruit,6
 chinese star anise,satsuma,10
-chinese star anise,clove,9
 chinese star anise,lemon,10
 chinese star anise,southern pea,4
 chinese star anise,nectandra elaiophora,4
@@ -13834,7 +13820,7 @@ filbert,peanut,85
 filbert,geranium,7
 filbert,mozzarella cheese,59
 filbert,wild strawberry,40
-filbert,white bread,49
+filbert,white bread,48
 filbert,pinto bean,57
 filbert,southern pea,43
 filbert,mexican lime,24
@@ -13855,7 +13841,7 @@ filbert,lavender,10
 filbert,frankfurter,47
 filbert,lavandin,11
 filbert,pork liver,23
-filbert,sausage,67
+filbert,sausage,66
 filbert,porcini,55
 filbert,sauerkraut,11
 filbert,magnolia,2
@@ -13980,7 +13966,7 @@ filbert,kumquat peel,4
 filbert,seed,7
 filbert,french potato,63
 filbert,orange leaf,4
-filbert,pork belly,63
+filbert,pork belly,62
 filbert,zanthoxylum rhetsa,4
 filbert,mint,38
 filbert,tea tree,7
@@ -14037,7 +14023,7 @@ filbert,rabbiteye blueberry,40
 filbert,provolone cheese,59
 filbert,ham,67
 filbert,pennyroyal,10
-filbert,peanut butter,70
+filbert,peanut butter,69
 filbert,marjoram,14
 filbert,scallop,32
 filbert,turkey,76
@@ -14119,13 +14105,13 @@ filbert,rum,62
 filbert,thymus caespeititius,4
 filbert,sesame seed,46
 filbert,rue,4
-filbert,raspberry,63
+filbert,raspberry,62
 filbert,pike,35
 filbert,lingonberry,13
 filbert,split pea,4
 filbert,plum,32
 filbert,oatmeal,19
-filbert,shrimp,66
+filbert,shrimp,65
 filbert,pistachio,22
 filbert,rye bread,53
 filbert,java citronella,10
@@ -14552,7 +14538,7 @@ french lavender,ginger grass,6
 french lavender,liatris odoratissima,2
 french lavender,sauvignon grape,19
 french lavender,parmesan cheese,17
-french lavender,pork,68
+french lavender,pork,67
 french lavender,lilac,9
 french lavender,nut,4
 french lavender,trifolium incarnatum,2
@@ -14934,7 +14920,7 @@ fermented shrimp,feta cheese,41
 fermented shrimp,provolone cheese,41
 fermented shrimp,raspberry,38
 fermented shrimp,potato chip,16
-fermented shrimp,ham,49
+fermented shrimp,ham,48
 fermented shrimp,skim milk,10
 fermented shrimp,pike,30
 fermented shrimp,persea pubescens,2
@@ -14948,7 +14934,7 @@ fermented shrimp,laurel leaf,2
 fermented shrimp,raisin,14
 fermented shrimp,keta salmon,38
 fermented shrimp,oatmeal,10
-fermented shrimp,shrimp,77
+fermented shrimp,shrimp,76
 fermented shrimp,tilsit cheese,41
 fermented shrimp,roquefort cheese,41
 fermented shrimp,rose,9
@@ -14977,7 +14963,7 @@ fermented shrimp,tamarind,23
 fermented shrimp,herring,50
 fermented shrimp,tuna,38
 fermented shrimp,rose apple,2
-fermented shrimp,turkey,61
+fermented shrimp,turkey,60
 fermented shrimp,prickly pear,7
 fermented shrimp,watercress,10
 fermented shrimp,parsnip root,4
@@ -15063,7 +15049,7 @@ fermented shrimp,zanthoxylum rhetsa,4
 fermented shrimp,litsea cubeba,2
 fermented shrimp,mint,17
 fermented shrimp,starfruit,25
-fermented shrimp,lamb,66
+fermented shrimp,lamb,65
 fermented shrimp,satsuma,7
 fermented shrimp,pinus sabiniana,2
 fermented shrimp,gruyere cheese,41
@@ -16227,7 +16213,6 @@ cinnamon,orange leaf,4
 cinnamon,pork belly,7
 cinnamon,zanthoxylum rhetsa,4
 cinnamon,mint,26
-cinnamon,clove,29
 cinnamon,tea tree,4
 cinnamon,palm fruit,4
 cinnamon,sherry,20
@@ -16352,7 +16337,6 @@ cinnamon,fenugreek,4
 cinnamon,malabar cardamom,2
 cinnamon,papaya,18
 cinnamon,orthodon citraliferum,2
-cinnamon,clove pink,2
 cinnamon,keta salmon,10
 cinnamon,cloudberry,25
 cinnamon,garlic,2
@@ -16714,7 +16698,6 @@ buckwheat,orange leaf,4
 buckwheat,grape must,2
 buckwheat,pork belly,33
 buckwheat,mint,29
-buckwheat,clove,14
 buckwheat,phellodendron amurense fruit,2
 buckwheat,sherry,32
 buckwheat,lily,4
@@ -17325,7 +17308,7 @@ apple,guinea orange,4
 apple,dairy,11
 apple,mozzarella cheese,78
 apple,wild strawberry,67
-apple,white bread,61
+apple,white bread,60
 apple,robinia pseudoacacia,13
 apple,buchu,36
 apple,southern pea,63
@@ -17518,7 +17501,7 @@ apple,balm,4
 apple,temple orange,4
 apple,turnip,4
 apple,lentil,4
-apple,loganberry,68
+apple,loganberry,67
 apple,chokecherry,66
 apple,mexican linaloe,4
 apple,lemongrass,25
@@ -17560,7 +17543,7 @@ apple,tuna,60
 apple,cassava,10
 apple,clary sage,49
 apple,rye ergot,4
-apple,japanese peppermint,49
+apple,japanese peppermint,48
 apple,prickly pear,46
 apple,nut,32
 apple,kiwi,65
@@ -17579,7 +17562,7 @@ apple,artemisia scoparia,4
 apple,prune,40
 apple,sweet grass,14
 apple,banana,81
-apple,wheat bread,67
+apple,wheat bread,66
 apple,haddock,52
 apple,sweet potato,14
 apple,cowberry,65
@@ -17601,7 +17584,6 @@ apple,zanthoxylum rhetsa,13
 apple,mint,50
 apple,bog blueberry,65
 apple,beet root,7
-apple,clove,46
 apple,savory,6
 apple,tea tree,10
 apple,mentha crispa,6
@@ -17624,7 +17606,7 @@ apple,chinese quince,72
 apple,artemisia dracunculus,6
 apple,mastic gum,18
 apple,pepino melon,14
-apple,pineapple,77
+apple,pineapple,76
 apple,apple brandy,36
 apple,vachellia farnesiana,11
 apple,valencia orange,9
@@ -17786,7 +17768,7 @@ apple,fenugreek,20
 apple,thuja occidentalis,4
 apple,papaya,78
 apple,keta salmon,60
-apple,cloudberry,70
+apple,cloudberry,69
 apple,cucumber,28
 apple,feronia elephantum,6
 apple,hogweed,10
@@ -17865,7 +17847,7 @@ apple,toasted oat,46
 apple,trifolium pratense leaf,4
 apple,truffle,34
 apple,lime,65
-apple,pea,78
+apple,pea,77
 apple,pepper,46
 apple,artemisia herba alba,4
 apple,plum wine,10
@@ -18447,7 +18429,7 @@ soybean,turkey,71
 soybean,thymus mastichina,2
 soybean,yam,2
 soybean,spike,2
-soybean,tomato,63
+soybean,tomato,62
 soybean,tangerine,32
 soybean,tea leaf,2
 soybean,valerian,2
@@ -18459,7 +18441,7 @@ soybean,vanilla,41
 soybean,wheaten bread,51
 soybean,yellow passion fruit,18
 soybean,wheat bread,57
-soybean,strawberry,63
+soybean,strawberry,62
 soybean,wort,44
 soybean,sweet potato,13
 soybean,toasted sesame seed,21
@@ -18718,7 +18700,7 @@ herring,rue,4
 herring,petitgrain lime,7
 herring,rabbiteye blueberry,40
 herring,herring,59
-herring,provolone cheese,61
+herring,provolone cheese,60
 herring,white currant,4
 herring,raspberry,66
 herring,potato chip,24
@@ -18750,7 +18732,7 @@ herring,sauvignon grape,54
 herring,marjoram,16
 herring,wild marjoram,4
 herring,prawn,4
-herring,parmesan cheese,63
+herring,parmesan cheese,62
 herring,thea chinensis,4
 herring,radish,40
 herring,prune,4
@@ -18759,7 +18741,7 @@ herring,java citronella,18
 herring,veal,44
 herring,plumcot,7
 herring,scallop,44
-herring,soybean,66
+herring,soybean,65
 herring,wild strawberry,40
 herring,tamarind,30
 herring,oxidized milk,4
@@ -18781,7 +18763,7 @@ herring,pear brandy,10
 herring,lamb liver,4
 herring,italian lime,22
 herring,kiwi,26
-herring,tomato,61
+herring,tomato,60
 herring,horse mackerel,74
 herring,mushroom,57
 herring,pike,74
@@ -18931,7 +18913,7 @@ crownberry,sauvignon grape,40
 crownberry,pork,84
 crownberry,enokidake,27
 crownberry,lavender,16
-crownberry,currant,72
+crownberry,currant,71
 crownberry,frankfurter,22
 crownberry,lavandin,11
 crownberry,pork liver,2
@@ -19024,7 +19006,7 @@ crownberry,katsuobushi,9
 crownberry,lima bean,29
 crownberry,pawpaw,6
 crownberry,walnut,11
-crownberry,fig,49
+crownberry,fig,48
 crownberry,orange,57
 crownberry,trassi,10
 crownberry,lovage root,6
@@ -19126,7 +19108,7 @@ crownberry,taiwan citronella,2
 crownberry,romano cheese,30
 crownberry,pinus sabiniana terpentine,2
 crownberry,pumpkin,9
-crownberry,kidney bean,61
+crownberry,kidney bean,60
 crownberry,italian orange,2
 crownberry,goat cheese,30
 crownberry,yogurt,9
@@ -19285,7 +19267,7 @@ crownberry,gin,11
 crownberry,globefish,23
 crownberry,sea bass,23
 crownberry,parsnip root,2
-crownberry,potato,69
+crownberry,potato,68
 crownberry,eucalyptus globulus,4
 crownberry,peppermint,17
 crownberry,sour cherry,17
@@ -19510,7 +19492,7 @@ lime,munster cheese,24
 lime,sea bass,11
 lime,parsnip root,2
 lime,plant,4
-lime,orange,66
+lime,orange,65
 lime,myrrh,7
 lime,pecan,32
 lime,lippia carviodora,2
@@ -19729,7 +19711,6 @@ artemisae,cassia,2
 artemisae,mint,4
 artemisae,starfruit,2
 artemisae,satsuma,2
-artemisae,clove,2
 artemisae,lemon,2
 artemisae,oat,2
 artemisae,hop,4
@@ -20163,7 +20144,6 @@ brown rice,grape must,2
 brown rice,pork belly,46
 brown rice,zanthoxylum rhetsa,4
 brown rice,mint,24
-brown rice,clove,13
 brown rice,peach,29
 brown rice,sherry,38
 brown rice,lily,4
@@ -20314,7 +20294,7 @@ brown rice,garlic,9
 brown rice,hogweed,2
 brown rice,pimento,2
 brown rice,whale,31
-brown rice,pork sausage,49
+brown rice,pork sausage,48
 brown rice,butter,47
 brown rice,eucalyptus,4
 brown rice,fatty fish,70
@@ -20416,7 +20396,7 @@ brown rice,sea bass,34
 brown rice,parsnip root,2
 brown rice,valerian,2
 brown rice,citrus peel,28
-brown rice,cheddar cheese,49
+brown rice,cheddar cheese,48
 brown rice,nepeta japonica,2
 brown rice,tobacco flower,2
 brown rice,green mate,2
@@ -20569,7 +20549,7 @@ crab,laurel,4
 crab,reunion geranium,4
 crab,guava,32
 crab,passion fruit,22
-crab,milk,49
+crab,milk,48
 crab,wood spirit,4
 crab,sour milk,7
 crab,sweetfish,30
@@ -20814,7 +20794,7 @@ crab,pork belly,46
 crab,zanthoxylum rhetsa,4
 crab,mint,18
 crab,durian,4
-crab,kidney bean,68
+crab,kidney bean,67
 crab,lamb,65
 crab,satsuma,7
 crab,pinus sabiniana,4
@@ -20861,7 +20841,7 @@ crab,oyster,22
 crab,jerusalem artichoke,4
 crab,tomato,30
 crab,sperm whale,4
-crab,fatty fish,68
+crab,fatty fish,67
 crab,jasminum grandiflorum,7
 crab,green mate,4
 crab,potato,72
@@ -20952,7 +20932,7 @@ peach,petitgrain lime,4
 peach,rabbiteye blueberry,34
 peach,provolone cheese,34
 peach,purple passion fruit,2
-peach,raspberry,61
+peach,raspberry,60
 peach,sapodilla fruit,6
 peach,skim milk,4
 peach,pike,21
@@ -21279,14 +21259,14 @@ blueberry,katsuobushi,9
 blueberry,lima bean,30
 blueberry,pawpaw,7
 blueberry,walnut,13
-blueberry,fig,49
+blueberry,fig,48
 blueberry,orange,61
 blueberry,citronella grass,2
 blueberry,trassi,11
 blueberry,coffee,31
 blueberry,sapodilla,2
 blueberry,lovage root,6
-blueberry,citrus,49
+blueberry,citrus,48
 blueberry,vegetable,4
 blueberry,muskmelon,38
 blueberry,jonquil,2
@@ -21376,7 +21356,6 @@ blueberry,pork belly,29
 blueberry,zanthoxylum rhetsa,4
 blueberry,mint,30
 blueberry,bog blueberry,52
-blueberry,clove,23
 blueberry,tea tree,4
 blueberry,palm fruit,14
 blueberry,sherry,33
@@ -21518,7 +21497,6 @@ blueberry,mentha aquatica,4
 blueberry,origanum floribundum,2
 blueberry,malabar cardamom,2
 blueberry,papaya,43
-blueberry,clove pink,2
 blueberry,keta salmon,26
 blueberry,cloudberry,52
 blueberry,garlic,6
@@ -22352,7 +22330,7 @@ horse mackerel,tomato,38
 horse mackerel,sperm whale,2
 horse mackerel,morus bombycis,2
 horse mackerel,jasminum grandiflorum,4
-horse mackerel,potato,69
+horse mackerel,potato,68
 horse mackerel,rubus arcticus,7
 horse mackerel,wild berry,23
 horse mackerel,mastic gum,7
@@ -22504,7 +22482,7 @@ munster cheese,winter savory,2
 munster cheese,seal,38
 munster cheese,pine turpentine,2
 munster cheese,sausage,58
-munster cheese,mutton,67
+munster cheese,mutton,66
 munster cheese,sauerkraut,14
 munster cheese,rubus arcticus,11
 munster cheese,wort,37
@@ -23677,7 +23655,6 @@ acacia flower,israeli orange,2
 acacia flower,holy basil,2
 acacia flower,lime,2
 acacia flower,satsuma,2
-acacia flower,clove,4
 acacia flower,myrtle,2
 acacia flower,lemon,2
 acacia flower,tarragon,2
@@ -23963,7 +23940,7 @@ malt,pepper,20
 malt,wheat,4
 malt,rancid coconut,4
 malt,rum,64
-malt,salmon,77
+malt,salmon,76
 malt,tabasco pepper,10
 malt,sesame seed,52
 malt,rue,4
@@ -24149,7 +24126,7 @@ enokidake,strawberry jam,14
 enokidake,mandarin peel,4
 enokidake,sheep milk,9
 enokidake,lamb liver,4
-enokidake,sauvignon blanc grape,49
+enokidake,sauvignon blanc grape,48
 enokidake,loganberry,28
 enokidake,malt,63
 enokidake,myrtleberry,27
@@ -24164,11 +24141,11 @@ enokidake,frankfurter,33
 enokidake,lavandin,7
 enokidake,pork liver,11
 enokidake,sausage,53
-enokidake,guava,49
+enokidake,guava,48
 enokidake,sauerkraut,13
 enokidake,tarragon,2
 enokidake,magnolia,2
-enokidake,milk,49
+enokidake,milk,48
 enokidake,white wine,55
 enokidake,litchi,14
 enokidake,filbert,55
@@ -24188,7 +24165,7 @@ enokidake,mussel,16
 enokidake,ruta pinnata leaf,2
 enokidake,radish,18
 enokidake,oak musk,6
-enokidake,soybean,61
+enokidake,soybean,60
 enokidake,laurel leaf,2
 enokidake,herring,57
 enokidake,rose apple,6
@@ -24209,7 +24186,7 @@ enokidake,olive,28
 enokidake,malt whiskey,10
 enokidake,krill,11
 enokidake,spearmint,27
-enokidake,rice,49
+enokidake,rice,48
 enokidake,hog plum,6
 enokidake,pelargonium tomentosum,2
 enokidake,hinoki,2
@@ -24292,7 +24269,7 @@ enokidake,macadamia nut,32
 enokidake,raisin,21
 enokidake,mentha timija,4
 enokidake,mangosteen,2
-enokidake,sauvignon grape,49
+enokidake,sauvignon grape,48
 enokidake,helichrysum italicum,2
 enokidake,japanese peppermint,21
 enokidake,eucalyptus goniocalyx,2
@@ -24321,10 +24298,10 @@ enokidake,seal,34
 enokidake,ginger,30
 enokidake,kumquat peel,7
 enokidake,seed,2
-enokidake,french potato,49
+enokidake,french potato,48
 enokidake,orange leaf,6
 enokidake,grape must,2
-enokidake,pork belly,49
+enokidake,pork belly,48
 enokidake,zanthoxylum rhetsa,4
 enokidake,mint,32
 enokidake,sherry,49
@@ -24368,7 +24345,7 @@ enokidake,italian orange,2
 enokidake,trametes graveolens,4
 enokidake,goat cheese,52
 enokidake,mandarin,22
-enokidake,muscat grape,49
+enokidake,muscat grape,48
 enokidake,tobacco,9
 enokidake,eucalyptus maideni,2
 enokidake,whitefish,37
@@ -24429,7 +24406,7 @@ enokidake,fermented radish,2
 enokidake,ewe,33
 enokidake,vegetable,4
 enokidake,jamaican rum,54
-enokidake,muscadine grape,49
+enokidake,muscadine grape,48
 enokidake,strawberry,53
 enokidake,fenugreek,14
 enokidake,papaya,47
@@ -24440,7 +24417,7 @@ enokidake,garlic,7
 enokidake,hogweed,2
 enokidake,pimento,2
 enokidake,tuna,43
-enokidake,pork sausage,49
+enokidake,pork sausage,48
 enokidake,eucalyptus,9
 enokidake,fatty fish,70
 enokidake,jasminum grandiflorum,6
@@ -26624,7 +26601,7 @@ pinto bean,rapeseed,7
 pinto bean,sturgeon caviar,11
 pinto bean,tuna,38
 pinto bean,pork sausage,46
-pinto bean,tomato,49
+pinto bean,tomato,48
 pinto bean,sperm whale,2
 pinto bean,potato,76
 pinto bean,rhubarb,7
@@ -27035,7 +27012,6 @@ chestnut flower,kumquat peel,2
 chestnut flower,tuberose,9
 chestnut flower,thai pepper,2
 chestnut flower,starfruit,4
-chestnut flower,clove,2
 chestnut flower,lemon,4
 chestnut flower,dill blossom,9
 chestnut flower,peach,2
@@ -27277,7 +27253,6 @@ carrot,orange leaf,6
 carrot,pork belly,18
 carrot,zanthoxylum rhetsa,2
 carrot,mint,23
-carrot,clove,13
 carrot,tea tree,4
 carrot,palm fruit,4
 carrot,sherry,16
@@ -28149,7 +28124,7 @@ tuberose,vachellia farnesiana,6
 tuberose,wine,4
 tuberose,turmeric,2
 lamb,mastic gum fruit,10
-lamb,rose wine,66
+lamb,rose wine,65
 lamb,whole grain wheat flour,18
 lamb,matsutake,70
 lamb,tobacco leaf,14
@@ -28194,7 +28169,7 @@ lamb,yogurt,47
 lamb,mexican lime,30
 lamb,truffle,33
 lamb,muskmelon,55
-lamb,muscat grape,63
+lamb,muscat grape,62
 lamb,sparkling wine,65
 lamb,strawberry jam,21
 lamb,mandarin peel,10
@@ -28208,7 +28183,7 @@ lamb,thymus,6
 lamb,long pepper,10
 lamb,petitgrain,10
 lamb,whitefish,64
-lamb,sauvignon blanc grape,63
+lamb,sauvignon blanc grape,62
 lamb,snap bean,66
 lamb,nutmeg,14
 lamb,teucrium chamaedrys,6
@@ -28248,7 +28223,7 @@ lamb,mutton liver,11
 lamb,mandarin,33
 lamb,quince,30
 lamb,lime,30
-lamb,mantis shrimp,66
+lamb,mantis shrimp,65
 lamb,pea,70
 lamb,pepper,18
 lamb,lemon balm,24
@@ -28262,7 +28237,7 @@ lamb,rue,14
 lamb,spanish peanut,6
 lamb,petitgrain lime,10
 lamb,rabbiteye blueberry,49
-lamb,provolone cheese,72
+lamb,provolone cheese,71
 lamb,raspberry,75
 lamb,sapodilla fruit,10
 lamb,skim milk,27
@@ -28270,7 +28245,7 @@ lamb,pike,64
 lamb,persea pubescens,6
 lamb,wild bergamot,6
 lamb,peated malt,10
-lamb,romano cheese,72
+lamb,romano cheese,71
 lamb,petitgrain lemon,14
 lamb,pennyroyal,14
 lamb,macadamia nut,62
@@ -28285,7 +28260,7 @@ lamb,mussel,18
 lamb,mentha timija,6
 lamb,octopus,6
 lamb,peanut butter,75
-lamb,sauvignon grape,63
+lamb,sauvignon grape,62
 lamb,marjoram,18
 lamb,seabream,64
 lamb,parmesan cheese,75
@@ -28322,13 +28297,13 @@ lamb,tangerine,33
 lamb,munster cheese,71
 lamb,sea bass,64
 lamb,parsnip root,6
-lamb,orange,63
+lamb,orange,62
 lamb,wild rice,10
 lamb,pinus jeffreyi,6
 lamb,pecan,80
 lamb,liver,10
 lamb,olive,47
-lamb,muscadine grape,63
+lamb,muscadine grape,62
 lamb,sweetfish,64
 lamb,malt whiskey,14
 lamb,spearmint,43
@@ -28343,7 +28318,7 @@ lamb,sheep cheese,72
 lamb,yellow passion fruit,10
 lamb,peppermint,33
 lamb,sesame,10
-lamb,whiskey,66
+lamb,whiskey,65
 lamb,malagueta pepper,10
 lamb,wort,59
 lamb,sweet potato,18
@@ -28410,8 +28385,8 @@ lamb,rubus arcticus,14
 lamb,ruta montana,6
 lamb,wild berry,49
 lamb,mastic gum,24
-lamb,mango,63
-lamb,veal,77
+lamb,mango,62
+lamb,veal,76
 lamb,pineapple,51
 lamb,valerian,6
 lamb,scotch,14
@@ -28646,7 +28621,7 @@ camembert cheese,sauerkraut,14
 camembert cheese,magnolia,2
 camembert cheese,umbelliferae,2
 camembert cheese,milk,62
-camembert cheese,white wine,65
+camembert cheese,white wine,64
 camembert cheese,litchi,14
 camembert cheese,filbert,60
 camembert cheese,tabasco pepper,9
@@ -28672,7 +28647,7 @@ camembert cheese,laurel leaf,2
 camembert cheese,herring,61
 camembert cheese,crownberry,30
 camembert cheese,lime,24
-camembert cheese,raspberry,63
+camembert cheese,raspberry,62
 camembert cheese,rutabaga,11
 camembert cheese,sake,21
 camembert cheese,pear brandy,6
@@ -28833,7 +28808,7 @@ camembert cheese,spanish anise,2
 camembert cheese,sweet potato,6
 camembert cheese,seseli tortuosum,2
 camembert cheese,toasted sesame seed,14
-camembert cheese,coconut,66
+camembert cheese,coconut,65
 camembert cheese,cinnamomum,2
 camembert cheese,seal,40
 camembert cheese,ginger,35
@@ -28845,9 +28820,8 @@ camembert cheese,grape must,4
 camembert cheese,pork belly,56
 camembert cheese,zanthoxylum rhetsa,4
 camembert cheese,mint,24
-camembert cheese,clove,18
 camembert cheese,phellodendron amurense fruit,2
-camembert cheese,sherry,63
+camembert cheese,sherry,62
 camembert cheese,lily,4
 camembert cheese,ceylon cinnamon,4
 camembert cheese,lavender vera,2
@@ -28916,7 +28890,7 @@ camembert cheese,cape gooseberry,45
 camembert cheese,eucalyptus amygdalina,4
 camembert cheese,ceylon tea citronella,2
 camembert cheese,corn tortilla,11
-camembert cheese,mutton,68
+camembert cheese,mutton,67
 camembert cheese,sour cherry,11
 camembert cheese,caprifoliaceae,2
 camembert cheese,elderberry,36
@@ -28985,7 +28959,7 @@ camembert cheese,catfish,40
 camembert cheese,sapodilla,2
 camembert cheese,vegetable,4
 camembert cheese,starfruit,37
-camembert cheese,jamaican rum,65
+camembert cheese,jamaican rum,64
 camembert cheese,muscadine grape,55
 camembert cheese,fenugreek,13
 camembert cheese,citrus flower,2
@@ -29064,7 +29038,7 @@ camembert cheese,piri piri,2
 camembert cheese,pepper,14
 camembert cheese,wheat,2
 camembert cheese,rancid coconut,2
-camembert cheese,rum,65
+camembert cheese,rum,64
 camembert cheese,corn,60
 camembert cheese,sesame seed,27
 camembert cheese,rue,6
@@ -29084,7 +29058,7 @@ camembert cheese,cranberry,46
 camembert cheese,chive,7
 camembert cheese,phellodendron japonicum,2
 camembert cheese,citrus leaf,2
-camembert cheese,rye bread,49
+camembert cheese,rye bread,48
 camembert cheese,java citronella,7
 camembert cheese,plumcot,11
 camembert cheese,cocoa,76
@@ -29501,7 +29475,6 @@ brazil rosewood,plant,2
 brazil rosewood,roquefort cheese,2
 brazil rosewood,buckwheat,4
 brazil rosewood,salmon,4
-brazil rosewood,clove,2
 brazil rosewood,keta salmon,2
 brazil rosewood,navy bean,2
 brazil rosewood,sturgeon caviar,2
@@ -29545,7 +29518,7 @@ hop,olive,45
 hop,schizandra nigra,4
 hop,reunion geranium,10
 hop,porcini,60
-hop,passion fruit,63
+hop,passion fruit,62
 hop,milk,61
 hop,sour milk,4
 hop,hyssop,4
@@ -29623,7 +29596,7 @@ hop,whiskey,47
 hop,pear brandy,4
 hop,pinto bean,55
 hop,rice bran,7
-hop,shrimp,68
+hop,shrimp,67
 hop,tuberose,4
 hop,lamb,75
 hop,pinus sabiniana,4
@@ -29731,7 +29704,7 @@ hop,mastic gum fruit,10
 hop,wood spirit,4
 hop,matsutake,61
 hop,sage,13
-hop,rose wine,61
+hop,rose wine,60
 hop,shellfish,4
 hop,nectarine,32
 hop,spanish sage,10
@@ -29768,7 +29741,7 @@ hop,peanut butter,64
 hop,marjoram,28
 hop,scallop,44
 hop,walnut,18
-hop,turkey,68
+hop,turkey,67
 hop,shiitake,60
 hop,parsley,34
 hop,yam,4
@@ -29792,7 +29765,7 @@ hop,japanese plum,4
 hop,rosa bourboniana,4
 hop,juniperus phoenicea,4
 hop,wild raspberry,44
-hop,jamaican rum,66
+hop,jamaican rum,65
 hop,muscadine grape,63
 hop,papaya,62
 hop,orthodon citraliferum,4
@@ -29817,7 +29790,7 @@ hop,juniper berry,44
 hop,kelp,16
 hop,kumquat,4
 hop,russian cheese,68
-hop,port wine,61
+hop,port wine,60
 hop,safflower seed,13
 hop,lemon peel,13
 hop,jackfruit,18
@@ -29841,7 +29814,7 @@ hop,marula,4
 hop,pepper,52
 hop,plum wine,2
 hop,rancid coconut,4
-hop,rum,66
+hop,rum,65
 hop,thymus caespeititius,4
 hop,sesame seed,32
 hop,rue,10
@@ -30741,7 +30714,6 @@ cardamom,grape must,2
 cardamom,pork belly,24
 cardamom,zanthoxylum rhetsa,4
 cardamom,mint,32
-cardamom,clove,14
 cardamom,tea tree,4
 cardamom,phellodendron amurense fruit,2
 cardamom,peach,16
@@ -31280,7 +31252,7 @@ plum brandy,whitefish,9
 plum brandy,snap bean,14
 plum brandy,sour cherry,4
 plum brandy,sauvignon grape,18
-plum brandy,pork,63
+plum brandy,pork,62
 plum brandy,wintergreen,2
 plum brandy,sheep cheese,16
 plum brandy,scotch spearmint,10
@@ -31458,7 +31430,7 @@ cabbage,pork,87
 cabbage,sheep cheese,32
 cabbage,cabernet sauvignon grape,22
 cabbage,lavender,10
-cabbage,currant,49
+cabbage,currant,48
 cabbage,frankfurter,20
 cabbage,lavandin,7
 cabbage,iberis sempervirens seed,4
@@ -31601,7 +31573,6 @@ cabbage,orange leaf,4
 cabbage,pork belly,34
 cabbage,welsh onion,4
 cabbage,mint,22
-cabbage,clove,7
 cabbage,sherry,38
 cabbage,lily,4
 cabbage,salmon,54
@@ -31941,7 +31912,7 @@ tomato,trifolium incarnatum,2
 tomato,winter savory,2
 tomato,vervain,2
 tomato,tuberose,2
-tomato,turkey,63
+tomato,turkey,62
 tomato,yam,2
 tomato,white wine,60
 tomato,tulip,2
@@ -32127,7 +32098,7 @@ cod,mung bean,31
 cod,rosemary,7
 cod,french peppermint,10
 cod,parmesan cheese,42
-cod,fish,88
+cod,fish,87
 cod,prawn,2
 cod,petitgrain,4
 cod,lemongrass,9
@@ -32527,7 +32498,7 @@ mango,sherry wine,2
 mango,wood,6
 mango,spanish sage,7
 mango,taiwan citronella,2
-mango,mozzarella cheese,49
+mango,mozzarella cheese,48
 mango,wild strawberry,43
 mango,white bread,27
 mango,violet flower,6
@@ -32660,7 +32631,7 @@ mango,whale,25
 mango,rose apple,20
 mango,turkey,55
 mango,yam,2
-mango,raspberry,68
+mango,raspberry,67
 mango,mindanaese cinnamomum,2
 mango,rutabaga,9
 mango,sake,18
@@ -33514,7 +33485,6 @@ california pepper,wild berry,13
 california pepper,pork belly,2
 california pepper,mint,23
 california pepper,calytrix tetragona,2
-california pepper,clove,17
 california pepper,tea tree,4
 california pepper,palm fruit,4
 california pepper,sherry,14
@@ -33843,7 +33813,6 @@ benzoin,crisp bread,4
 benzoin,seed,4
 benzoin,bourbon whiskey,2
 benzoin,bog blueberry,2
-benzoin,clove,7
 benzoin,wild raspberry,2
 benzoin,catfish,4
 benzoin,sherry,4
@@ -34182,7 +34151,7 @@ french bean,palm fruit,4
 french bean,sherry,44
 french bean,lily,4
 french bean,lavender vera,2
-french bean,salmon,61
+french bean,salmon,60
 french bean,orange peel,13
 french bean,mace,9
 french bean,seabream,31
@@ -34775,7 +34744,6 @@ cajeput,mint,4
 cajeput,starfruit,4
 cajeput,lamb,6
 cajeput,satsuma,6
-cajeput,clove,7
 cajeput,myrtle,10
 cajeput,lemon,6
 cajeput,gruyere cheese,4
@@ -34844,7 +34812,6 @@ artemisia ferganensis,monkey orange,2
 artemisia ferganensis,mint,2
 artemisia ferganensis,dill seed,2
 artemisia ferganensis,satsuma,2
-artemisia ferganensis,clove,2
 artemisia ferganensis,lemon,2
 artemisia ferganensis,israeli orange,2
 artemisia ferganensis,mexican lime,2
@@ -35429,7 +35396,7 @@ lima bean,tea tree,4
 lima bean,white wine,52
 lima bean,palm fruit,4
 lima bean,saffron,4
-lima bean,tomato,49
+lima bean,tomato,48
 lima bean,oat,26
 lima bean,macaroni,7
 lima bean,sapodilla,2
@@ -35447,7 +35414,7 @@ lima bean,origanum,6
 lima bean,wheat flake,7
 lima bean,tahiti vanilla,2
 lima bean,myrocarpus fastigiatus,2
-lima bean,salmon,61
+lima bean,salmon,60
 lima bean,melaleuca smithii,2
 lima bean,orange peel,13
 lima bean,plum brandy,14
@@ -35695,7 +35662,6 @@ avocado,zanthoxylum rhetsa,2
 avocado,mint,22
 avocado,bog blueberry,29
 avocado,beet root,4
-avocado,clove,9
 avocado,tea tree,4
 avocado,palm fruit,14
 avocado,sherry,23
@@ -35720,7 +35686,7 @@ avocado,sage,6
 avocado,bantu beer,28
 avocado,capsicum annuum,6
 avocado,fennel,6
-avocado,chicken,67
+avocado,chicken,66
 avocado,nectarine,20
 avocado,echinacea,2
 avocado,celery,24
@@ -36341,7 +36307,7 @@ fig,prunus,24
 fig,nectarine,45
 fig,rose,10
 fig,lemon flower,4
-fig,juniper berry,49
+fig,juniper berry,48
 fig,pawpaw,11
 fig,walnut,20
 fig,wood apple,4
@@ -36352,14 +36318,14 @@ fig,kelp,10
 fig,fig,45
 fig,taiwan citronella,4
 fig,mozzarella cheese,42
-fig,wild strawberry,49
+fig,wild strawberry,48
 fig,white bread,27
 fig,rice,41
 fig,mackerel,32
 fig,robinia pseudoacacia,7
 fig,pumpkin,7
 fig,russian cheese,42
-fig,port wine,49
+fig,port wine,48
 fig,pinto bean,38
 fig,safflower seed,7
 fig,kidney bean,68
@@ -36399,7 +36365,7 @@ fig,ham,53
 fig,mung bean,38
 fig,rosemary,10
 fig,french peppermint,20
-fig,myrtleberry,49
+fig,myrtleberry,48
 fig,pilchard,32
 fig,pork,89
 fig,goat milk,4
@@ -36415,7 +36381,7 @@ fig,monkey orange,38
 fig,grape vine,4
 fig,japanese seafood,4
 fig,lavandin,7
-fig,loganberry,49
+fig,loganberry,48
 fig,reunion geranium,4
 fig,thea chinensis,4
 fig,lemongrass,10
@@ -36449,7 +36415,7 @@ fig,tabasco pepper,10
 fig,sesame seed,30
 fig,rue,4
 fig,french lavender,7
-fig,rabbiteye blueberry,49
+fig,rabbiteye blueberry,48
 fig,zanthoxylum piperitum fruit,4
 fig,provolone cheese,42
 fig,green bell pepper,7
@@ -36491,7 +36457,7 @@ fig,parsley,22
 fig,onion,4
 fig,scallop,18
 fig,oak musk,4
-fig,soybean,49
+fig,soybean,48
 fig,passiflora edulis,4
 fig,narcissus,7
 fig,tamarind,28
@@ -36585,13 +36551,13 @@ fig,lemon,43
 fig,gruyere cheese,46
 fig,peach,43
 fig,rhubarb,4
-fig,wild raspberry,49
+fig,wild raspberry,48
 fig,tea tree,7
-fig,huckleberry,49
+fig,huckleberry,48
 fig,mentha crispa,4
 fig,saffron,7
 fig,tomato,45
-fig,wild berry,49
+fig,wild berry,48
 fig,oat,26
 fig,hop,54
 fig,sherry,47
@@ -36733,7 +36699,7 @@ orange,rubus arcticus,11
 orange,sea algae,4
 orange,pinaceae,7
 orange,white wine,65
-orange,swiss cheese,61
+orange,swiss cheese,60
 orange,toasted oat,25
 orange,pine,2
 orange,trifolium pratense leaf,2
@@ -36782,7 +36748,7 @@ orange,rye bread,38
 orange,plumcot,18
 orange,scallop,26
 orange,tomato,62
-orange,soybean,61
+orange,soybean,60
 orange,passiflora edulis,4
 orange,tamarind,38
 orange,vervain,6
@@ -36804,7 +36770,7 @@ orange,squid,6
 orange,vinegar,24
 orange,shallot,9
 orange,picea balsamea,2
-orange,tangerine,69
+orange,tangerine,68
 orange,sea bass,34
 orange,wood apple,10
 orange,plant,7
@@ -36870,7 +36836,7 @@ orange,orris,11
 orange,tuberose,11
 orange,wood spirit,4
 orange,zanthoxylum piperitum,2
-orange,strawberry,72
+orange,strawberry,71
 orange,origanum floribundum,2
 orange,ormenis multicaulis,4
 orange,papaya,63
@@ -37059,7 +37025,7 @@ coffee,sauvignon blanc grape,49
 coffee,loganberry,28
 coffee,orange tree,2
 coffee,myrtleberry,26
-coffee,pork,95
+coffee,pork,94
 coffee,randia formosa flower,2
 coffee,enokidake,52
 coffee,lavender,24
@@ -37217,7 +37183,7 @@ coffee,garlic,10
 coffee,mentha timija,2
 coffee,mangosteen,4
 coffee,dwarf pine,2
-coffee,sauvignon grape,49
+coffee,sauvignon grape,48
 coffee,licorice,30
 coffee,eucalyptus goniocalyx,2
 coffee,lettuce,7
@@ -37253,13 +37219,13 @@ coffee,seal,38
 coffee,ginger,29
 coffee,kumquat peel,6
 coffee,seed,6
-coffee,french potato,61
+coffee,french potato,60
 coffee,orange leaf,6
 coffee,grape must,2
 coffee,pork belly,58
 coffee,mint,21
 coffee,phellodendron amurense fruit,2
-coffee,sherry,61
+coffee,sherry,60
 coffee,lily,4
 coffee,manila copal,2
 coffee,lavender vera,2
@@ -37317,7 +37283,7 @@ coffee,elderberry,35
 coffee,yogurt,34
 coffee,lemon balm,13
 coffee,myrcia acris,2
-coffee,concord grape,49
+coffee,concord grape,48
 coffee,petitgrain lime,4
 coffee,rabbiteye blueberry,26
 coffee,feta cheese,58
@@ -37331,7 +37297,7 @@ coffee,monodora grandiflora,2
 coffee,peanut butter,65
 coffee,marjoram,7
 coffee,scallop,33
-coffee,turkey,69
+coffee,turkey,68
 coffee,shiitake,52
 coffee,parsley,18
 coffee,filipendula ulmaria flower,4
@@ -37370,7 +37336,7 @@ coffee,sapodilla,2
 coffee,vegetable,7
 coffee,cream,27
 coffee,jamaican rum,63
-coffee,muscadine grape,49
+coffee,muscadine grape,48
 coffee,fenugreek,10
 coffee,papaya,45
 coffee,orthodon citraliferum,2
@@ -37454,7 +37420,7 @@ coffee,split pea,2
 coffee,petitgrain lemon,7
 coffee,plum,25
 coffee,oatmeal,18
-coffee,shrimp,68
+coffee,shrimp,67
 coffee,pistachio,7
 coffee,imperatoria,2
 coffee,cranberry,40
@@ -38028,7 +37994,6 @@ citrus,french potato,34
 citrus,pork belly,29
 citrus,zanthoxylum rhetsa,4
 citrus,mint,45
-citrus,clove,31
 citrus,tea tree,4
 citrus,mentha crispa,2
 citrus,sherry,36
@@ -38430,7 +38395,6 @@ castoreum,orange leaf,4
 castoreum,pork belly,4
 castoreum,tuberose,2
 castoreum,lamb,10
-castoreum,clove,2
 castoreum,stirlingia latifolia,2
 castoreum,ewe,4
 castoreum,sherry,4
@@ -38648,7 +38612,6 @@ bartlett pear,pork belly,17
 bartlett pear,zanthoxylum rhetsa,2
 bartlett pear,mint,18
 bartlett pear,bog blueberry,27
-bartlett pear,clove,13
 bartlett pear,tea tree,4
 bartlett pear,palm fruit,14
 bartlett pear,sherry,25
@@ -38861,7 +38824,7 @@ bartlett pear,globefish,11
 bartlett pear,sea bass,11
 bartlett pear,parsnip root,2
 bartlett pear,boronia dentigeroides,2
-bartlett pear,potato,49
+bartlett pear,potato,48
 bartlett pear,citrus peel,34
 bartlett pear,cheddar cheese,24
 bartlett pear,daffodil,2
@@ -38917,7 +38880,7 @@ muskmelon,pinaceae,2
 muskmelon,russian champagne,2
 muskmelon,sour milk,6
 muskmelon,nectarine,37
-muskmelon,peanut,65
+muskmelon,peanut,64
 muskmelon,pawpaw,16
 muskmelon,walnut,11
 muskmelon,wood apple,4
@@ -39049,7 +39012,7 @@ muskmelon,spearmint,26
 muskmelon,passiflora mollissima,2
 muskmelon,violet flower,2
 muskmelon,prune,17
-muskmelon,raspberry,61
+muskmelon,raspberry,60
 muskmelon,sweet grass,10
 muskmelon,vanilla,26
 muskmelon,wheaten bread,23
@@ -39089,7 +39052,7 @@ muskmelon,papaver somniferum,2
 muskmelon,oat,19
 muskmelon,veal,22
 muskmelon,orris,7
-muskmelon,strawberry,61
+muskmelon,strawberry,60
 muskmelon,tuna,28
 muskmelon,plant,4
 muskmelon,papaya,46
@@ -39440,7 +39403,6 @@ bread,grape must,4
 bread,pork belly,36
 bread,zanthoxylum rhetsa,2
 bread,mint,16
-bread,clove,7
 bread,sherry,36
 bread,lily,4
 bread,ceylon cinnamon,2
@@ -40533,7 +40495,7 @@ cider,wild berry,14
 cider,mango,35
 cider,eucalyptus macarthurii,2
 cider,egg,9
-cider,wine,68
+cider,wine,67
 cider,french bean,22
 cider,grapefruit peel,4
 cider,katsuobushi,6
@@ -40610,7 +40572,6 @@ cider,grape must,2
 cider,pork belly,19
 cider,zanthoxylum rhetsa,2
 cider,mint,13
-cider,clove,10
 cider,sherry,52
 cider,lily,2
 cider,salmon,36
@@ -41182,7 +41143,7 @@ sauvignon blanc grape,trifolium incarnatum,2
 sauvignon blanc grape,tamarind,32
 sauvignon blanc grape,tuna,40
 sauvignon blanc grape,turkey,58
-sauvignon blanc grape,shiitake,49
+sauvignon blanc grape,shiitake,48
 sauvignon blanc grape,winter melon,2
 sauvignon blanc grape,yam,2
 sauvignon blanc grape,whale,26
@@ -41500,7 +41461,7 @@ mung bean,oxidized skim milk,2
 mung bean,spike,2
 mung bean,sesame,2
 mung bean,wood tar,2
-mung bean,tomato,49
+mung bean,tomato,48
 mung bean,squid,9
 mung bean,mushroom,50
 mung bean,neroli,16
@@ -42266,7 +42227,7 @@ parmesan cheese,scotch spearmint,20
 parmesan cheese,wild strawberry,34
 parmesan cheese,ruta montana,2
 parmesan cheese,pinus jeffreyi,2
-parmesan cheese,pecan,61
+parmesan cheese,pecan,60
 parmesan cheese,polyalthia canangioides flower,2
 parmesan cheese,sweetfish,42
 parmesan cheese,spearmint,31
@@ -42699,7 +42660,7 @@ borosma pulchellum,callitris intratropica,2
 borosma pulchellum,lemongrass,2
 borosma pulchellum,zanthoxylum piperitum,2
 borosma pulchellum,mandarin peel,4
-fish,mackerel,88
+fish,mackerel,87
 fish,olive,64
 fish,teucrium chamaedrys,9
 fish,grape vine,2
@@ -42770,7 +42731,7 @@ fish,sake,60
 fish,pear brandy,24
 fish,thymus mastichina,9
 fish,italian lime,46
-fish,horse mackerel,88
+fish,horse mackerel,87
 fish,tangerine,57
 fish,munster cheese,81
 fish,melon,67
@@ -42780,7 +42741,7 @@ fish,pecan,83
 fish,loquat,64
 fish,malt whiskey,21
 fish,krill,38
-fish,spearmint,72
+fish,spearmint,71
 fish,pickled ham,9
 fish,hog plum,11
 fish,hinoki,7
@@ -42868,10 +42829,10 @@ fish,hazelnut,28
 fish,prune,11
 fish,sweet grass,21
 fish,wheat bread,79
-fish,haddock,88
+fish,haddock,87
 fish,sweet potato,24
 fish,seseli tortuosum,9
-fish,toasted sesame seed,49
+fish,toasted sesame seed,48
 fish,ginger,67
 fish,kumquat peel,9
 fish,seed,21
@@ -42887,14 +42848,14 @@ fish,lavender vera,9
 fish,salmon,94
 fish,orange peel,55
 fish,mace,18
-fish,seabream,88
+fish,seabream,87
 fish,watercress,28
-fish,oyster,67
+fish,oyster,66
 fish,sperm whale,9
 fish,myrocarpus frondosus,2
 fish,mastic gum,30
 fish,pepino melon,18
-fish,pineapple,65
+fish,pineapple,64
 fish,vachellia farnesiana,4
 fish,valencia orange,9
 fish,scotch,31
@@ -42916,7 +42877,7 @@ fish,mandarin,50
 fish,watermelon,2
 fish,muscat grape,78
 fish,tobacco,10
-fish,whitefish,88
+fish,whitefish,87
 fish,rafanus sativus root,9
 fish,nutmeg,33
 fish,goat milk,19
@@ -42941,7 +42902,7 @@ fish,marjoram,32
 fish,thea chinensis,10
 fish,scallop,69
 fish,oxidized milk,9
-fish,turkey,88
+fish,turkey,87
 fish,shiitake,79
 fish,parsley,55
 fish,yam,2
@@ -42951,7 +42912,7 @@ fish,vinegar,43
 fish,lilium candidum flower,4
 fish,scotch whiskey,10
 fish,liver,9
-fish,sweetfish,88
+fish,sweetfish,87
 fish,kumquat,2
 fish,vanilla,61
 fish,wheaten bread,76
@@ -42970,12 +42931,12 @@ fish,strawberry,80
 fish,papaya,71
 fish,polysiphonia fastigiata,9
 fish,mutton liver,9
-fish,keta salmon,88
+fish,keta salmon,87
 fish,fruit,2
 fish,garlic,16
 fish,hogweed,9
 fish,pimento,2
-fish,tuna,88
+fish,tuna,87
 fish,pork sausage,80
 fish,jasminum grandiflorum,18
 fish,green mate,11
@@ -42989,7 +42950,7 @@ fish,huckleberry,67
 fish,sunflower,9
 fish,rose,28
 fish,juniper berry,67
-fish,grapefruit,68
+fish,grapefruit,67
 fish,kelp,27
 fish,violet flower,13
 fish,fumaria officinalis,2
@@ -43006,7 +42967,7 @@ fish,japanese mint,42
 fish,onion,74
 fish,soursop,2
 fish,snap bean,76
-fish,pilchard,88
+fish,pilchard,87
 fish,palm,16
 fish,leaf,40
 fish,okra,37
@@ -43022,7 +42983,7 @@ fish,rum,77
 fish,sesame seed,70
 fish,rue,9
 fish,raspberry,83
-fish,pike,88
+fish,pike,87
 fish,lingonberry,24
 fish,petitgrain lemon,22
 fish,plum,60
@@ -43037,8 +42998,8 @@ fish,plumcot,17
 fish,rice,78
 fish,israeli orange,68
 fish,gin,28
-fish,globefish,88
-fish,sea bass,88
+fish,globefish,87
+fish,sea bass,87
 fish,valerian,9
 fish,tobacco flower,9
 fish,peppermint,47
@@ -43052,7 +43013,7 @@ fish,sandalwood,7
 fish,satsuma,38
 fish,myrtle,2
 fish,lemon,56
-fish,peach,65
+fish,peach,64
 fish,oat,68
 fish,orris,25
 fish,leek,76
@@ -43193,7 +43154,6 @@ pinus sabiniana terpentine,veal,2
 pinus sabiniana terpentine,sweet potato,2
 pinus sabiniana terpentine,wine,4
 artemisia hausiliensis,mastic gum fruit,2
-artemisia hausiliensis,clove,2
 artemisia hausiliensis,lemon,2
 artemisia hausiliensis,boldo,2
 artemisia hausiliensis,eucalyptus globulus,2
@@ -43507,7 +43467,7 @@ chokecherry,katsuobushi,9
 chokecherry,lima bean,29
 chokecherry,pawpaw,6
 chokecherry,walnut,11
-chokecherry,fig,49
+chokecherry,fig,48
 chokecherry,orange,57
 chokecherry,citronella grass,2
 chokecherry,trassi,10
@@ -43587,7 +43547,6 @@ chokecherry,orange leaf,4
 chokecherry,pork belly,28
 chokecherry,zanthoxylum rhetsa,4
 chokecherry,mint,30
-chokecherry,clove,20
 chokecherry,tea tree,4
 chokecherry,mentha crispa,2
 chokecherry,sherry,30
@@ -43622,7 +43581,7 @@ chokecherry,taiwan citronella,2
 chokecherry,romano cheese,30
 chokecherry,rice,27
 chokecherry,pumpkin,9
-chokecherry,kidney bean,61
+chokecherry,kidney bean,60
 chokecherry,italian orange,2
 chokecherry,goat cheese,30
 chokecherry,yogurt,9
@@ -43707,7 +43666,6 @@ chokecherry,strawberry,53
 chokecherry,fenugreek,4
 chokecherry,malabar cardamom,2
 chokecherry,papaya,40
-chokecherry,clove pink,2
 chokecherry,keta salmon,25
 chokecherry,fruit,17
 chokecherry,garlic,6
@@ -43836,7 +43794,7 @@ chokecherry,sturgeon caviar,2
 chokecherry,tangerine peel,2
 chokecherry,violet leaf,6
 chokecherry,morus bombycis,2
-chokecherry,potato,69
+chokecherry,potato,68
 chokecherry,guarana,14
 chokecherry,pinus jeffreyi,2
 mexican linaloe,sauvignon grape,4
@@ -44283,39 +44241,6 @@ sea algae,whiskey,2
 sea algae,seaweed,2
 sea algae,wild strawberry,2
 sea algae,wine,2
-polysiphonia fastigiata,trassi,2
-polysiphonia fastigiata,pork,18
-polysiphonia fastigiata,squid,2
-polysiphonia fastigiata,scallop,2
-polysiphonia fastigiata,pork belly,2
-polysiphonia fastigiata,porcini,2
-polysiphonia fastigiata,whitefish,2
-polysiphonia fastigiata,sweetfish,2
-polysiphonia fastigiata,sauerkraut,2
-polysiphonia fastigiata,tilsit cheese,2
-polysiphonia fastigiata,sake,2
-polysiphonia fastigiata,shiitake,2
-polysiphonia fastigiata,swiss cheese,2
-polysiphonia fastigiata,romano cheese,2
-polysiphonia fastigiata,rice,2
-polysiphonia fastigiata,russian cheese,2
-polysiphonia fastigiata,roquefort cheese,2
-polysiphonia fastigiata,rum,2
-polysiphonia fastigiata,shallot,2
-polysiphonia fastigiata,salmon,4
-polysiphonia fastigiata,sea bass,2
-polysiphonia fastigiata,rapeseed,2
-polysiphonia fastigiata,provolone cheese,2
-polysiphonia fastigiata,seabream,2
-polysiphonia fastigiata,tuna,2
-polysiphonia fastigiata,pork sausage,2
-polysiphonia fastigiata,potato,7
-polysiphonia fastigiata,sheep cheese,2
-polysiphonia fastigiata,shrimp,4
-polysiphonia fastigiata,wheat bread,2
-polysiphonia fastigiata,rafanus sativus root,2
-polysiphonia fastigiata,potato chip,2
-polysiphonia fastigiata,southern pea,2
 ximenia aegyptiaca,yogurt,2
 oak tar,tomato,2
 oak tar,pork,2
@@ -44594,7 +44519,7 @@ swiss cheese,whale,38
 swiss cheese,tilsit cheese,74
 swiss cheese,wild raspberry,30
 swiss cheese,vinegar,27
-swiss cheese,white wine,66
+swiss cheese,white wine,65
 swiss cheese,thymus mastichina,2
 swiss cheese,walnut,13
 swiss cheese,yam,2
@@ -44770,7 +44695,7 @@ barley,blackberry,11
 barley,corn tortilla,4
 barley,pepper,4
 barley,wheat,13
-barley,filbert,49
+barley,filbert,48
 barley,pumpkin,7
 barley,corn,31
 barley,concord grape,9
@@ -44936,7 +44861,6 @@ barley,wheat flake,13
 barley,tahiti vanilla,7
 barley,buckwheat,10
 barley,salmon,38
-barley,clove,16
 barley,frankfurter,27
 barley,sesame,2
 barley,brandy,2
@@ -45210,7 +45134,7 @@ mantis shrimp,plum,16
 mantis shrimp,neroli,7
 mantis shrimp,raisin,14
 mantis shrimp,oatmeal,10
-mantis shrimp,shrimp,77
+mantis shrimp,shrimp,76
 mantis shrimp,pistachio,7
 mantis shrimp,rose,9
 mantis shrimp,popcorn,19
@@ -45234,7 +45158,7 @@ mantis shrimp,narcissus,4
 mantis shrimp,tamarind,23
 mantis shrimp,whale,30
 mantis shrimp,rose apple,2
-mantis shrimp,turkey,61
+mantis shrimp,turkey,60
 mantis shrimp,prickly pear,7
 mantis shrimp,pork sausage,43
 mantis shrimp,rutabaga,9
@@ -46162,7 +46086,6 @@ cherimoya,seed,2
 cherimoya,french potato,19
 cherimoya,pork belly,14
 cherimoya,mint,19
-cherimoya,clove,9
 cherimoya,sherry,25
 cherimoya,salmon,18
 cherimoya,ruta chalepensis,2
@@ -46335,7 +46258,7 @@ cherimoya,israeli orange,21
 cherimoya,gin,2
 cherimoya,sea bass,7
 cherimoya,valerian,2
-cherimoya,potato,49
+cherimoya,potato,48
 cherimoya,citrus peel,18
 cherimoya,nepeta japonica,2
 cherimoya,tobacco flower,2
@@ -46633,7 +46556,7 @@ macadamia nut,passion fruit,30
 macadamia nut,milk,30
 macadamia nut,sour milk,7
 macadamia nut,nectarine,7
-macadamia nut,peanut,70
+macadamia nut,peanut,69
 macadamia nut,walnut,22
 macadamia nut,taiwan citronella,4
 macadamia nut,mozzarella cheese,34
@@ -47267,7 +47190,6 @@ ashanti pepper,pork belly,2
 ashanti pepper,mint,23
 ashanti pepper,bog blueberry,13
 ashanti pepper,betel,2
-ashanti pepper,clove,17
 ashanti pepper,tea tree,4
 ashanti pepper,palm fruit,4
 ashanti pepper,sherry,14
@@ -48428,7 +48350,6 @@ cheese,grape must,4
 cheese,pork belly,55
 cheese,zanthoxylum rhetsa,4
 cheese,mint,24
-cheese,clove,18
 cheese,phellodendron amurense fruit,2
 cheese,sherry,61
 cheese,lily,4
@@ -48493,7 +48414,7 @@ cheese,monkey orange,25
 cheese,seal,38
 cheese,eucalyptus amygdalina,4
 cheese,corn tortilla,11
-cheese,mutton,67
+cheese,mutton,66
 cheese,strawberry,60
 cheese,elderberry,36
 cheese,rose wine,57
@@ -48507,7 +48428,7 @@ cheese,rabbiteye blueberry,31
 cheese,feta cheese,74
 cheese,provolone cheese,74
 cheese,white currant,2
-cheese,ham,61
+cheese,ham,60
 cheese,cowberry,30
 cheese,pennyroyal,6
 cheese,cod,40
@@ -49344,7 +49265,6 @@ benzoin resin,pork belly,2
 benzoin resin,cinnamon leaf,2
 benzoin resin,porcini,2
 benzoin resin,tuberose,2
-benzoin resin,clove,2
 benzoin resin,cherry,2
 benzoin resin,shiitake,2
 benzoin resin,white wine,2
@@ -49518,7 +49438,6 @@ caja fruit,mint,7
 caja fruit,durian,14
 caja fruit,starfruit,14
 caja fruit,satsuma,14
-caja fruit,clove,4
 caja fruit,lemon,14
 caja fruit,peach,14
 caja fruit,wild raspberry,14
@@ -49722,7 +49641,7 @@ tamarind,whiskey,31
 tamarind,wort,26
 tamarind,vachellia farnesiana,2
 tamarind,turmeric,4
-tamarind,wine,49
+tamarind,wine,48
 holy basil,rose wine,2
 holy basil,myrtaceae,2
 holy basil,java citronella,4
@@ -50172,7 +50091,7 @@ clary sage,japanese peppermint,13
 clary sage,pinus excelsa,2
 clary sage,narcissus,4
 clary sage,tamarind,20
-clary sage,tuna,17
+clary sage,whale,13
 clary sage,clary sage,9
 clary sage,parsnip,2
 clary sage,licorice,11
@@ -50201,7 +50120,6 @@ clary sage,melaleuca trichostachya,2
 clary sage,pork belly,20
 clary sage,zanthoxylum rhetsa,4
 clary sage,mint,29
-clary sage,clove,18
 clary sage,phellodendron amurense fruit,4
 clary sage,sherry,21
 clary sage,lily,2
@@ -50315,13 +50233,12 @@ clary sage,fenugreek,2
 clary sage,malabar cardamom,2
 clary sage,papaya,25
 clary sage,orthodon citraliferum,2
-clary sage,clove pink,2
 clary sage,keta salmon,17
 clary sage,cloudberry,24
 clary sage,garlic,4
 clary sage,hogweed,2
 clary sage,pimento,9
-clary sage,whale,13
+clary sage,tuna,17
 clary sage,pork sausage,20
 clary sage,eucalyptus,20
 clary sage,fatty fish,38
@@ -50393,7 +50310,7 @@ clary sage,corn salad,2
 clary sage,siberian pine needle,2
 clary sage,israeli orange,30
 clary sage,gin,10
-clary sage,violet leaf,2
+clary sage,globefish,14
 clary sage,sea bass,14
 clary sage,parsnip root,4
 clary sage,green mate,2
@@ -50424,7 +50341,7 @@ clary sage,navy bean,22
 clary sage,rapeseed,2
 clary sage,sturgeon caviar,4
 clary sage,tangerine peel,2
-clary sage,globefish,14
+clary sage,violet leaf,2
 clary sage,potato,63
 clary sage,pinus jeffreyi,2
 calyptranthes parriculata,litsea citrata,2
@@ -50532,7 +50449,7 @@ cantaloupe,milk,37
 cantaloupe,sour milk,6
 cantaloupe,grape,52
 cantaloupe,mastic gum leaf,6
-cantaloupe,peanut,65
+cantaloupe,peanut,64
 cantaloupe,champagne wine,44
 cantaloupe,wood apple,4
 cantaloupe,geranium,4
@@ -50589,7 +50506,7 @@ cantaloupe,herring,40
 cantaloupe,crownberry,33
 cantaloupe,wax jambu,2
 cantaloupe,rose apple,19
-cantaloupe,raspberry,61
+cantaloupe,raspberry,60
 cantaloupe,rutabaga,9
 cantaloupe,sake,14
 cantaloupe,hoary basil,2
@@ -50599,7 +50516,7 @@ cantaloupe,italian lime,28
 cantaloupe,horse mackerel,23
 cantaloupe,tangerine,35
 cantaloupe,munster cheese,40
-cantaloupe,melon,70
+cantaloupe,melon,69
 cantaloupe,tea leaf,2
 cantaloupe,pinus jeffreyi,2
 cantaloupe,pecan,40
@@ -50662,7 +50579,7 @@ cantaloupe,coffee,31
 cantaloupe,lovage root,4
 cantaloupe,citrus,37
 cantaloupe,wild marjoram,2
-cantaloupe,muskmelon,70
+cantaloupe,muskmelon,69
 cantaloupe,coriander,13
 cantaloupe,thyme,9
 cantaloupe,cider,37
@@ -50733,7 +50650,6 @@ cantaloupe,orange leaf,4
 cantaloupe,pork belly,34
 cantaloupe,zanthoxylum rhetsa,4
 cantaloupe,mint,26
-cantaloupe,clove,13
 cantaloupe,tea tree,4
 cantaloupe,palm fruit,16
 cantaloupe,sherry,46
@@ -50959,7 +50875,7 @@ cantaloupe,citrus peel,43
 cantaloupe,cheddar cheese,43
 cantaloupe,eucalyptus globulus,6
 cantaloupe,peppermint,24
-cantaloupe,strawberry,61
+cantaloupe,strawberry,60
 cantaloupe,malagueta pepper,11
 cantaloupe,palm,2
 cantaloupe,dill,20
@@ -51388,7 +51304,7 @@ licorice,litsea zeylanica,2
 licorice,long pepper,7
 licorice,violet leaf,2
 licorice,peach,16
-licorice,potato,61
+licorice,potato,60
 licorice,ylangylang,6
 licorice,ruta montana,2
 licorice,wild berry,14
@@ -51999,7 +51915,6 @@ banana,pork belly,38
 banana,mint,27
 banana,bog blueberry,30
 banana,beet root,2
-banana,clove,18
 banana,tea tree,4
 banana,palm fruit,14
 banana,sherry,49
@@ -52021,7 +51936,7 @@ banana,mastic gum,4
 banana,pepino melon,4
 banana,pineapple,38
 banana,valencia orange,2
-banana,wine,68
+banana,wine,67
 banana,scotch,9
 banana,mastic gum fruit,7
 banana,bell pepper,17
@@ -52047,7 +51962,7 @@ banana,romano cheese,49
 banana,sea buckthorn,7
 banana,rice,29
 banana,pumpkin,6
-banana,kidney bean,68
+banana,kidney bean,67
 banana,goat cheese,49
 banana,mandarin,28
 banana,bean,74
@@ -52222,7 +52137,7 @@ banana,pea,48
 banana,pepper,16
 banana,plum wine,7
 banana,rancid coconut,2
-banana,rum,49
+banana,rum,48
 banana,corn,38
 banana,sesame seed,19
 banana,rue,9
@@ -52611,7 +52526,7 @@ cabernet sauvignon grape,teucrium chamaedrys,2
 cabernet sauvignon grape,cabernet sauvignon wine,57
 cabernet sauvignon grape,grape vine,6
 cabernet sauvignon grape,reunion geranium,6
-cabernet sauvignon grape,porcini,49
+cabernet sauvignon grape,porcini,48
 cabernet sauvignon grape,passion fruit,58
 cabernet sauvignon grape,honey fungus,2
 cabernet sauvignon grape,wood spirit,2
@@ -52713,7 +52628,7 @@ cabernet sauvignon grape,rice,43
 cabernet sauvignon grape,hog plum,20
 cabernet sauvignon grape,hinoki,2
 cabernet sauvignon grape,malt,56
-cabernet sauvignon grape,enokidake,49
+cabernet sauvignon grape,enokidake,48
 cabernet sauvignon grape,roman chamomile,28
 cabernet sauvignon grape,guinea pepper,10
 cabernet sauvignon grape,kola nut,10
@@ -52736,7 +52651,7 @@ cabernet sauvignon grape,fermented tea leaf,2
 cabernet sauvignon grape,rice bran,13
 cabernet sauvignon grape,durian,17
 cabernet sauvignon grape,tuberose,6
-cabernet sauvignon grape,lamb,63
+cabernet sauvignon grape,lamb,62
 cabernet sauvignon grape,pinus sabiniana,2
 cabernet sauvignon grape,rhubarb,13
 cabernet sauvignon grape,camembert cheese,55
@@ -52773,7 +52688,7 @@ cabernet sauvignon grape,eucalyptus cinereea,2
 cabernet sauvignon grape,fig,58
 cabernet sauvignon grape,orange,64
 cabernet sauvignon grape,feta cheese,55
-cabernet sauvignon grape,coffee,49
+cabernet sauvignon grape,coffee,48
 cabernet sauvignon grape,carnation,4
 cabernet sauvignon grape,lovage root,6
 cabernet sauvignon grape,citrus,45
@@ -52805,7 +52720,6 @@ cabernet sauvignon grape,mexican linaloe,4
 cabernet sauvignon grape,lemongrass,11
 cabernet sauvignon grape,mentha,2
 cabernet sauvignon grape,rubus arcticus,17
-cabernet sauvignon grape,clove pink,2
 cabernet sauvignon grape,violet root,2
 cabernet sauvignon grape,mate,48
 cabernet sauvignon grape,swiss cheese,56
@@ -52871,7 +52785,6 @@ cabernet sauvignon grape,grape must,2
 cabernet sauvignon grape,pork belly,38
 cabernet sauvignon grape,zanthoxylum rhetsa,4
 cabernet sauvignon grape,mint,30
-cabernet sauvignon grape,clove,22
 cabernet sauvignon grape,tea tree,4
 cabernet sauvignon grape,palm fruit,14
 cabernet sauvignon grape,sherry,58
@@ -52900,7 +52813,7 @@ cabernet sauvignon grape,scotch,10
 cabernet sauvignon grape,citrus fruit blossom,2
 cabernet sauvignon grape,mastic gum fruit,9
 cabernet sauvignon grape,dill seed,9
-cabernet sauvignon grape,matsutake,49
+cabernet sauvignon grape,matsutake,48
 cabernet sauvignon grape,petitgrain,9
 cabernet sauvignon grape,sage,10
 cabernet sauvignon grape,capsicum annuum,10
@@ -52952,7 +52865,7 @@ cabernet sauvignon grape,mutton,50
 cabernet sauvignon grape,mentha aquatica,2
 cabernet sauvignon grape,sea buckthorn,9
 cabernet sauvignon grape,caprifoliaceae,2
-cabernet sauvignon grape,elderberry,49
+cabernet sauvignon grape,elderberry,48
 cabernet sauvignon grape,melissa,2
 cabernet sauvignon grape,yogurt,22
 cabernet sauvignon grape,pinus jeffreyi terpentine,2
@@ -52981,13 +52894,13 @@ cabernet sauvignon grape,elderberry fruit,14
 cabernet sauvignon grape,oxidized milk,2
 cabernet sauvignon grape,turkey,58
 cabernet sauvignon grape,caraway seed,4
-cabernet sauvignon grape,shiitake,49
+cabernet sauvignon grape,shiitake,48
 cabernet sauvignon grape,parsley,20
 cabernet sauvignon grape,filipendula ulmaria flower,4
 cabernet sauvignon grape,yam,2
 cabernet sauvignon grape,cognac,58
 cabernet sauvignon grape,hyacinth,6
-cabernet sauvignon grape,mushroom,49
+cabernet sauvignon grape,mushroom,48
 cabernet sauvignon grape,neroli,19
 cabernet sauvignon grape,cream cheese,54
 cabernet sauvignon grape,cypress,2
@@ -53074,7 +52987,7 @@ cabernet sauvignon grape,lemon peel,7
 cabernet sauvignon grape,guineafowl,26
 cabernet sauvignon grape,eucalyptus macarthuri,2
 cabernet sauvignon grape,rosa centifolia,2
-cabernet sauvignon grape,california orange,49
+cabernet sauvignon grape,california orange,48
 cabernet sauvignon grape,garcia mangostana,2
 cabernet sauvignon grape,jackfruit,22
 cabernet sauvignon grape,maple syrup,2
@@ -53111,7 +53024,7 @@ cabernet sauvignon grape,thymus caespeititius,2
 cabernet sauvignon grape,sesame seed,28
 cabernet sauvignon grape,rue,6
 cabernet sauvignon grape,elder flower,6
-cabernet sauvignon grape,raspberry,68
+cabernet sauvignon grape,raspberry,67
 cabernet sauvignon grape,pike,34
 cabernet sauvignon grape,finnish whiskey,2
 cabernet sauvignon grape,lingonberry,10
@@ -53143,7 +53056,7 @@ cabernet sauvignon grape,guinea orange,2
 cabernet sauvignon grape,sea bass,34
 cabernet sauvignon grape,parsnip root,2
 cabernet sauvignon grape,valerian,2
-cabernet sauvignon grape,potato,78
+cabernet sauvignon grape,potato,77
 cabernet sauvignon grape,citrus peel,41
 cabernet sauvignon grape,cheddar cheese,56
 cabernet sauvignon grape,field mint,2
@@ -53278,7 +53191,6 @@ birch,coffee,2
 birch,french potato,2
 birch,bog blueberry,2
 birch,tuberose,2
-birch,clove,2
 birch,wild raspberry,2
 birch,chokecherry,2
 birch,sapodilla,2
@@ -53287,7 +53199,6 @@ birch,jamaican rum,4
 birch,muscadine grape,6
 birch,papaya,6
 birch,roquefort cheese,4
-birch,clove pink,2
 birch,cranberry,2
 birch,plum brandy,2
 birch,brandy,2
@@ -53759,7 +53670,6 @@ citronella,thai pepper,2
 citronella,starfruit,9
 citronella,lamb,10
 citronella,satsuma,2
-citronella,clove,4
 citronella,lemon,7
 citronella,gruyere cheese,4
 citronella,peach,6
@@ -53993,7 +53903,6 @@ chicory root,shrimp,10
 chicory root,seed,7
 chicory root,cream,6
 chicory root,lamb,6
-chicory root,clove,16
 chicory root,lemon,2
 chicory root,peach,4
 chicory root,tilsit cheese,11
@@ -54152,7 +54061,7 @@ hazelnut,rosemary,4
 hazelnut,vanilla,13
 hazelnut,myrtleberry,16
 hazelnut,pilchard,7
-hazelnut,pork,68
+hazelnut,pork,67
 hazelnut,sheep cheese,16
 hazelnut,nut,38
 hazelnut,lavender,4
@@ -54868,14 +54777,14 @@ emmental cheese,eucalyptus maideni,2
 emmental cheese,whitefish,40
 emmental cheese,rafanus sativus root,2
 emmental cheese,nutmeg,6
-emmental cheese,ham,61
+emmental cheese,ham,60
 emmental cheese,goat milk,18
 emmental cheese,eucalyptus dives,2
 emmental cheese,wood apple,2
 emmental cheese,monkey orange,25
 emmental cheese,seal,38
 emmental cheese,eucalyptus amygdalina,4
-emmental cheese,mutton,67
+emmental cheese,mutton,66
 emmental cheese,strawberry,60
 emmental cheese,yogurt,32
 emmental cheese,pinus jeffreyi terpentine,2
@@ -55164,7 +55073,6 @@ artemisia scoparia,dwarf quince,2
 artemisia scoparia,french potato,2
 artemisia scoparia,rice bran,2
 artemisia scoparia,starfruit,2
-artemisia scoparia,clove,2
 artemisia scoparia,lemon,2
 artemisia scoparia,peach,2
 artemisia scoparia,hop,4
@@ -56034,7 +55942,7 @@ cowberry,sauvignon grape,40
 cowberry,pork,84
 cowberry,sheep cheese,30
 cowberry,lavender,16
-cowberry,currant,72
+cowberry,currant,71
 cowberry,frankfurter,22
 cowberry,lavandin,11
 cowberry,pork liver,2
@@ -56129,7 +56037,7 @@ cowberry,katsuobushi,9
 cowberry,lima bean,29
 cowberry,pawpaw,6
 cowberry,walnut,11
-cowberry,fig,49
+cowberry,fig,48
 cowberry,orange,57
 cowberry,trassi,10
 cowberry,lovage root,6
@@ -56231,7 +56139,7 @@ cowberry,taiwan citronella,2
 cowberry,romano cheese,30
 cowberry,pinus sabiniana terpentine,2
 cowberry,pumpkin,9
-cowberry,kidney bean,61
+cowberry,kidney bean,60
 cowberry,italian orange,2
 cowberry,goat cheese,30
 cowberry,mandarin,32
@@ -56392,7 +56300,7 @@ cowberry,gin,11
 cowberry,globefish,23
 cowberry,sea bass,23
 cowberry,parsnip root,2
-cowberry,potato,69
+cowberry,potato,68
 cowberry,daffodil,2
 cowberry,peppermint,17
 cowberry,sour cherry,17
@@ -56556,7 +56464,7 @@ coconut,litchi,14
 coconut,filbert,55
 coconut,tabasco pepper,4
 coconut,french lavender,17
-coconut,fermented shrimp,49
+coconut,fermented shrimp,48
 coconut,green bell pepper,4
 coconut,skim milk,17
 coconut,vinegar,10
@@ -56636,7 +56544,7 @@ coconut,long pepper,4
 coconut,olivoil,4
 coconut,mung bean,46
 coconut,french peppermint,17
-coconut,parmesan cheese,67
+coconut,parmesan cheese,66
 coconut,fish,81
 coconut,phellodendron amurense,6
 coconut,turnip,6
@@ -56647,7 +56555,7 @@ coconut,violet root,6
 coconut,mate,54
 coconut,swiss cheese,66
 coconut,quince,17
-coconut,mantis shrimp,49
+coconut,mantis shrimp,48
 coconut,schizandra,6
 coconut,grape brandy,4
 coconut,peated malt,10
@@ -56677,7 +56585,7 @@ coconut,haddock,37
 coconut,sweet potato,9
 coconut,cowberry,26
 coconut,toasted sesame seed,18
-coconut,coconut,66
+coconut,coconut,65
 coconut,violet,4
 coconut,ginger,50
 coconut,kumquat peel,18
@@ -56687,7 +56595,7 @@ coconut,grape must,4
 coconut,pork belly,60
 coconut,zanthoxylum rhetsa,7
 coconut,mint,20
-coconut,sherry,61
+coconut,sherry,60
 coconut,lily,4
 coconut,salmon,66
 coconut,ruta chalepensis,6
@@ -56832,7 +56740,7 @@ coconut,pepper,7
 coconut,plum wine,6
 coconut,rancid coconut,6
 coconut,rum,64
-coconut,corn,68
+coconut,corn,67
 coconut,sesame seed,34
 coconut,rue,25
 coconut,jaborandi leaf,6
@@ -57014,7 +56922,6 @@ barosma venustum,mint,4
 barosma venustum,bog blueberry,2
 barosma venustum,cream,2
 barosma venustum,satsuma,2
-barosma venustum,clove,2
 barosma venustum,lemon,2
 barosma venustum,wild raspberry,2
 barosma venustum,camembert cheese,2
@@ -57185,7 +57092,7 @@ bilberry,ylangylang,11
 bilberry,mexican lime,37
 bilberry,wild berry,52
 bilberry,tulip,2
-bilberry,mango,49
+bilberry,mango,48
 bilberry,ceylon tea cinnamon leaf,2
 bilberry,coal tar,2
 bilberry,ocotea usambarensis,2
@@ -57308,7 +57215,6 @@ bilberry,pork belly,36
 bilberry,zanthoxylum rhetsa,4
 bilberry,mint,34
 bilberry,bog blueberry,52
-bilberry,clove,24
 bilberry,geranium,7
 bilberry,tea tree,4
 bilberry,mentha crispa,2
@@ -57463,7 +57369,6 @@ bilberry,mentha aquatica,4
 bilberry,origanum floribundum,2
 bilberry,malabar cardamom,2
 bilberry,papaya,46
-bilberry,clove pink,2
 bilberry,keta salmon,32
 bilberry,fruit,17
 bilberry,garlic,6
@@ -57624,7 +57529,7 @@ bilberry,tangerine peel,4
 bilberry,persea gratissima peel,2
 bilberry,caraway,6
 bilberry,morus bombycis,2
-bilberry,european cranberry,61
+bilberry,european cranberry,60
 bilberry,guarana,14
 bilberry,pinus jeffreyi,2
 cinnamomum,sauvignon grape,4
@@ -57859,7 +57764,7 @@ cape gooseberry,long pepper,19
 cape gooseberry,mung bean,38
 cape gooseberry,rosemary,16
 cape gooseberry,french peppermint,18
-cape gooseberry,parmesan cheese,49
+cape gooseberry,parmesan cheese,48
 cape gooseberry,lilac,2
 cape gooseberry,fish,71
 cape gooseberry,phellodendron amurense fruit,2
@@ -57914,7 +57819,7 @@ cape gooseberry,citronella,6
 cape gooseberry,loganberry,52
 cape gooseberry,scotch spearmint,22
 cape gooseberry,hazelnut,16
-cape gooseberry,fatty fish,63
+cape gooseberry,fatty fish,62
 cape gooseberry,emmental cheese,45
 cape gooseberry,tsuga canadensis,4
 cape gooseberry,rhus cotinus leaf,2
@@ -57936,7 +57841,6 @@ cape gooseberry,orange leaf,4
 cape gooseberry,pork belly,38
 cape gooseberry,zanthoxylum rhetsa,4
 cape gooseberry,mint,31
-cape gooseberry,clove,23
 cape gooseberry,savory,2
 cape gooseberry,tea tree,4
 cape gooseberry,mentha crispa,2
@@ -57980,7 +57884,7 @@ cape gooseberry,taiwan citronella,2
 cape gooseberry,romano cheese,45
 cape gooseberry,rice,40
 cape gooseberry,pumpkin,9
-cape gooseberry,kidney bean,68
+cape gooseberry,kidney bean,67
 cape gooseberry,italian orange,2
 cape gooseberry,goat cheese,45
 cape gooseberry,mandarin,35
@@ -58078,7 +57982,6 @@ cape gooseberry,mentha aquatica,4
 cape gooseberry,fenugreek,9
 cape gooseberry,malabar cardamom,2
 cape gooseberry,papaya,50
-cape gooseberry,clove pink,2
 cape gooseberry,mutton liver,2
 cape gooseberry,keta salmon,31
 cape gooseberry,cloudberry,55
@@ -58181,7 +58084,7 @@ cape gooseberry,passiflora edulis,2
 cape gooseberry,corn salad,10
 cape gooseberry,caviar,4
 cape gooseberry,parsnip,4
-cape gooseberry,israeli orange,49
+cape gooseberry,israeli orange,48
 cape gooseberry,gin,14
 cape gooseberry,globefish,28
 cape gooseberry,sea bass,28
@@ -58455,7 +58358,7 @@ ginger,romano cheese,36
 ginger,helichrysum angustifolium,2
 ginger,rice,27
 ginger,pumpkin,7
-ginger,kidney bean,63
+ginger,kidney bean,62
 ginger,goat cheese,35
 ginger,yogurt,9
 ginger,watermelon,4
@@ -58817,7 +58720,7 @@ french potato,lavandin,9
 french potato,pork liver,13
 french potato,mexican goosefoot,2
 french potato,sausage,55
-french potato,porcini,49
+french potato,porcini,48
 french potato,sauerkraut,9
 french potato,tarragon,2
 french potato,magnolia,2
@@ -58986,7 +58889,7 @@ french potato,wine,59
 french potato,scotch,7
 french potato,mastic gum fruit,6
 french potato,mastic gum,10
-french potato,matsutake,49
+french potato,matsutake,48
 french potato,sage,6
 french potato,nectarine,18
 french potato,wood,2
@@ -59030,10 +58933,10 @@ french potato,peanut butter,59
 french potato,marjoram,17
 french potato,scallop,30
 french potato,turkey,69
-french potato,shiitake,49
+french potato,shiitake,48
 french potato,parsley,22
 french potato,hyacinth,7
-french potato,mushroom,49
+french potato,mushroom,48
 french potato,neroli,17
 french potato,wild rice,10
 french potato,liver,2
@@ -59352,7 +59255,7 @@ pork belly,wood,6
 pork belly,taiwan citronella,4
 pork belly,wild strawberry,28
 pork belly,white bread,38
-pork belly,rice,49
+pork belly,rice,48
 pork belly,pumpkin,13
 pork belly,russian cheese,57
 pork belly,port wine,41
@@ -59426,7 +59329,7 @@ pork belly,yam,2
 pork belly,pork sausage,70
 pork belly,rutabaga,10
 pork belly,sake,16
-pork belly,shiitake,49
+pork belly,shiitake,48
 pork belly,prickly pear,18
 pork belly,spike,2
 pork belly,tomato,50
@@ -59534,7 +59437,7 @@ mint,strawberry jam,4
 mint,petitgrain bergamot,4
 mint,thyme,28
 mint,onion,4
-mint,orange,49
+mint,orange,48
 mint,sauvignon blanc grape,30
 mint,thymus,16
 mint,petitgrain,4
@@ -59745,7 +59648,7 @@ bog blueberry,pork,85
 bog blueberry,sheep cheese,30
 bog blueberry,cabernet sauvignon grape,40
 bog blueberry,lavender,16
-bog blueberry,currant,72
+bog blueberry,currant,71
 bog blueberry,frankfurter,23
 bog blueberry,lavandin,11
 bog blueberry,pork liver,2
@@ -59854,7 +59757,7 @@ bog blueberry,katsuobushi,9
 bog blueberry,lima bean,30
 bog blueberry,pawpaw,6
 bog blueberry,walnut,11
-bog blueberry,fig,49
+bog blueberry,fig,48
 bog blueberry,orange,57
 bog blueberry,citronella grass,2
 bog blueberry,trassi,10
@@ -59941,7 +59844,6 @@ bog blueberry,orange leaf,6
 bog blueberry,pork belly,29
 bog blueberry,zanthoxylum rhetsa,4
 bog blueberry,mint,28
-bog blueberry,clove,20
 bog blueberry,tea tree,4
 bog blueberry,phellodendron amurense fruit,2
 bog blueberry,wild berry,52
@@ -60075,7 +59977,6 @@ bog blueberry,strawberry,52
 bog blueberry,fenugreek,4
 bog blueberry,citrus flower,2
 bog blueberry,papaya,40
-bog blueberry,clove pink,2
 bog blueberry,keta salmon,25
 bog blueberry,fruit,17
 bog blueberry,cucumber,11
@@ -60228,7 +60129,7 @@ bog blueberry,cuttlefish,2
 bog blueberry,violet leaf,6
 bog blueberry,caraway,6
 bog blueberry,morus bombycis,2
-bog blueberry,potato,69
+bog blueberry,potato,68
 bog blueberry,tea leaf,2
 bog blueberry,guarana,14
 bog blueberry,myrrh,2
@@ -60508,440 +60409,8 @@ beet root,crayfish,4
 beet root,egg,6
 beet root,oat,4
 beet root,wine,7
-clove,comte cheese,18
-clove,mackerel,10
-clove,olive,19
-clove,grape vine,4
-clove,reunion geranium,2
-clove,guava,28
-clove,passion fruit,28
-clove,milk,16
-clove,dill seed,14
-clove,grape,22
-clove,mastic gum leaf,10
-clove,peanut,34
-clove,lemon flower,2
-clove,geranium,4
-clove,mozzarella cheese,18
-clove,wild strawberry,20
-clove,white bread,7
-clove,robinia pseudoacacia,2
-clove,pinto bean,14
-clove,southern pea,10
-clove,tolu balsam,2
-clove,parsnip fruit,4
-clove,petitgrain bigarade,2
-clove,peru balsam,7
-clove,curcuma,2
-clove,sparkling wine,24
-clove,strawberry jam,11
-clove,mandarin peel,7
-clove,satureia thymera,2
-clove,sauvignon blanc grape,22
-clove,monarda punctata,7
-clove,petitgrain,6
-clove,magnolia fuscata,2
-clove,myrtleberry,20
-clove,pork,66
-clove,sea buckthorn,4
-clove,lavender,6
-clove,yellow passion fruit,4
-clove,currant,40
-clove,frankfurter,9
-clove,lavandin,6
-clove,pork liver,2
-clove,sausage,16
-clove,porcini,17
-clove,tarragon,7
-clove,ouzo,2
-clove,white wine,30
-clove,litchi,10
-clove,filbert,25
-clove,tabasco pepper,17
-clove,jasmine,7
-clove,litsea guatemalensis,2
-clove,fermented shrimp,7
-clove,green bell pepper,17
-clove,potato chip,2
-clove,neroli,9
-clove,wild bergamot,2
-clove,tilsit cheese,18
-clove,mentha viridis,2
-clove,popcorn,10
-clove,mussel,2
-clove,ruta pinnata leaf,2
-clove,soybean,22
-clove,laurel leaf,7
-clove,herring,18
-clove,crownberry,20
-clove,lime,19
-clove,sake,7
-clove,hoary basil,2
-clove,thymus mastichina,2
-clove,crab,7
-clove,italian lime,19
-clove,french marigold,2
-clove,horse mackerel,10
-clove,tangerine,23
-clove,munster cheese,18
-clove,melon,13
-clove,myrrh,4
-clove,pecan,20
-clove,key lime leaf,2
-clove,loquat,10
-clove,malt whiskey,6
-clove,krill,4
-clove,spearmint,4
-clove,honey,10
-clove,hog plum,7
-clove,malt,24
-clove,enokidake,17
-clove,roman chamomile,7
-clove,guinea pepper,17
-clove,kola nut,6
-clove,wort,17
-clove,niaouli,2
-clove,mountain papaya,14
-clove,whiskey,18
-clove,luraceae,2
-clove,dwarf quince,16
-clove,rice bran,4
-clove,shrimp,13
-clove,durian,6
-clove,tuberose,7
-clove,lamb,21
-clove,pine,2
-clove,hop,26
-clove,daffodil flower,2
-clove,ginger grass,2
-clove,ocimum gratissimum,6
-clove,kohlrabi,4
-clove,hybrid passion fruit,2
-clove,plum brandy,2
-clove,mentha citrata,2
-clove,melaleuca bracteata leaf,2
-clove,tomato,21
-clove,ylangylang,9
-clove,mexican lime,20
-clove,wild berry,20
-clove,tulip,2
-clove,mango,21
-clove,finocchoi fennel,2
-clove,turmeric,9
-clove,violet leaf,4
-clove,french bean,14
-clove,grapefruit peel,4
-clove,katsuobushi,6
-clove,lima bean,14
-clove,pawpaw,4
-clove,walnut,9
-clove,fig,22
-clove,orange,40
-clove,trassi,6
-clove,coffee,20
-clove,lovage root,4
-clove,muskmelon,13
-clove,japanese calamus,2
-clove,jonquil,2
-clove,coriander,14
-clove,vetiver,2
-clove,thyme,10
-clove,thymus,9
-clove,long pepper,17
-clove,olivoil,2
-clove,mung bean,14
-clove,rosemary,11
-clove,french peppermint,13
-clove,parmesan cheese,21
-clove,lilac,2
-clove,fenugreek,2
-clove,fish,38
-clove,myrtle,14
-clove,mexican linaloe,2
-clove,lemongrass,4
-clove,flower,2
-clove,rubus arcticus,6
-clove,mate,18
-clove,swiss cheese,19
-clove,melaleuca paucifiora,2
-clove,quince,16
-clove,mantis shrimp,7
-clove,east african geranium,2
-clove,prunus,4
-clove,highbush blueberry,2
-clove,corn,33
-clove,macadamia nut,10
-clove,raisin,9
-clove,russian anise,2
-clove,mangosteen,7
-clove,sauvignon grape,22
-clove,licorice,6
-clove,narcissus,2
-clove,tamarind,17
-clove,holy basil,6
-clove,lime peel,2
-clove,japanese peppermint,13
-clove,prickly pear,10
-clove,dacrydium franklinii,2
-clove,estragon,2
-clove,kiwi,18
-clove,loganberry,20
-clove,hazelnut,10
-clove,emmental cheese,18
-clove,tsuga canadensis,4
-clove,rhus cotinus leaf,2
-clove,prune,7
-clove,sweet grass,4
-clove,wheat bread,11
-clove,haddock,10
-clove,sweet potato,2
-clove,cowberry,20
-clove,toasted sesame seed,4
-clove,coconut,22
-clove,star anise,7
-clove,ginger,27
-clove,saigon cinnamon,2
-clove,orange flower,4
-clove,seed,11
-clove,french potato,18
-clove,melaleuca trichostachya,2
-clove,pork belly,11
-clove,mint,17
-clove,clove,6
-clove,tea tree,4
-clove,phellodendron amurense fruit,2
-clove,sherry,25
-clove,tuna,16
-clove,salmon,26
-clove,ruta chalepensis,2
-clove,orange peel,6
-clove,mace,17
-clove,picea balsamea,2
-clove,vervain,2
-clove,watercress,2
-clove,oyster,6
-clove,egg,6
-clove,nettle,2
-clove,pineapple,14
-clove,vachellia farnesiana,4
-clove,wine,41
-clove,scotch,2
-clove,mastic gum fruit,6
-clove,mastic gum,13
-clove,oriental storax,2
-clove,matsutake,17
-clove,sage,10
-clove,fennel,11
-clove,ocimum viride,2
-clove,custard apple,4
-clove,nectarine,11
-clove,strawberry wine,2
-clove,echinacea,2
-clove,spanish sage,6
-clove,romano cheese,19
-clove,rice,13
-clove,kidney bean,33
-clove,goat cheese,18
-clove,yogurt,9
-clove,watermelon,4
-clove,muscat grape,22
-clove,prunus laurocerasus,2
-clove,tobacco,2
-clove,cumin,13
-clove,whitefish,10
-clove,nutmeg,20
-clove,cruciferae seed,11
-clove,eucalyptus globulus,6
-clove,nut,10
-clove,cupressaceae,7
-clove,scotch spearmint,18
-clove,monkey orange,20
-clove,seal,9
-clove,japanese star anise,6
-clove,corn tortilla,2
-clove,mutton,16
-clove,strawberry,32
-clove,michelia,2
-clove,elderberry,24
-clove,mandarin,19
-clove,lemon balm,11
-clove,satureia montana,2
-clove,myrcia acris,2
-clove,concord grape,22
-clove,rabbiteye blueberry,20
-clove,feta cheese,18
-clove,provolone cheese,18
-clove,sassafras,2
-clove,ham,16
-clove,french lavender,6
-clove,cod,10
-clove,kencur,2
-clove,peanut butter,14
-clove,marjoram,16
-clove,scallop,2
-clove,elderberry fruit,4
-clove,turkey,21
-clove,shiitake,17
-clove,parsley,18
-clove,filipendula ulmaria flower,2
-clove,grapefruit,13
-clove,madagascar cinnamon leaf,2
-clove,hyacinth,9
-clove,mushroom,17
-clove,vinegar,7
-clove,cream cheese,18
-clove,cypress,6
-clove,elettaria caradmomum,2
-clove,wild rice,2
-clove,lippia carviodora,2
-clove,sweetfish,10
-clove,violet flower,7
-clove,vanilla,22
-clove,wheaten bread,7
-clove,kumquat peel,4
-clove,hedychium spicatum,2
-clove,sapodilla fruit,2
-clove,russian cheese,18
-clove,pandanus odoratissimus,2
-clove,corn mint,10
-clove,naranjilla,7
-clove,wild raspberry,20
-clove,fermented radish,2
-clove,ewe,9
-clove,sapodilla,2
-clove,vegetable,2
-clove,starfruit,16
-clove,jamaican rum,23
-clove,muscadine grape,22
-clove,mentha aquatica,2
-clove,origanum floribundum,2
-clove,malabar cardamom,2
-clove,papaya,17
-clove,clove pink,2
-clove,keta salmon,16
-clove,fruit,4
-clove,garlic,2
-clove,feronia elephantum,2
-clove,hogweed,2
-clove,pimento,11
-clove,pimenta,2
-clove,whale,9
-clove,pork sausage,11
-clove,eucalyptus,14
-clove,fatty fish,36
-clove,nectandra elaiophora,4
-clove,crowberry,20
-clove,veal,9
-clove,east indian geranium,2
-clove,crayfish,9
-clove,rose wine,24
-clove,palm fruit,4
-clove,myrtaceae,2
-clove,kaffir lime,19
-clove,malay apple,4
-clove,limburger cheese,18
-clove,laurel,16
-clove,pinaceae,2
-clove,huckleberry,20
-clove,rose,4
-clove,juniper berry,20
-clove,cognac,25
-clove,kumquat,4
-clove,fruit brandy,7
-clove,cottage cheese,18
-clove,port wine,25
-clove,safflower seed,11
-clove,endive,2
-clove,gruyere cheese,22
-clove,lemon peel,7
-clove,guineafowl,9
-clove,jackfruit,6
-clove,lovage,11
-clove,onion,11
-clove,japanese mint,11
-clove,ethiopian pepper,17
-clove,soursop,4
-clove,eel,10
-clove,snap bean,14
-clove,jasminum grandiflorum,2
-clove,pilchard,10
-clove,wintergreen,2
-clove,domiati cheese,18
-clove,orchid,2
-clove,leaf,7
-clove,okra,2
-clove,origanum,6
-clove,toasted oat,9
-clove,truffle,4
-clove,rose apple,9
-clove,pea,18
-clove,pepper,28
-clove,rancid coconut,2
-clove,rum,23
-clove,orthodon linalooliferum,2
-clove,thymus caespeititius,2
-clove,sesame seed,17
-clove,rue,7
-clove,elder flower,4
-clove,raspberry,41
-clove,pike,10
-clove,lingonberry,6
-clove,plum,16
-clove,oatmeal,7
-clove,neroli bigarade,2
-clove,pistachio,6
-clove,navy bean,14
-clove,cranberry,26
-clove,phellodendron japonicum,2
-clove,rye bread,13
-clove,java citronella,18
-clove,plumcot,6
-clove,cocoa,43
-clove,seabream,10
-clove,patchouli,2
-clove,corn salad,4
-clove,copaiba,2
-clove,siberian pine needle,2
-clove,israeli orange,27
-clove,gin,6
-clove,persea gratissima peel,2
-clove,sea bass,10
-clove,parsnip root,2
-clove,solidago odora,2
-clove,turpentine,2
-clove,potato,50
-clove,daffodil,2
-clove,peppermint,20
-clove,south african mentha longifolia,2
-clove,sour cherry,6
-clove,malagueta pepper,17
-clove,sheep cheese,18
-clove,dill,19
-clove,palmarosa,6
-clove,crisp bread,13
-clove,thai pepper,17
-clove,cream,7
-clove,satsuma,19
-clove,lemon,21
-clove,dill blossom,2
-clove,peach,17
-clove,oat,9
-clove,orris,2
-clove,leek,16
-clove,german chamomile,7
-clove,mustard,6
-clove,roquefort cheese,18
-clove,feijoa,10
-clove,gardenia,2
-clove,tahiti vanilla,7
-clove,pear,13
-clove,mentha,2
-clove,rapeseed,11
-clove,sturgeon caviar,4
-clove,tangerine peel,2
-clove,globefish,10
-clove,european cranberry,26
-clove,guarana,4
+rhodotorula glutinis,skim milk,2
+rhodotorula glutinis,thujopsis dolabrata,2
 beechwood tar,pork,2
 beechwood tar,pear brandy,2
 beechwood tar,ylangylang,2
@@ -61168,7 +60637,7 @@ sherry,wheat bread,47
 sherry,strawberry,63
 sherry,wort,38
 sherry,sweet potato,7
-sherry,whiskey,61
+sherry,whiskey,60
 sherry,toasted sesame seed,11
 sherry,star anise,6
 sherry,squid,10
@@ -61524,7 +60993,6 @@ ceylon cinnamon,mint,4
 ceylon cinnamon,cream,4
 ceylon cinnamon,lamb,10
 ceylon cinnamon,satsuma,6
-ceylon cinnamon,clove,2
 ceylon cinnamon,lemon,6
 ceylon cinnamon,gruyere cheese,4
 ceylon cinnamon,peach,4
@@ -61860,12 +61328,12 @@ salmon,sauvignon grape,61
 salmon,sea buckthorn,4
 salmon,scotch spearmint,34
 salmon,seal,52
-salmon,wheat bread,66
-salmon,sausage,69
+salmon,wheat bread,65
+salmon,sausage,68
 salmon,sauerkraut,22
 salmon,strawberry,66
 salmon,white wine,63
-salmon,swiss cheese,67
+salmon,swiss cheese,66
 salmon,toasted oat,49
 salmon,yogurt,38
 salmon,truffle,32
@@ -61900,7 +61368,7 @@ salmon,spearmint,48
 salmon,tobacco flower,4
 salmon,sweet grass,13
 salmon,vanilla,43
-salmon,wheaten bread,61
+salmon,wheaten bread,60
 salmon,sheep cheese,65
 salmon,yellow passion fruit,10
 salmon,sesame,7
@@ -62949,7 +62417,7 @@ mastic gum,mung bean,10
 mastic gum,rosemary,10
 mastic gum,sauvignon grape,13
 mastic gum,pilchard,7
-mastic gum,pork,68
+mastic gum,pork,67
 mastic gum,scotch spearmint,20
 mastic gum,monkey orange,7
 mastic gum,seal,10
@@ -63706,7 +63174,6 @@ apple brandy,bog blueberry,2
 apple brandy,cream,2
 apple brandy,sandalwood,2
 apple brandy,satsuma,4
-apple brandy,clove,2
 apple brandy,lemon,4
 apple brandy,southern pea,6
 apple brandy,peach,6
@@ -64246,7 +63713,7 @@ bell pepper,monarda punctata,2
 bell pepper,petitgrain,4
 bell pepper,malt,34
 bell pepper,sauvignon grape,26
-bell pepper,pork,72
+bell pepper,pork,71
 bell pepper,sea buckthorn,6
 bell pepper,cabernet sauvignon grape,26
 bell pepper,lavender,17
@@ -64466,7 +63933,6 @@ bell pepper,pork belly,16
 bell pepper,mint,33
 bell pepper,bog blueberry,22
 bell pepper,betel,2
-bell pepper,clove,20
 bell pepper,tea tree,4
 bell pepper,palm fruit,4
 bell pepper,sherry,25
@@ -64614,7 +64080,6 @@ bell pepper,berry,23
 bell pepper,fenugreek,4
 bell pepper,malabar cardamom,2
 bell pepper,papaya,30
-bell pepper,clove pink,2
 bell pepper,mutton liver,2
 bell pepper,keta salmon,19
 bell pepper,fruit,4
@@ -64715,7 +64180,7 @@ bell pepper,rye bread,21
 bell pepper,java citronella,6
 bell pepper,celery seed,4
 bell pepper,plumcot,6
-bell pepper,cocoa,49
+bell pepper,cocoa,48
 bell pepper,seabream,14
 bell pepper,wintergreen,2
 bell pepper,corn salad,13
@@ -64729,7 +64194,7 @@ bell pepper,spike,2
 bell pepper,sea bass,14
 bell pepper,parsnip root,6
 bell pepper,valerian,2
-bell pepper,potato,68
+bell pepper,potato,67
 bell pepper,citrus peel,34
 bell pepper,cheddar cheese,26
 bell pepper,tobacco flower,2
@@ -65242,7 +64707,7 @@ matsutake,rice bran,14
 matsutake,winter savory,2
 matsutake,olivoil,2
 matsutake,pinaceae,2
-matsutake,milk,49
+matsutake,milk,48
 matsutake,wood spirit,2
 matsutake,vitis labrusca,4
 matsutake,sour milk,9
@@ -65279,7 +64744,7 @@ matsutake,petitgrain bigarade,4
 matsutake,oxidized lard,2
 matsutake,tobacco leaf,9
 matsutake,rosa centifolia,2
-matsutake,muscat grape,49
+matsutake,muscat grape,48
 matsutake,sparkling wine,44
 matsutake,strawberry jam,14
 matsutake,prune,6
@@ -65295,7 +64760,7 @@ matsutake,thymus,7
 matsutake,michelia champaca,2
 matsutake,petitgrain,6
 matsutake,soursop,13
-matsutake,sauvignon blanc grape,49
+matsutake,sauvignon blanc grape,48
 matsutake,snap bean,50
 matsutake,nutmeg,11
 matsutake,mung bean,50
@@ -65370,7 +64835,7 @@ matsutake,mussel,16
 matsutake,mentha timija,4
 matsutake,violet root,2
 matsutake,peanut butter,50
-matsutake,sauvignon grape,49
+matsutake,sauvignon grape,48
 matsutake,storax,2
 matsutake,parmesan cheese,59
 matsutake,radish,18
@@ -65379,14 +64844,14 @@ matsutake,plumcot,9
 matsutake,scallop,32
 matsutake,toasted oat groat,2
 matsutake,oak musk,6
-matsutake,soybean,61
+matsutake,soybean,60
 matsutake,narcissus,9
 matsutake,tamarind,33
 matsutake,vervain,2
 matsutake,rose apple,6
 matsutake,turkey,65
 matsutake,prickly pear,18
-matsutake,pork sausage,49
+matsutake,pork sausage,48
 matsutake,rutabaga,6
 matsutake,sake,20
 matsutake,shiitake,71
@@ -65412,7 +64877,7 @@ matsutake,valerian,2
 matsutake,olive,28
 matsutake,sweetfish,37
 matsutake,spearmint,27
-matsutake,rice,49
+matsutake,rice,48
 matsutake,paraguay petitgrain,2
 matsutake,tobacco flower,2
 matsutake,sweet grass,13
@@ -65442,7 +64907,7 @@ matsutake,okra,14
 matsutake,orange flower,6
 matsutake,seed,2
 matsutake,orange leaf,6
-matsutake,pork belly,49
+matsutake,pork belly,48
 matsutake,thai pepper,14
 matsutake,zanthoxylum rhetsa,4
 matsutake,neroli bigarade,2
@@ -65462,7 +64927,7 @@ matsutake,vegetable,4
 matsutake,sherry,49
 matsutake,orris,6
 matsutake,starfruit,40
-matsutake,muscadine grape,49
+matsutake,muscadine grape,48
 matsutake,tuna,43
 matsutake,sandalwood,4
 matsutake,papaya,47
@@ -65686,7 +65151,6 @@ boronia ledifolia leaf,french potato,2
 boronia ledifolia leaf,pork belly,2
 boronia ledifolia leaf,cream,2
 boronia ledifolia leaf,lamb,6
-boronia ledifolia leaf,clove,2
 boronia ledifolia leaf,camembert cheese,2
 boronia ledifolia leaf,ewe,2
 boronia ledifolia leaf,hop,4
@@ -65716,7 +65180,7 @@ bantu beer,ptychotis ajowan seed,2
 bantu beer,ceylon citronella,4
 bantu beer,olive,34
 bantu beer,melaleuca bracteata,2
-bantu beer,cabernet sauvignon wine,70
+bantu beer,cabernet sauvignon wine,69
 bantu beer,grape vine,7
 bantu beer,reunion geranium,6
 bantu beer,guava,61
@@ -65732,7 +65196,7 @@ bantu beer,champagne wine,65
 bantu beer,wood apple,2
 bantu beer,guinea orange,2
 bantu beer,dairy,10
-bantu beer,mozzarella cheese,67
+bantu beer,mozzarella cheese,66
 bantu beer,wild strawberry,36
 bantu beer,white bread,45
 bantu beer,buchu,10
@@ -65744,7 +65208,7 @@ bantu beer,tobacco leaf,9
 bantu beer,petasites fragrans,2
 bantu beer,jasminum odoratissimum,2
 bantu beer,curcuma,2
-bantu beer,sparkling wine,67
+bantu beer,sparkling wine,66
 bantu beer,strawberry jam,17
 bantu beer,mandarin peel,4
 bantu beer,sheep milk,11
@@ -65759,7 +65223,7 @@ bantu beer,sheep cheese,66
 bantu beer,cabernet sauvignon grape,61
 bantu beer,lavender,23
 bantu beer,japanese whiskey,2
-bantu beer,currant,67
+bantu beer,currant,66
 bantu beer,bergamot,4
 bantu beer,frankfurter,38
 bantu beer,lavandin,10
@@ -65801,7 +65265,7 @@ bantu beer,japanese hop,2
 bantu beer,radish,24
 bantu beer,bulgarian clary sage,4
 bantu beer,oak musk,4
-bantu beer,soybean,67
+bantu beer,soybean,66
 bantu beer,laurel leaf,6
 bantu beer,herring,63
 bantu beer,crownberry,33
@@ -65842,7 +65306,7 @@ bantu beer,roman chamomile,25
 bantu beer,guinea pepper,13
 bantu beer,kola nut,9
 bantu beer,dwarf quince,31
-bantu beer,wort,49
+bantu beer,wort,48
 bantu beer,potato chip,22
 bantu beer,mammee,2
 bantu beer,plum,42
@@ -65865,7 +65329,7 @@ bantu beer,camembert cheese,67
 bantu beer,pine,2
 bantu beer,lovage leaf,2
 bantu beer,chinese cabbage,2
-bantu beer,hop,72
+bantu beer,hop,71
 bantu beer,butterfat,4
 bantu beer,plant,2
 bantu beer,ocimum gratissimum,2
@@ -65876,7 +65340,7 @@ bantu beer,melaleuca smithii,2
 bantu beer,plum brandy,18
 bantu beer,cabbage,43
 bantu beer,litsea zeylanica,7
-bantu beer,tomato,63
+bantu beer,tomato,62
 bantu beer,ylangylang,9
 bantu beer,mexican lime,33
 bantu beer,wild berry,34
@@ -65906,7 +65370,7 @@ bantu beer,brazil rosewood,7
 bantu beer,fig,47
 bantu beer,savory,4
 bantu beer,trassi,28
-bantu beer,coffee,69
+bantu beer,coffee,68
 bantu beer,eucalyptus goniocalyx,2
 bantu beer,lovage root,7
 bantu beer,citrus,46
@@ -65931,7 +65395,7 @@ bantu beer,mung bean,53
 bantu beer,rosemary,11
 bantu beer,french peppermint,29
 bantu beer,bone,2
-bantu beer,parmesan cheese,69
+bantu beer,parmesan cheese,68
 bantu beer,fish,82
 bantu beer,prawn,2
 bantu beer,turnip,2
@@ -65944,7 +65408,7 @@ bantu beer,ximenia aegyptiaca,2
 bantu beer,oak tar,2
 bantu beer,violet root,2
 bantu beer,mate,54
-bantu beer,swiss cheese,68
+bantu beer,swiss cheese,67
 bantu beer,barley,36
 bantu beer,quince,31
 bantu beer,mantis shrimp,49
@@ -66022,7 +65486,6 @@ bantu beer,zanthoxylum rhetsa,4
 bantu beer,mint,25
 bantu beer,bog blueberry,34
 bantu beer,beet root,7
-bantu beer,clove,25
 bantu beer,geranium,10
 bantu beer,phellodendron amurense fruit,2
 bantu beer,sherry,69
@@ -66317,7 +65780,7 @@ bantu beer,lingonberry,10
 bantu beer,petitgrain lemon,6
 bantu beer,eucalyptus hemilampra,2
 bantu beer,oatmeal,17
-bantu beer,shrimp,68
+bantu beer,shrimp,67
 bantu beer,pistachio,9
 bantu beer,imperatoria,2
 bantu beer,cranberry,49
@@ -66608,7 +66071,6 @@ capsicum annuum,french potato,11
 capsicum annuum,melaleuca trichostachya,2
 capsicum annuum,pork belly,2
 capsicum annuum,mint,23
-capsicum annuum,clove,17
 capsicum annuum,tea tree,4
 capsicum annuum,palm fruit,4
 capsicum annuum,sherry,14
@@ -67232,14 +66694,14 @@ chicken,guinea pepper,22
 chicken,kola nut,36
 chicken,wort,76
 chicken,squash,9
-chicken,potato chip,66
+chicken,potato chip,65
 chicken,mammee,9
 chicken,plum,70
 chicken,mountain papaya,54
 chicken,mulberry leaf,9
 chicken,wheat bran,26
 chicken,dolphin,9
-chicken,honey,68
+chicken,honey,67
 chicken,dwarf quince,61
 chicken,rice bran,37
 chicken,durian,16
@@ -67273,14 +66735,14 @@ chicken,walnut,48
 chicken,eucalyptus cinereea,10
 chicken,fig,79
 chicken,orange,83
-chicken,trassi,66
+chicken,trassi,65
 chicken,coffee,86
 chicken,lovage root,16
 chicken,citrus,71
 chicken,wild marjoram,9
 chicken,muskmelon,77
 chicken,jonquil,9
-chicken,coriander,63
+chicken,coriander,62
 chicken,weinbrand,9
 chicken,coffee flower,9
 chicken,petitgrain bergamot,9
@@ -67356,12 +66818,11 @@ chicken,grape must,9
 chicken,pork belly,89
 chicken,zanthoxylum rhetsa,16
 chicken,mint,67
-chicken,clove,41
 chicken,peach,77
 chicken,sherry,83
 chicken,lily,16
 chicken,lavender vera,9
-chicken,salmon,91
+chicken,salmon,90
 chicken,ruta chalepensis,9
 chicken,orange peel,46
 chicken,mace,22
@@ -67369,7 +66830,7 @@ chicken,seabream,81
 chicken,litsea cubeba,10
 chicken,watercress,36
 chicken,rye flour,26
-chicken,oyster,65
+chicken,oyster,64
 chicken,sperm whale,9
 chicken,mastic gum,38
 chicken,pepino melon,9
@@ -67397,7 +66858,7 @@ chicken,pumpkin,48
 chicken,kidney bean,93
 chicken,italian orange,9
 chicken,goat cheese,86
-chicken,mandarin,65
+chicken,mandarin,64
 chicken,coal tar,9
 chicken,cryptomeria japonica,9
 chicken,european cranberry,82
@@ -67545,7 +67006,7 @@ chicken,snap bean,83
 chicken,sour cherry,36
 chicken,pilchard,81
 chicken,chinese star anise,16
-chicken,cider,66
+chicken,cider,65
 chicken,palm,26
 chicken,domiati cheese,86
 chicken,pine turpentine,2
@@ -67597,7 +67058,7 @@ chicken,valerian,9
 chicken,citrus peel,76
 chicken,tobacco flower,9
 chicken,eucalyptus globulus,17
-chicken,peppermint,66
+chicken,peppermint,65
 chicken,doryphora sassafras leaf,9
 chicken,malagueta pepper,22
 chicken,lobster,16
@@ -67619,7 +67080,7 @@ chicken,leek,83
 chicken,orange flower,9
 chicken,furcraea gigantean flower,9
 chicken,german chamomile,2
-chicken,mustard,49
+chicken,mustard,48
 chicken,roquefort cheese,86
 chicken,feijoa,16
 chicken,wheat flake,26
@@ -67852,7 +67313,6 @@ arrack,dwarf quince,2
 arrack,rice bran,2
 arrack,pork belly,2
 arrack,starfruit,2
-arrack,clove,2
 arrack,southern pea,2
 arrack,peach,4
 arrack,camembert cheese,4
@@ -68682,7 +68142,6 @@ caviar,trassi,9
 caviar,starfruit,6
 caviar,sandalwood,2
 caviar,satsuma,2
-caviar,clove,4
 caviar,lemon,4
 caviar,gruyere cheese,18
 caviar,peach,4
@@ -68928,7 +68387,6 @@ abies balsamea,white wine,2
 abies balsamea,swiss cheese,2
 abies balsamea,mandarin,2
 abies balsamea,lemon balm,2
-abies balsamea,chokecherry,2
 abies balsamea,rum,2
 abies balsamea,corn,2
 abies balsamea,rabbiteye blueberry,2
@@ -68988,7 +68446,7 @@ abies balsamea,bog blueberry,2
 abies balsamea,cream,2
 abies balsamea,angelica,4
 abies balsamea,satsuma,2
-abies balsamea,clove,2
+abies balsamea,chokecherry,2
 abies balsamea,lemon,2
 abies balsamea,wild raspberry,2
 abies balsamea,camembert cheese,2
@@ -69265,7 +68723,7 @@ celery,mung bean,24
 celery,rosemary,10
 celery,french peppermint,19
 celery,parmesan cheese,27
-celery,fish,61
+celery,fish,60
 celery,phellodendron amurense fruit,2
 celery,myrtle,10
 celery,chokecherry,26
@@ -69329,7 +68787,6 @@ celery,orange leaf,7
 celery,pork belly,27
 celery,zanthoxylum rhetsa,4
 celery,mint,31
-celery,clove,14
 celery,tea tree,4
 celery,mentha crispa,2
 celery,sherry,24
@@ -69968,7 +69425,7 @@ rice,rose apple,6
 rice,turkey,65
 rice,rutabaga,9
 rice,sake,20
-rice,shiitake,49
+rice,shiitake,48
 rice,thymus mastichina,2
 rice,yam,4
 rice,spike,2
@@ -70150,7 +69607,7 @@ kidney bean,muskmelon,65
 kidney bean,palm,10
 kidney bean,malay apple,14
 kidney bean,limburger cheese,72
-kidney bean,pineapple,63
+kidney bean,pineapple,62
 kidney bean,laurel,30
 kidney bean,reunion geranium,6
 kidney bean,porcini,77
@@ -70196,7 +69653,7 @@ kidney bean,petitgrain bigarade,10
 kidney bean,oxidized lard,6
 kidney bean,peru balsam,10
 kidney bean,rosa centifolia,6
-kidney bean,muscat grape,72
+kidney bean,muscat grape,71
 kidney bean,sparkling wine,70
 kidney bean,strawberry jam,30
 kidney bean,mandarin peel,10
@@ -70210,7 +69667,7 @@ kidney bean,sauvignon blanc grape,71
 kidney bean,thymus,14
 kidney bean,long pepper,21
 kidney bean,paraguay petitgrain,6
-kidney bean,loganberry,63
+kidney bean,loganberry,62
 kidney bean,whitefish,63
 kidney bean,snap bean,84
 kidney bean,nutmeg,27
@@ -70219,7 +69676,7 @@ kidney bean,mung bean,84
 kidney bean,rosemary,27
 kidney bean,vanilla,59
 kidney bean,pinus excelsa,6
-kidney bean,myrtleberry,61
+kidney bean,myrtleberry,60
 kidney bean,pilchard,63
 kidney bean,pork,97
 kidney bean,wintergreen,6
@@ -70231,7 +69688,7 @@ kidney bean,roman chamomile,30
 kidney bean,pinus sabiniana terpentine,6
 kidney bean,lobster,6
 kidney bean,monkey orange,43
-kidney bean,seal,61
+kidney bean,seal,60
 kidney bean,lavandin,14
 kidney bean,lentil,6
 kidney bean,myrtle,10
@@ -70268,10 +69725,10 @@ kidney bean,pinus sylvestris,6
 kidney bean,salmon,82
 kidney bean,tabasco pepper,21
 kidney bean,thymus caespeititius,6
-kidney bean,sesame seed,63
+kidney bean,sesame seed,62
 kidney bean,peated malt,14
 kidney bean,petitgrain lime,10
-kidney bean,rabbiteye blueberry,61
+kidney bean,rabbiteye blueberry,60
 kidney bean,provolone cheese,72
 kidney bean,parsnip root,18
 kidney bean,raspberry,81
@@ -70330,7 +69787,7 @@ kidney bean,licorice,55
 kidney bean,parsley,46
 kidney bean,rye flour,7
 kidney bean,yam,6
-kidney bean,whale,61
+kidney bean,whale,60
 kidney bean,wood,10
 kidney bean,oyster,36
 kidney bean,spike,6
@@ -70346,7 +69803,7 @@ kidney bean,tangerine,51
 kidney bean,munster cheese,72
 kidney bean,sea bass,63
 kidney bean,scotch spearmint,49
-kidney bean,orange,72
+kidney bean,orange,71
 kidney bean,tea leaf,6
 kidney bean,pinus jeffreyi,6
 kidney bean,pecan,77
@@ -70363,7 +69820,7 @@ kidney bean,prune,18
 kidney bean,tobacco flower,6
 kidney bean,sweet grass,27
 kidney bean,malt,82
-kidney bean,wheaten bread,67
+kidney bean,wheaten bread,66
 kidney bean,sheep cheese,72
 kidney bean,yellow passion fruit,18
 kidney bean,peppermint,47
@@ -70401,7 +69858,7 @@ kidney bean,texas sage,6
 kidney bean,pinus sabiniana,6
 kidney bean,peach,59
 kidney bean,rhubarb,18
-kidney bean,wild raspberry,61
+kidney bean,wild raspberry,60
 kidney bean,tea tree,10
 kidney bean,palm fruit,10
 kidney bean,saffron,10
@@ -71022,7 +70479,7 @@ goat cheese,vitis,2
 goat cheese,orris,7
 goat cheese,leek,44
 goat cheese,orange flower,2
-goat cheese,ham,61
+goat cheese,ham,60
 goat cheese,mustard,13
 goat cheese,roquefort cheese,74
 goat cheese,origanum,2
@@ -71038,7 +70495,7 @@ goat cheese,guarana,2
 goat cheese,soy sauce,2
 goat cheese,irish whiskey,2
 bean,comte cheese,79
-bean,mackerel,69
+bean,mackerel,68
 bean,loquat,60
 bean,cabernet sauvignon wine,79
 bean,grape vine,7
@@ -71117,14 +70574,14 @@ bean,crownberry,67
 bean,lime,58
 bean,rutabaga,30
 bean,sake,44
-bean,brown rice,77
+bean,brown rice,76
 bean,sphaeranthus indicus,7
 bean,guinea orange,7
 bean,crab,74
 bean,spike,7
-bean,blueberry,68
+bean,blueberry,67
 bean,italian lime,56
-bean,horse mackerel,69
+bean,horse mackerel,68
 bean,tangerine,60
 bean,munster cheese,79
 bean,melon,70
@@ -71135,7 +70592,7 @@ bean,olive,65
 bean,finnish whiskey,13
 bean,malt whiskey,13
 bean,krill,38
-bean,spearmint,68
+bean,spearmint,67
 bean,pinus sabiniana terpentine,7
 bean,hog plum,22
 bean,hinoki,7
@@ -71145,7 +70602,7 @@ bean,roman chamomile,38
 bean,guinea pepper,26
 bean,kola nut,30
 bean,carrot,60
-bean,wort,68
+bean,wort,67
 bean,potato chip,47
 bean,eucalyptus hemilampra,7
 bean,mountain papaya,47
@@ -71176,7 +70633,7 @@ bean,litsea zeylanica,7
 bean,tomato,81
 bean,ylangylang,22
 bean,parsnip fruit,13
-bean,wild berry,68
+bean,wild berry,67
 bean,mango,78
 bean,egg,64
 bean,wine,86
@@ -71265,7 +70722,7 @@ bean,emmental cheese,79
 bean,prune,22
 bean,sweet grass,34
 bean,corn tortilla,22
-bean,haddock,69
+bean,haddock,68
 bean,melaleuca viridiflora,7
 bean,sweet potato,30
 bean,cowberry,67
@@ -71277,15 +70734,14 @@ bean,cape gooseberry,74
 bean,ginger,68
 bean,kumquat peel,18
 bean,seed,22
-bean,french potato,77
+bean,french potato,76
 bean,orange leaf,18
 bean,grape must,7
 bean,pork belly,79
 bean,zanthoxylum rhetsa,13
 bean,mint,62
-bean,bog blueberry,68
+bean,bog blueberry,67
 bean,beet root,22
-bean,clove,41
 bean,savory,7
 bean,tea tree,13
 bean,palm fruit,13
@@ -71296,7 +70752,7 @@ bean,lavender vera,7
 bean,salmon,84
 bean,orange peel,38
 bean,mace,26
-bean,seabream,69
+bean,seabream,68
 bean,litsea cubeba,7
 bean,vervain,7
 bean,watercress,22
@@ -71344,7 +70800,7 @@ bean,tobacco,18
 bean,pinus jeffreyi terpentine,7
 bean,eucalyptus maideni,7
 bean,cumin,18
-bean,whitefish,69
+bean,whitefish,68
 bean,myrtleberry,67
 bean,nutmeg,34
 bean,cruciferae seed,26
@@ -71389,7 +70845,7 @@ bean,scallop,63
 bean,elderberry fruit,13
 bean,brussels sprout,30
 bean,turkey,85
-bean,beef,97
+bean,beef,96
 bean,caraway seed,13
 bean,shiitake,81
 bean,parsley,54
@@ -71406,7 +70862,7 @@ bean,eremocitrus glauca,7
 bean,elettaria caradmomum,7
 bean,wild rice,18
 bean,liver,7
-bean,sweetfish,69
+bean,sweetfish,68
 bean,kumquat,13
 bean,capsicum,26
 bean,vanilla,66
@@ -71428,16 +70884,15 @@ bean,texas sage,7
 bean,wild raspberry,67
 bean,ewe,67
 bean,chicory,7
-bean,catfish,69
+bean,catfish,68
 bean,sapodilla,7
 bean,cream,41
 bean,jamaican rum,80
 bean,muscadine grape,78
-bean,cod,69
+bean,cod,68
 bean,fenugreek,34
 bean,citrus flower,7
 bean,papaya,76
-bean,clove pink,7
 bean,mutton liver,19
 bean,keta salmon,75
 bean,fruit,13
@@ -71495,11 +70950,11 @@ bean,onion,70
 bean,ethiopian pepper,26
 bean,michelia champaca,7
 bean,soursop,26
-bean,eel,69
+bean,eel,68
 bean,snap bean,87
 bean,blackberry,75
 bean,turmeric,18
-bean,pilchard,69
+bean,pilchard,68
 bean,wintergreen,7
 bean,thymus,18
 bean,dalbergia sissoo,7
@@ -71507,7 +70962,7 @@ bean,palm,13
 bean,domiati cheese,79
 bean,leaf,34
 bean,okra,44
-bean,grapefruit,68
+bean,grapefruit,67
 bean,toasted oat,64
 bean,truffle,49
 bean,rose apple,34
@@ -71518,7 +70973,7 @@ bean,corn,83
 bean,thymus caespeititius,7
 bean,sesame seed,68
 bean,raspberry,84
-bean,pike,69
+bean,pike,68
 bean,botrytized wine,77
 bean,benzoin,7
 bean,lingonberry,26
@@ -71544,8 +70999,8 @@ bean,blue cheese,80
 bean,origanum,18
 bean,gin,26
 bean,wood tar,7
-bean,globefish,69
-bean,sea bass,69
+bean,globefish,68
+bean,sea bass,68
 bean,parsnip root,22
 bean,citrus peel,67
 bean,cheddar cheese,79
@@ -72130,7 +71585,7 @@ muscat grape,saxifragaceae,2
 muscat grape,rabbiteye blueberry,40
 muscat grape,provolone cheese,55
 muscat grape,white currant,2
-muscat grape,raspberry,68
+muscat grape,raspberry,67
 muscat grape,sapodilla fruit,4
 muscat grape,rosaceae,2
 muscat grape,skim milk,7
@@ -72176,7 +71631,7 @@ muscat grape,purple passion fruit,2
 muscat grape,parsnip root,2
 muscat grape,rutabaga,7
 muscat grape,sake,20
-muscat grape,shiitake,49
+muscat grape,shiitake,48
 muscat grape,parsley,20
 muscat grape,winter melon,2
 muscat grape,yam,2
@@ -72184,7 +71639,7 @@ muscat grape,spike,2
 muscat grape,rum brandy,2
 muscat grape,satsuma mandarin peel,4
 muscat grape,squid,7
-muscat grape,mushroom,49
+muscat grape,mushroom,48
 muscat grape,neroli,19
 muscat grape,shallot,2
 muscat grape,tangerine,40
@@ -72242,7 +71697,7 @@ muscat grape,tea tree,4
 muscat grape,palm fruit,14
 muscat grape,saffron,4
 muscat grape,pinto bean,45
-muscat grape,porcini,49
+muscat grape,porcini,48
 muscat grape,papaver somniferum,2
 muscat grape,oat,27
 muscat grape,sapodilla,2
@@ -72348,14 +71803,13 @@ prunus laurocerasus,robinia pseudoacacia,2
 prunus laurocerasus,tuberose,2
 ambrette,ambrette seed,4
 chinese cinnamon,pork,18
-chinese cinnamon,enokidake,2
+chinese cinnamon,ylangylang,2
 chinese cinnamon,matsutake,2
 chinese cinnamon,melaleuca bracteata,2
 chinese cinnamon,pork belly,2
 chinese cinnamon,cinnamon leaf,2
 chinese cinnamon,porcini,2
 chinese cinnamon,starfruit,2
-chinese cinnamon,clove,2
 chinese cinnamon,shiitake,2
 chinese cinnamon,white wine,2
 chinese cinnamon,cognac,2
@@ -72369,11 +71823,11 @@ chinese cinnamon,loquat,2
 chinese cinnamon,pork sausage,2
 chinese cinnamon,vetiver,2
 chinese cinnamon,cocoa leaf,2
-chinese cinnamon,plum,2
-chinese cinnamon,ylangylang,2
+chinese cinnamon,vanilla,2
+chinese cinnamon,enokidake,2
 chinese cinnamon,neroli bigarade,2
 chinese cinnamon,strawberry,4
-chinese cinnamon,vanilla,2
+chinese cinnamon,plum,2
 darwinia grandiflora,tomato,2
 darwinia grandiflora,thymus,2
 darwinia grandiflora,lavender,4
@@ -72926,7 +72380,6 @@ bay,thai pepper,2
 bay,myrtle,2
 bay,holy basil,2
 bay,betel,2
-bay,clove,2
 bay,mastic gum leaf,2
 bay,tarragon,2
 bay,rose,2
@@ -73802,7 +73255,7 @@ bulgarian rose,olive,6
 bulgarian rose,soursop,2
 bulgarian rose,emmental cheese,4
 bulgarian rose,tsuga canadensis,2
-bulgarian rose,honey,4
+bulgarian rose,crisp bread,4
 bulgarian rose,hog plum,6
 bulgarian rose,prune,2
 bulgarian rose,capsicum,4
@@ -73830,7 +73283,7 @@ bulgarian rose,cape gooseberry,2
 bulgarian rose,pinto bean,4
 bulgarian rose,ginger,6
 bulgarian rose,saigon cinnamon,4
-bulgarian rose,crisp bread,4
+bulgarian rose,honey,4
 bulgarian rose,rosa bourboniana,4
 bulgarian rose,chestnut flower,9
 bulgarian rose,carrot,6
@@ -73840,7 +73293,6 @@ bulgarian rose,thai pepper,4
 bulgarian rose,cassia,2
 bulgarian rose,starfruit,9
 bulgarian rose,lamb,10
-bulgarian rose,clove,6
 bulgarian rose,lemon,4
 bulgarian rose,dill blossom,9
 bulgarian rose,peach,2
@@ -74001,7 +73453,6 @@ artichoke,mantis shrimp,4
 artichoke,litchi,2
 artichoke,cantaloupe,4
 artichoke,lemon balm,2
-artichoke,chokecherry,4
 artichoke,cauliflower,4
 artichoke,rum,4
 artichoke,pear,6
@@ -74111,7 +73562,7 @@ artichoke,bog blueberry,4
 artichoke,starfruit,6
 artichoke,lamb,10
 artichoke,satsuma,9
-artichoke,clove,2
+artichoke,chokecherry,4
 artichoke,lemon,9
 artichoke,gruyere cheese,4
 artichoke,peach,4
@@ -74360,7 +73811,6 @@ betel,thai pepper,2
 betel,cajeput,2
 betel,myrtle,2
 betel,holy basil,2
-betel,clove,2
 betel,mastic gum leaf,2
 betel,tarragon,2
 betel,rose,2
@@ -74494,7 +73944,7 @@ nut,nutmeg,4
 nut,rosemary,4
 nut,sauvignon grape,18
 nut,pilchard,7
-nut,pork,68
+nut,pork,67
 nut,sea buckthorn,4
 nut,nut,13
 nut,seal,13
@@ -74939,7 +74389,7 @@ monkey orange,sausage,18
 monkey orange,mutton,20
 monkey orange,okra,2
 monkey orange,tarragon,6
-monkey orange,strawberry,49
+monkey orange,strawberry,48
 monkey orange,pinaceae,4
 monkey orange,myrcia acris,2
 monkey orange,white wine,40
@@ -75329,7 +74779,6 @@ cinnamon leaf,thai pepper,9
 cinnamon leaf,mint,4
 cinnamon leaf,starfruit,2
 cinnamon leaf,satsuma,6
-cinnamon leaf,clove,10
 cinnamon leaf,myrtle,6
 cinnamon leaf,lemon,7
 cinnamon leaf,gruyere cheese,2
@@ -75542,7 +74991,6 @@ california orange peel,pork belly,7
 california orange peel,zanthoxylum rhetsa,4
 california orange peel,mint,6
 california orange peel,calytrix tetragona,4
-california orange peel,clove,2
 california orange peel,sherry,11
 california orange peel,lily,2
 california orange peel,salmon,16
@@ -75606,7 +75054,7 @@ california orange peel,parsley,7
 california orange peel,filipendula ulmaria flower,2
 california orange peel,grapefruit,22
 california orange peel,hyacinth,6
-california orange peel,dill blossom,2
+california orange peel,mushroom,10
 california orange peel,vinegar,4
 california orange peel,cream cheese,10
 california orange peel,sweetfish,9
@@ -75711,7 +75159,7 @@ california orange peel,starfruit,10
 california orange peel,satsuma,4
 california orange peel,myrtle,2
 california orange peel,lemon,10
-california orange peel,mushroom,10
+california orange peel,dill blossom,2
 california orange peel,peach,4
 california orange peel,leek,4
 california orange peel,orange flower,4
@@ -76195,7 +75643,7 @@ mutton,truffle,28
 mutton,pea,64
 mutton,pepper,16
 mutton,rancid coconut,4
-mutton,rum,63
+mutton,rum,62
 mutton,pear,24
 mutton,tabasco pepper,9
 mutton,sesame seed,47
@@ -76218,10 +75666,10 @@ mutton,plum,31
 mutton,raisin,26
 mutton,oatmeal,13
 mutton,shrimp,69
-mutton,tilsit cheese,67
+mutton,tilsit cheese,66
 mutton,peanut,84
 mutton,popcorn,32
-mutton,peanut butter,67
+mutton,peanut butter,66
 mutton,myrtleberry,41
 mutton,seabream,55
 mutton,parmesan cheese,68
@@ -76300,13 +75748,13 @@ mutton,peach,43
 mutton,rhubarb,7
 mutton,wild raspberry,41
 mutton,oat,43
-mutton,sherry,61
+mutton,sherry,60
 mutton,orris,13
 mutton,pistachio,13
 mutton,wild marjoram,4
 mutton,whiskey,55
 mutton,papaya,56
-mutton,roquefort cheese,67
+mutton,roquefort cheese,66
 mutton,mutton liver,6
 mutton,salmon,76
 mutton,ruta chalepensis,4
@@ -76384,7 +75832,7 @@ strawberry,tangerine peel,2
 strawberry,thymus mastichina,4
 strawberry,yam,2
 strawberry,tomato,62
-strawberry,tangerine,49
+strawberry,tangerine,48
 strawberry,wild rice,4
 strawberry,valerian,4
 strawberry,sweetfish,38
@@ -76421,7 +75869,7 @@ strawberry,tulip,6
 strawberry,veal,30
 strawberry,vachellia farnesiana,6
 strawberry,valencia orange,2
-strawberry,wine,78
+strawberry,wine,77
 strawberry,turmeric,9
 sea buckthorn,star anise,4
 sea buckthorn,whiskey,6
@@ -76506,7 +75954,7 @@ elderberry,porcini,31
 elderberry,passion fruit,47
 elderberry,honey fungus,2
 elderberry,sour milk,4
-elderberry,grape,49
+elderberry,grape,48
 elderberry,mastic gum leaf,10
 elderberry,peanut,64
 elderberry,lemon flower,2
@@ -76525,10 +75973,10 @@ elderberry,sparkling wine,37
 elderberry,strawberry jam,7
 elderberry,mandarin peel,10
 elderberry,sheep milk,4
-elderberry,sauvignon blanc grape,49
+elderberry,sauvignon blanc grape,48
 elderberry,petitgrain,10
 elderberry,malt,48
-elderberry,sauvignon grape,49
+elderberry,sauvignon grape,48
 elderberry,pork,87
 elderberry,sea buckthorn,2
 elderberry,lavender,17
@@ -76728,7 +76176,7 @@ elderberry,italian orange,2
 elderberry,goat cheese,36
 elderberry,yogurt,13
 elderberry,watermelon,14
-elderberry,muscat grape,49
+elderberry,muscat grape,48
 elderberry,tobacco,7
 elderberry,whitefish,27
 elderberry,nutmeg,17
@@ -76791,7 +76239,7 @@ elderberry,wild raspberry,52
 elderberry,ewe,25
 elderberry,sapodilla,2
 elderberry,jamaican rum,37
-elderberry,muscadine grape,49
+elderberry,muscadine grape,48
 elderberry,mentha aquatica,4
 elderberry,fenugreek,6
 elderberry,malabar cardamom,2
@@ -77896,7 +77344,6 @@ cauliflower,wort,10
 cauliflower,potato chip,7
 cauliflower,eucalyptus hemilampra,2
 cauliflower,mountain papaya,2
-cauliflower,whiskey,11
 cauliflower,honey,6
 cauliflower,dwarf quince,7
 cauliflower,rice bran,4
@@ -77989,7 +77436,6 @@ cauliflower,orange leaf,4
 cauliflower,pork belly,18
 cauliflower,zanthoxylum rhetsa,4
 cauliflower,mint,7
-cauliflower,clove,2
 cauliflower,sherry,19
 cauliflower,lily,2
 cauliflower,ceylon cinnamon,2
@@ -78035,7 +77481,7 @@ cauliflower,monkey orange,9
 cauliflower,seal,13
 cauliflower,wheat bread,13
 cauliflower,mutton,24
-cauliflower,strawberry,19
+cauliflower,sour cherry,6
 cauliflower,elderberry,13
 cauliflower,yogurt,9
 cauliflower,pinus jeffreyi terpentine,2
@@ -78074,6 +77520,7 @@ cauliflower,ewe,13
 cauliflower,cream,6
 cauliflower,jamaican rum,14
 cauliflower,muscadine grape,19
+cauliflower,strawberry,19
 cauliflower,citrus flower,2
 cauliflower,papaya,9
 cauliflower,keta salmon,18
@@ -78152,7 +77599,7 @@ cauliflower,citrus peel,16
 cauliflower,cheddar cheese,19
 cauliflower,eucalyptus globulus,2
 cauliflower,peppermint,4
-cauliflower,sour cherry,6
+cauliflower,whiskey,11
 cauliflower,malagueta pepper,2
 cauliflower,dill,9
 cauliflower,crisp bread,11
@@ -78263,7 +77710,7 @@ concord grape,olive,42
 concord grape,teucrium chamaedrys,2
 concord grape,grape vine,6
 concord grape,reunion geranium,6
-concord grape,porcini,49
+concord grape,porcini,48
 concord grape,passion fruit,58
 concord grape,milk,44
 concord grape,dill seed,9
@@ -78378,7 +77825,7 @@ concord grape,fermented tea leaf,2
 concord grape,rice bran,13
 concord grape,durian,17
 concord grape,tuberose,6
-concord grape,lamb,63
+concord grape,lamb,62
 concord grape,pinus sabiniana,2
 concord grape,rhubarb,13
 concord grape,hop,63
@@ -78464,7 +77911,7 @@ concord grape,tuna,40
 concord grape,rye ergot,2
 concord grape,japanese peppermint,22
 concord grape,prickly pear,23
-concord grape,enokidake,49
+concord grape,enokidake,48
 concord grape,nut,18
 concord grape,kiwi,34
 concord grape,satsuma mandarin peel,4
@@ -78518,7 +77965,7 @@ concord grape,wine,71
 concord grape,scotch,10
 concord grape,mastic gum fruit,9
 concord grape,wood spirit,2
-concord grape,matsutake,49
+concord grape,matsutake,48
 concord grape,sage,10
 concord grape,fennel,4
 concord grape,rose wine,55
@@ -78560,7 +78007,7 @@ concord grape,japanese star anise,2
 concord grape,corn tortilla,9
 concord grape,mutton,50
 concord grape,sour cherry,20
-concord grape,elderberry,49
+concord grape,elderberry,48
 concord grape,melissa,2
 concord grape,mandarin,37
 concord grape,pinus jeffreyi terpentine,2
@@ -78582,12 +78029,12 @@ concord grape,scallop,22
 concord grape,elderberry fruit,14
 concord grape,oxidized milk,2
 concord grape,turkey,58
-concord grape,shiitake,49
+concord grape,shiitake,48
 concord grape,parsley,20
 concord grape,filipendula ulmaria flower,4
 concord grape,yam,2
 concord grape,hyacinth,6
-concord grape,mushroom,49
+concord grape,mushroom,48
 concord grape,vinegar,26
 concord grape,cream cheese,54
 concord grape,cypress,2
@@ -78696,7 +78143,7 @@ concord grape,thymus caespeititius,2
 concord grape,sesame seed,28
 concord grape,rue,6
 concord grape,elder flower,6
-concord grape,raspberry,68
+concord grape,raspberry,67
 concord grape,pike,34
 concord grape,finnish whiskey,2
 concord grape,lingonberry,10
@@ -78722,7 +78169,7 @@ concord grape,violet leaf,4
 concord grape,sea bass,34
 concord grape,parsnip root,2
 concord grape,valerian,2
-concord grape,potato,78
+concord grape,potato,77
 concord grape,field mint,2
 concord grape,tobacco flower,2
 concord grape,green mate,2
@@ -79292,7 +78739,7 @@ feta cheese,malay apple,4
 feta cheese,limburger cheese,74
 feta cheese,magnolia tripetala,2
 feta cheese,laurel,11
-feta cheese,ham,61
+feta cheese,ham,60
 feta cheese,rose,13
 feta cheese,juniper berry,30
 feta cheese,phebalium dentatum,2
@@ -79340,7 +78787,7 @@ feta cheese,shrimp,62
 feta cheese,pistachio,9
 feta cheese,imperatoria,2
 feta cheese,phellodendron japonicum,2
-feta cheese,rye bread,49
+feta cheese,rye bread,48
 feta cheese,java citronella,7
 feta cheese,plumcot,10
 feta cheese,picea balsamea,2
@@ -79449,7 +78896,7 @@ provolone cheese,sea algae,2
 provolone cheese,truffle,20
 provolone cheese,umbelliferae,2
 provolone cheese,ximenia aegyptiaca,2
-provolone cheese,white wine,65
+provolone cheese,white wine,64
 provolone cheese,swiss cheese,74
 provolone cheese,toasted oat,29
 provolone cheese,yogurt,33
@@ -79475,7 +78922,7 @@ provolone cheese,romano cheese,75
 provolone cheese,violet root,2
 provolone cheese,temoe lawak,2
 provolone cheese,radish,24
-provolone cheese,rye bread,49
+provolone cheese,rye bread,48
 provolone cheese,sturgeon caviar,18
 provolone cheese,tomato,52
 provolone cheese,soybean,58
@@ -79541,7 +78988,7 @@ provolone cheese,tea leaf,4
 provolone cheese,sugarcane,2
 provolone cheese,wheat flake,2
 provolone cheese,tilsit cheese,74
-provolone cheese,salmon,66
+provolone cheese,salmon,65
 provolone cheese,ruta chalepensis,2
 provolone cheese,sesame,2
 provolone cheese,rapeseed,4
@@ -79623,7 +79070,7 @@ ham,litchi,16
 ham,wood,7
 ham,kelp,10
 ham,taiwan citronella,4
-ham,mozzarella cheese,61
+ham,mozzarella cheese,60
 ham,orange,45
 ham,white bread,50
 ham,pinus sabiniana terpentine,4
@@ -79660,7 +79107,7 @@ ham,loganberry,38
 ham,soursop,4
 ham,snap bean,53
 ham,nutmeg,7
-ham,limburger cheese,61
+ham,limburger cheese,60
 ham,mung bean,50
 ham,japanese mint,18
 ham,rosemary,10
@@ -79698,7 +79145,7 @@ ham,toasted oat,40
 ham,mandarin,24
 ham,quince,22
 ham,rose apple,4
-ham,mantis shrimp,49
+ham,mantis shrimp,48
 ham,pea,60
 ham,pepper,7
 ham,lemon balm,14
@@ -79711,7 +79158,7 @@ ham,sesame seed,40
 ham,rue,10
 ham,petitgrain lime,7
 ham,rabbiteye blueberry,38
-ham,provolone cheese,61
+ham,provolone cheese,60
 ham,raspberry,64
 ham,potato chip,25
 ham,mastic gum leaf,4
@@ -79726,7 +79173,7 @@ ham,mace,7
 ham,oatmeal,18
 ham,shrimp,67
 ham,pistachio,13
-ham,roquefort cheese,61
+ham,roquefort cheese,60
 ham,rose,18
 ham,popcorn,31
 ham,mussel,11
@@ -79737,7 +79184,7 @@ ham,wheat bread,53
 ham,myrtleberry,38
 ham,marjoram,9
 ham,seabream,45
-ham,parmesan cheese,63
+ham,parmesan cheese,62
 ham,radish,26
 ham,rye bread,51
 ham,java citronella,10
@@ -79773,10 +79220,10 @@ ham,mushroom,55
 ham,vinegar,16
 ham,shallot,4
 ham,tangerine,24
-ham,munster cheese,61
+ham,munster cheese,60
 ham,sea bass,45
 ham,scotch spearmint,18
-ham,romano cheese,61
+ham,romano cheese,60
 ham,ruta montana,4
 ham,pinus jeffreyi,4
 ham,pecan,70
@@ -79795,8 +79242,8 @@ ham,hinoki,4
 ham,tobacco flower,4
 ham,sweet grass,9
 ham,vanilla,24
-ham,wheaten bread,49
-ham,sheep cheese,61
+ham,wheaten bread,48
+ham,sheep cheese,60
 ham,yellow passion fruit,7
 ham,peppermint,24
 ham,sesame,7
@@ -79845,12 +79292,12 @@ ham,orris,7
 ham,jamaican rum,56
 ham,leek,54
 ham,sandalwood,4
-ham,ham,49
+ham,ham,48
 ham,papaya,47
 ham,mustard,16
 ham,lavender vera,4
 ham,wheat flake,10
-ham,tilsit cheese,61
+ham,tilsit cheese,60
 ham,salmon,69
 ham,ruta chalepensis,4
 ham,orange peel,13
@@ -80355,7 +79802,7 @@ berry,katsuobushi,9
 berry,lima bean,29
 berry,pawpaw,6
 berry,walnut,11
-berry,fig,49
+berry,fig,48
 berry,orange,58
 berry,citronella grass,2
 berry,trassi,10
@@ -80446,7 +79893,6 @@ berry,pork belly,28
 berry,zanthoxylum rhetsa,4
 berry,mint,28
 berry,bog blueberry,52
-berry,clove,20
 berry,tea tree,4
 berry,mentha crispa,2
 berry,sherry,28
@@ -80483,7 +79929,7 @@ berry,taiwan citronella,2
 berry,romano cheese,30
 berry,pinus sabiniana terpentine,2
 berry,pumpkin,9
-berry,kidney bean,61
+berry,kidney bean,60
 berry,italian orange,2
 berry,goat cheese,30
 berry,mandarin,32
@@ -80580,7 +80026,6 @@ berry,mentha aquatica,4
 berry,fenugreek,4
 berry,citrus flower,2
 berry,papaya,40
-berry,clove pink,2
 berry,keta salmon,25
 berry,cloudberry,52
 berry,garlic,6
@@ -80662,7 +80107,7 @@ berry,sesame seed,20
 berry,rue,2
 berry,trifolium incarnatum,2
 berry,elder flower,2
-berry,raspberry,70
+berry,raspberry,69
 berry,pike,23
 berry,botrytized wine,28
 berry,lingonberry,2
@@ -80691,7 +80136,7 @@ berry,gin,11
 berry,globefish,23
 berry,sea bass,23
 berry,parsnip root,2
-berry,potato,69
+berry,potato,68
 berry,citrus peel,41
 berry,cheddar cheese,31
 berry,daffodil,2
@@ -81101,7 +80546,7 @@ peanut butter,prune,6
 peanut butter,tobacco flower,2
 peanut butter,sweet grass,10
 peanut butter,vanilla,29
-peanut butter,wheaten bread,49
+peanut butter,wheaten bread,48
 peanut butter,sheep cheese,56
 peanut butter,roman chamomile,18
 peanut butter,peppermint,24
@@ -81726,7 +81171,6 @@ calamus,muscadine grape,22
 calamus,fenugreek,2
 calamus,thuja occidentalis,2
 calamus,papaya,18
-calamus,clove,16
 calamus,keta salmon,17
 calamus,cloudberry,21
 calamus,cucumber,6
@@ -82036,7 +81480,7 @@ juniper berry,russian cheese,30
 juniper berry,port wine,30
 juniper berry,pinto bean,29
 juniper berry,safflower seed,9
-juniper berry,kidney bean,61
+juniper berry,kidney bean,60
 juniper berry,southern pea,24
 juniper berry,lovage root,6
 juniper berry,whitefish,23
@@ -82300,7 +81744,7 @@ juniper berry,sauerkraut,9
 juniper berry,violet leaf,6
 juniper berry,morus bombycis,2
 juniper berry,peach,34
-juniper berry,potato,69
+juniper berry,potato,68
 juniper berry,thymus zygis,2
 juniper berry,rubus arcticus,6
 juniper berry,ylangylang,11
@@ -82943,10 +82387,10 @@ turkey,turkey,77
 turkey,wheat bread,65
 turkey,wild raspberry,49
 turkey,walnut,28
-turkey,white wine,63
+turkey,white wine,62
 turkey,wood,10
 turkey,yogurt,43
-turkey,veal,77
+turkey,veal,76
 turkey,white bread,63
 turkey,wheat,18
 turkey,wheat flake,18
@@ -83062,7 +82506,7 @@ beef,filbert,92
 beef,tabasco pepper,30
 beef,egg noodle,30
 beef,french lavender,50
-beef,fermented shrimp,86
+beef,fermented shrimp,85
 beef,green bell pepper,30
 beef,rosaceae,10
 beef,skim milk,57
@@ -83111,7 +82555,7 @@ beef,enokidake,88
 beef,roman chamomile,67
 beef,guinea pepper,30
 beef,kola nut,41
-beef,carrot,68
+beef,carrot,67
 beef,wort,83
 beef,potato chip,76
 beef,eucalyptus hemilampra,10
@@ -83201,7 +82645,6 @@ beef,loganberry,79
 beef,chokecherry,77
 beef,lemongrass,41
 beef,rubus arcticus,47
-beef,clove pink,10
 beef,ximenia aegyptiaca,10
 beef,mate,88
 beef,swiss cheese,91
@@ -83273,7 +82716,6 @@ beef,zanthoxylum rhetsa,18
 beef,mint,71
 beef,bog blueberry,77
 beef,beet root,18
-beef,clove,62
 beef,palm fruit,2
 beef,sherry,89
 beef,lily,10
@@ -83315,7 +82757,7 @@ beef,vitis labrusca,4
 beef,chamomile,13
 beef,custard apple,24
 beef,hevea brasiliensis flower,10
-beef,celery,77
+beef,celery,76
 beef,wood,18
 beef,spanish sage,10
 beef,taiwan citronella,18
@@ -83381,7 +82823,7 @@ beef,rose,46
 beef,rabbiteye blueberry,77
 beef,monodora grandiflora,10
 beef,peanut butter,93
-beef,toasted sesame seed,68
+beef,toasted sesame seed,67
 beef,boronia dentigeroides,10
 beef,calamus,65
 beef,chamaecyparis pisifera,10
@@ -83421,7 +82863,7 @@ beef,vanilla,79
 beef,wheaten bread,86
 beef,yellow passion fruit,47
 beef,sesame,24
-beef,chokeberry,86
+beef,chokeberry,85
 beef,sapodilla fruit,18
 beef,cottage cheese,90
 beef,pandanus odoratissimus,18
@@ -83429,7 +82871,7 @@ beef,corn mint,30
 beef,naranjilla,42
 beef,brazil nut,59
 beef,chervil,18
-beef,squid,67
+beef,squid,66
 beef,japanese plum,25
 beef,lemon tree,10
 beef,cacao,10
@@ -83449,12 +82891,12 @@ beef,citrus flower,10
 beef,papaya,85
 beef,polysiphonia fastigiata,10
 beef,mutton liver,43
-beef,keta salmon,89
+beef,keta salmon,88
 beef,cloudberry,82
 beef,garlic,55
 beef,hogweed,10
 beef,birch,10
-beef,tuna,89
+beef,tuna,88
 beef,pork sausage,93
 beef,broccoli,42
 beef,butter,91
@@ -83478,11 +82920,11 @@ beef,laurel,59
 beef,pinaceae,10
 beef,beef liver,30
 beef,cilantro,61
-beef,ham,93
+beef,ham,92
 beef,sunflower,10
 beef,cherry,65
 beef,cayenne,30
-beef,cognac,89
+beef,cognac,88
 beef,nira,10
 beef,jonquil,10
 beef,violet flower,10
@@ -83519,7 +82961,7 @@ beef,domiati cheese,90
 beef,pine turpentine,10
 beef,leaf,46
 beef,okra,68
-beef,feijoa,13
+beef,origanum,11
 beef,silkworm chrysalis,10
 beef,toasted oat,79
 beef,lard,10
@@ -83548,7 +82990,7 @@ beef,oatmeal,60
 beef,shrimp,93
 beef,pistachio,46
 beef,imperatoria,10
-beef,cranberry,86
+beef,cranberry,85
 beef,chive,47
 beef,octopus,10
 beef,malt,93
@@ -83607,7 +83049,7 @@ beef,furcraea gigantean flower,10
 beef,german chamomile,18
 beef,mustard,62
 beef,roquefort cheese,90
-beef,origanum,11
+beef,feijoa,13
 beef,wheat flake,30
 beef,grape syrup,10
 beef,pear,71
@@ -83827,7 +83269,6 @@ caraway seed,zanthoxylum rhetsa,4
 caraway seed,cream,4
 caraway seed,lamb,10
 caraway seed,satsuma,6
-caraway seed,clove,2
 caraway seed,myrtle,2
 caraway seed,lemon,10
 caraway seed,gruyere cheese,4
@@ -83880,12 +83321,11 @@ caraway seed,crayfish,4
 caraway seed,egg,4
 caraway seed,custard apple,2
 caraway seed,wine,4
-auricula,clove,2
-auricula,japanese peppermint,2
 auricula,peppermint,4
+auricula,japanese peppermint,2
+auricula,french peppermint,2
 auricula,carnation,4
 auricula,buckwheat,2
-auricula,french peppermint,2
 shiitake,wood spirit,2
 shiitake,teucrium chamaedrys,2
 shiitake,winter savory,2
@@ -83938,7 +83378,7 @@ shiitake,shrimp,61
 shiitake,tilsit cheese,52
 shiitake,storax,2
 shiitake,toasted oat groat,2
-shiitake,soybean,61
+shiitake,soybean,60
 shiitake,tamarind,33
 shiitake,tuna,43
 shiitake,turkey,65
@@ -84526,7 +83966,7 @@ beer,ptychotis ajowan seed,2
 beer,ceylon citronella,4
 beer,loquat,31
 beer,melaleuca bracteata,2
-beer,cabernet sauvignon wine,70
+beer,cabernet sauvignon wine,69
 beer,grape vine,7
 beer,reunion geranium,6
 beer,guava,61
@@ -84554,7 +83994,7 @@ beer,tobacco leaf,9
 beer,petasites fragrans,2
 beer,jasminum odoratissimum,2
 beer,curcuma,2
-beer,sparkling wine,67
+beer,sparkling wine,66
 beer,strawberry jam,17
 beer,mandarin peel,4
 beer,sheep milk,11
@@ -84565,11 +84005,11 @@ beer,orange tree,2
 beer,myrtleberry,33
 beer,pork,95
 beer,randia formosa flower,2
-beer,sheep cheese,66
-beer,cabernet sauvignon grape,61
+beer,sheep cheese,65
+beer,cabernet sauvignon grape,60
 beer,lavender,23
 beer,japanese whiskey,2
-beer,currant,67
+beer,currant,66
 beer,bergamot,4
 beer,frankfurter,38
 beer,lavandin,10
@@ -84591,7 +84031,7 @@ beer,filbert,64
 beer,tabasco pepper,13
 beer,jasmine,7
 beer,french lavender,19
-beer,fermented shrimp,49
+beer,fermented shrimp,48
 beer,green bell pepper,13
 beer,celery root,2
 beer,custard apple,6
@@ -84601,7 +84041,7 @@ beer,persea pubescens,2
 beer,wild bergamot,7
 beer,chamaecyparis lawsoniana,2
 beer,chicken liver,2
-beer,tilsit cheese,66
+beer,tilsit cheese,65
 beer,cinnamon,24
 beer,smoke,6
 beer,buckwheat,41
@@ -84632,7 +84072,7 @@ beer,blueberry,38
 beer,italian lime,31
 beer,horse mackerel,42
 beer,tangerine,37
-beer,munster cheese,66
+beer,munster cheese,65
 beer,wild strawberry,36
 beer,ruta montana,2
 beer,myrrh,2
@@ -84653,7 +84093,7 @@ beer,roman chamomile,25
 beer,guinea pepper,13
 beer,kola nut,9
 beer,carrot,25
-beer,wort,49
+beer,wort,48
 beer,potato chip,22
 beer,mammee,2
 beer,eucalyptus hemilampra,2
@@ -84677,7 +84117,7 @@ beer,camembert cheese,67
 beer,guava peel,2
 beer,lovage leaf,2
 beer,brazil rosewood,7
-beer,hop,72
+beer,hop,71
 beer,butterfat,4
 beer,plant,2
 beer,ocimum gratissimum,2
@@ -84716,7 +84156,7 @@ beer,sherry wine,2
 beer,fig,47
 beer,savory,4
 beer,trassi,28
-beer,coffee,69
+beer,coffee,68
 beer,lovage root,7
 beer,citrus,46
 beer,castoreum,4
@@ -84751,7 +84191,7 @@ beer,holy basil,2
 beer,mate,54
 beer,swiss cheese,67
 beer,quince,31
-beer,mantis shrimp,49
+beer,mantis shrimp,48
 beer,pinus sylvestris,6
 beer,east african geranium,2
 beer,eucalyptus globulus,6
@@ -84768,7 +84208,7 @@ beer,cucumber,19
 beer,mentha timija,2
 beer,mangosteen,6
 beer,monarda citriodora,2
-beer,cheese,66
+beer,cheese,65
 beer,helichrysum italicum,2
 beer,licorice,32
 beer,eucalyptus goniocalyx,2
@@ -84795,7 +84235,7 @@ beer,cereal,2
 beer,hazelnut,16
 beer,fatty fish,77
 beer,boronia anemonifolia,2
-beer,emmental cheese,66
+beer,emmental cheese,65
 beer,tsuga canadensis,4
 beer,rhus cotinus leaf,2
 beer,prune,10
@@ -84824,7 +84264,6 @@ beer,zanthoxylum rhetsa,4
 beer,mint,25
 beer,bog blueberry,34
 beer,beet root,7
-beer,clove,25
 beer,phellodendron amurense fruit,2
 beer,sherry,69
 beer,lily,4
@@ -84882,7 +84321,7 @@ beer,pinus sabiniana terpentine,2
 beer,pumpkin,14
 beer,kidney bean,78
 beer,italian orange,2
-beer,goat cheese,66
+beer,goat cheese,65
 beer,mandarin,33
 beer,watermelon,4
 beer,cryptomeria japonica,2
@@ -84926,7 +84365,7 @@ beer,concord grape,61
 beer,petitgrain lime,6
 beer,rabbiteye blueberry,33
 beer,feta cheese,66
-beer,provolone cheese,67
+beer,provolone cheese,66
 beer,white currant,2
 beer,sassafras,2
 beer,prunus,2
@@ -84960,7 +84399,7 @@ beer,hyacinth,7
 beer,mushroom,57
 beer,vinegar,31
 beer,marjoram,14
-beer,cream cheese,66
+beer,cream cheese,65
 beer,cypress,4
 beer,eremocitrus glauca,2
 beer,orange,65
@@ -84998,7 +84437,7 @@ beer,vegetable,4
 beer,ceanothus velutinus leaf,2
 beer,starfruit,46
 beer,jamaican rum,69
-beer,muscadine grape,61
+beer,muscadine grape,60
 beer,berry,33
 beer,fenugreek,14
 beer,citrus flower,2
@@ -85053,7 +84492,7 @@ beer,cottage cheese,66
 beer,port wine,66
 beer,safflower seed,10
 beer,endive,21
-beer,gruyere cheese,69
+beer,gruyere cheese,68
 beer,sauvignon grape,61
 beer,lemon peel,10
 beer,guineafowl,40
@@ -85181,7 +84620,7 @@ beer,orange flower,4
 beer,furcraea gigantean flower,2
 beer,german chamomile,6
 beer,mustard,16
-beer,roquefort cheese,66
+beer,roquefort cheese,65
 beer,pine turpentine,2
 beer,origanum,7
 beer,tahiti vanilla,4
@@ -85383,7 +84822,6 @@ blenheim apricot,lime,14
 blenheim apricot,coriander,4
 blenheim apricot,litchi,14
 blenheim apricot,cantaloupe,14
-blenheim apricot,chokecherry,14
 blenheim apricot,filbert,7
 blenheim apricot,tabasco pepper,4
 blenheim apricot,concord grape,14
@@ -85459,7 +84897,7 @@ blenheim apricot,mint,7
 blenheim apricot,durian,14
 blenheim apricot,starfruit,14
 blenheim apricot,satsuma,14
-blenheim apricot,clove,4
+blenheim apricot,chokecherry,14
 blenheim apricot,lemon,14
 blenheim apricot,peach,16
 blenheim apricot,wild raspberry,14
@@ -85678,7 +85116,6 @@ basil,pork belly,2
 basil,mint,7
 basil,bog blueberry,10
 basil,betel,2
-basil,clove,9
 basil,phellodendron amurense fruit,2
 basil,sherry,2
 basil,orange peel,11
@@ -85774,7 +85211,6 @@ basil,muscadine grape,6
 basil,strawberry,11
 basil,papaya,9
 basil,orthodon citraliferum,2
-basil,clove pink,2
 basil,cloudberry,10
 basil,rutaceae,2
 basil,feronia elephantum,2
@@ -86562,7 +85998,7 @@ cream cheese,scotch spearmint,13
 cream cheese,monkey orange,25
 cream cheese,violet,2
 cream cheese,eucalyptus amygdalina,4
-cream cheese,mutton,67
+cream cheese,mutton,66
 cream cheese,sour cherry,10
 cream cheese,elderberry,36
 cream cheese,mandarin,25
@@ -86695,7 +86131,7 @@ cream cheese,shrimp,62
 cream cheese,pistachio,9
 cream cheese,imperatoria,2
 cream cheese,phellodendron japonicum,2
-cream cheese,rye bread,49
+cream cheese,rye bread,48
 cream cheese,java citronella,7
 cream cheese,plumcot,10
 cream cheese,seabream,40
@@ -87562,7 +86998,7 @@ capsicum,soybean,13
 capsicum,laurel leaf,7
 capsicum,herring,4
 capsicum,crownberry,13
-capsicum,lime,19
+capsicum,rose apple,6
 capsicum,hoary basil,2
 capsicum,thymus mastichina,2
 capsicum,picea alba,2
@@ -87701,7 +87137,6 @@ capsicum,french potato,11
 capsicum,wild berry,13
 capsicum,pork belly,2
 capsicum,mint,23
-capsicum,clove,17
 capsicum,tea tree,4
 capsicum,palm fruit,4
 capsicum,sherry,14
@@ -87880,7 +87315,7 @@ capsicum,leaf,11
 capsicum,okra,2
 capsicum,origanum,6
 capsicum,toasted oat,2
-capsicum,rose apple,6
+capsicum,lime,19
 capsicum,pea,16
 capsicum,pepper,62
 capsicum,rum,11
@@ -88242,7 +87677,7 @@ chokeberry,lemon flower,4
 chokeberry,guinea orange,4
 chokeberry,dairy,4
 chokeberry,mozzarella cheese,49
-chokeberry,wild strawberry,69
+chokeberry,melon,53
 chokeberry,white bread,30
 chokeberry,robinia pseudoacacia,7
 chokeberry,pinto bean,48
@@ -88304,7 +87739,7 @@ chokeberry,french marigold,4
 chokeberry,horse mackerel,40
 chokeberry,tangerine,57
 chokeberry,munster cheese,49
-chokeberry,melon,53
+chokeberry,wild strawberry,69
 chokeberry,tea leaf,4
 chokeberry,pinus jeffreyi,4
 chokeberry,pecan,62
@@ -88330,7 +87765,7 @@ chokeberry,dwarf quince,40
 chokeberry,fermented tea leaf,4
 chokeberry,durian,24
 chokeberry,tuberose,10
-chokeberry,lamb,68
+chokeberry,lamb,67
 chokeberry,pinus sabiniana,4
 chokeberry,rhubarb,4
 chokeberry,pine,4
@@ -88350,7 +87785,7 @@ chokeberry,melaleuca trichostachya,4
 chokeberry,tulip,4
 chokeberry,mango,61
 chokeberry,finocchoi fennel,4
-chokeberry,wine,68
+chokeberry,wine,67
 chokeberry,french bean,48
 chokeberry,winter savory,4
 chokeberry,katsuobushi,16
@@ -88438,10 +87873,9 @@ chokeberry,orange leaf,7
 chokeberry,pork belly,47
 chokeberry,zanthoxylum rhetsa,7
 chokeberry,mint,47
-chokeberry,clove,34
 chokeberry,tea tree,7
 chokeberry,mentha crispa,4
-chokeberry,sherry,49
+chokeberry,sherry,48
 chokeberry,lily,7
 chokeberry,salmon,63
 chokeberry,orange peel,24
@@ -88517,7 +87951,7 @@ chokeberry,marjoram,24
 chokeberry,thea chinensis,4
 chokeberry,scallop,26
 chokeberry,elderberry fruit,24
-chokeberry,turkey,68
+chokeberry,turkey,67
 chokeberry,shiitake,47
 chokeberry,wild berry,69
 chokeberry,parsley,44
@@ -88554,8 +87988,7 @@ chokeberry,muscadine grape,60
 chokeberry,strawberry,69
 chokeberry,fenugreek,7
 chokeberry,malabar cardamom,4
-chokeberry,papaya,61
-chokeberry,clove pink,4
+chokeberry,papaya,60
 chokeberry,keta salmon,43
 chokeberry,fruit,28
 chokeberry,garlic,10
@@ -88855,7 +88288,7 @@ russian cheese,shrimp,62
 russian cheese,tilsit cheese,74
 russian cheese,violet root,2
 russian cheese,wheat bread,55
-russian cheese,rye bread,49
+russian cheese,rye bread,48
 russian cheese,scallop,36
 russian cheese,soybean,62
 russian cheese,tamarind,28
@@ -89642,7 +89075,6 @@ brazil nut,kumquat peel,4
 brazil nut,french potato,11
 brazil nut,pork belly,11
 brazil nut,mint,11
-brazil nut,clove,7
 brazil nut,sherry,13
 brazil nut,lily,2
 brazil nut,salmon,23
@@ -90230,7 +89662,6 @@ cinnamomum camphora,tangerine,2
 cinnamomum camphora,orthodon linalooliferum,2
 cinnamomum camphora,lemon peel,4
 cinnamomum camphora,concord grape,2
-cinnamomum camphora,clove,2
 cinnamomum camphora,orange peel,4
 cinnamomum camphora,mandarin,2
 cinnamomum camphora,mexican lime,2
@@ -90514,7 +89945,7 @@ ewe,pumpkin,10
 ewe,trassi,16
 ewe,port wine,28
 ewe,pinto bean,29
-ewe,kidney bean,61
+ewe,kidney bean,60
 ewe,southern pea,20
 ewe,lovage root,2
 ewe,magnolia fuscata,2
@@ -90764,7 +90195,7 @@ ewe,oyster,13
 ewe,okra,9
 ewe,globefish,26
 ewe,french potato,35
-ewe,fatty fish,63
+ewe,fatty fish,62
 ewe,guineafowl,47
 ewe,wild strawberry,22
 ewe,wild rice,4
@@ -90994,7 +90425,7 @@ catfish,mung bean,31
 catfish,rosemary,7
 catfish,french peppermint,10
 catfish,parmesan cheese,42
-catfish,fish,88
+catfish,fish,87
 catfish,prawn,2
 catfish,pinus sabiniana terpentine,2
 catfish,loganberry,24
@@ -91045,7 +90476,6 @@ catfish,grape must,2
 catfish,pork belly,38
 catfish,zanthoxylum rhetsa,4
 catfish,mint,18
-catfish,clove,10
 catfish,sherry,34
 catfish,ceylon cinnamon,4
 catfish,lavender vera,2
@@ -91448,7 +90878,6 @@ carnation,thai pepper,2
 carnation,cassia,2
 carnation,cream,2
 carnation,lamb,6
-carnation,clove,7
 carnation,lemon,4
 carnation,gruyere cheese,4
 carnation,peach,2
@@ -91647,7 +91076,7 @@ jamaican rum,mexican lime,25
 jamaican rum,petitgrain bigarade,4
 jamaican rum,tobacco leaf,10
 jamaican rum,jasminum odoratissimum,2
-jamaican rum,sparkling wine,65
+jamaican rum,sparkling wine,64
 jamaican rum,strawberry jam,21
 jamaican rum,mandarin peel,4
 jamaican rum,sheep milk,14
@@ -91851,7 +91280,7 @@ jamaican rum,scotch spearmint,18
 jamaican rum,monkey orange,29
 jamaican rum,seal,35
 jamaican rum,japanese star anise,2
-jamaican rum,mutton,63
+jamaican rum,mutton,62
 jamaican rum,sour cherry,10
 jamaican rum,yogurt,25
 jamaican rum,pinus jeffreyi terpentine,2
@@ -92010,7 +91439,7 @@ muscadine grape,muskmelon,52
 muscadine grape,wild strawberry,40
 muscadine grape,teucrium chamaedrys,2
 muscadine grape,reunion geranium,6
-muscadine grape,porcini,49
+muscadine grape,porcini,48
 muscadine grape,passion fruit,58
 muscadine grape,wood spirit,2
 muscadine grape,vitis labrusca,7
@@ -92107,7 +91536,7 @@ muscadine grape,saxifragaceae,2
 muscadine grape,rabbiteye blueberry,40
 muscadine grape,provolone cheese,55
 muscadine grape,white currant,2
-muscadine grape,raspberry,68
+muscadine grape,raspberry,67
 muscadine grape,pinus avium fruit,2
 muscadine grape,rosaceae,2
 muscadine grape,skim milk,7
@@ -92151,7 +91580,7 @@ muscadine grape,yam,2
 muscadine grape,pork sausage,38
 muscadine grape,rutabaga,7
 muscadine grape,sake,20
-muscadine grape,shiitake,49
+muscadine grape,shiitake,48
 muscadine grape,parsley,20
 muscadine grape,winter melon,2
 muscadine grape,prickly pear,23
@@ -92161,7 +91590,7 @@ muscadine grape,rum brandy,2
 muscadine grape,sesame,4
 muscadine grape,satsuma mandarin peel,4
 muscadine grape,passion fruit wine,2
-muscadine grape,mushroom,49
+muscadine grape,mushroom,48
 muscadine grape,neroli,19
 muscadine grape,shallot,2
 muscadine grape,tangerine,40
@@ -92253,7 +91682,7 @@ muscadine grape,tomato,55
 muscadine grape,paraguay petitgrain,2
 muscadine grape,peach,40
 muscadine grape,orange peel,20
-muscadine grape,potato,78
+muscadine grape,potato,77
 muscadine grape,rubus arcticus,17
 muscadine grape,ylangylang,13
 muscadine grape,tea leaf,2
@@ -92817,7 +92246,7 @@ papaya,salvia triloba,2
 papaya,wild strawberry,41
 papaya,wild rice,6
 papaya,pinus jeffreyi,2
-papaya,pecan,49
+papaya,pecan,48
 papaya,soursop,17
 papaya,sweetfish,28
 papaya,spearmint,34
@@ -92876,7 +92305,7 @@ papaya,sturgeon caviar,4
 papaya,tuna,31
 papaya,parsnip root,2
 papaya,tobacco,9
-papaya,tomato,49
+papaya,tomato,48
 papaya,sperm whale,2
 papaya,potato,75
 papaya,rubus arcticus,6
@@ -92915,75 +92344,39 @@ orthodon citraliferum,petitgrain,2
 orthodon citraliferum,pineapple,2
 orthodon citraliferum,rosemary,2
 orthodon citraliferum,wine,4
-clove pink,sauvignon grape,2
-clove pink,kiwi,2
-clove pink,wintergreen,2
-clove pink,raisin,2
-clove pink,sage,2
-clove pink,scotch spearmint,4
-clove pink,plumcot,2
-clove pink,french potato,2
-clove pink,french bean,2
-clove pink,soybean,2
-clove pink,papaya,2
-clove pink,tamarind,2
-clove pink,passion fruit,2
-clove pink,crownberry,2
-clove pink,tuberose,4
-clove pink,prickly pear,2
-clove pink,myrtleberry,2
-clove pink,huckleberry,2
-clove pink,whiskey,2
-clove pink,wild raspberry,2
-clove pink,lima bean,2
-clove pink,juniper berry,2
-clove pink,elderberry,2
-clove pink,white wine,2
-clove pink,cognac,2
-clove pink,mate,4
-clove pink,sapodilla,2
-clove pink,wild strawberry,2
-clove pink,jamaican rum,2
-clove pink,muscadine grape,2
-clove pink,hyacinth,2
-clove pink,port wine,2
-clove pink,coffee,2
-clove pink,pinto bean,2
-clove pink,kidney bean,6
-clove pink,rum,2
-clove pink,corn,7
-clove pink,concord grape,2
-clove pink,tolu balsam,2
-clove pink,plum brandy,2
-clove pink,navy bean,2
-clove pink,rabbiteye blueberry,2
-clove pink,peru balsam,2
-clove pink,olive,2
-clove pink,grape,2
-clove pink,muscat grape,2
-clove pink,raspberry,4
-clove pink,strawberry jam,2
-clove pink,jonquil,2
-clove pink,tomato,2
-clove pink,hog plum,4
-clove pink,potato,7
-clove pink,sauvignon blanc grape,2
-clove pink,sweet grass,2
-clove pink,plum,2
-clove pink,european cranberry,2
-clove pink,ylangylang,6
-clove pink,wild berry,2
-clove pink,loganberry,2
-clove pink,strawberry,2
-clove pink,crowberry,2
-clove pink,snap bean,2
-clove pink,cranberry,2
-clove pink,currant,4
-clove pink,mung bean,2
-clove pink,cowberry,2
-clove pink,scotch,2
-clove pink,vanilla,2
-clove pink,mountain papaya,2
+polysiphonia fastigiata,trassi,2
+polysiphonia fastigiata,pork,18
+polysiphonia fastigiata,squid,2
+polysiphonia fastigiata,scallop,2
+polysiphonia fastigiata,pork belly,2
+polysiphonia fastigiata,porcini,2
+polysiphonia fastigiata,whitefish,2
+polysiphonia fastigiata,sweetfish,2
+polysiphonia fastigiata,sauerkraut,2
+polysiphonia fastigiata,tilsit cheese,2
+polysiphonia fastigiata,sake,2
+polysiphonia fastigiata,shiitake,2
+polysiphonia fastigiata,swiss cheese,2
+polysiphonia fastigiata,romano cheese,2
+polysiphonia fastigiata,rice,2
+polysiphonia fastigiata,russian cheese,2
+polysiphonia fastigiata,roquefort cheese,2
+polysiphonia fastigiata,rum,2
+polysiphonia fastigiata,shallot,2
+polysiphonia fastigiata,salmon,4
+polysiphonia fastigiata,sea bass,2
+polysiphonia fastigiata,rapeseed,2
+polysiphonia fastigiata,provolone cheese,2
+polysiphonia fastigiata,seabream,2
+polysiphonia fastigiata,tuna,2
+polysiphonia fastigiata,pork sausage,2
+polysiphonia fastigiata,potato,7
+polysiphonia fastigiata,sheep cheese,2
+polysiphonia fastigiata,shrimp,4
+polysiphonia fastigiata,wheat bread,2
+polysiphonia fastigiata,rafanus sativus root,2
+polysiphonia fastigiata,potato chip,2
+polysiphonia fastigiata,southern pea,2
 orthodon methylisoeugenoliferum,rangpur,2
 orthodon methylisoeugenoliferum,star anise,2
 orthodon methylisoeugenoliferum,orthodon tenuicaule,2
@@ -93100,8 +92493,6 @@ mentha crispa,wild berry,2
 mentha crispa,sour cherry,2
 mentha crispa,watermelon,2
 mentha crispa,mountain papaya,2
-rhodotorula glutinis,skim milk,2
-rhodotorula glutinis,thujopsis dolabrata,2
 rye ergot,tomato,2
 rye ergot,sauvignon grape,2
 rye ergot,wheat bread,2
@@ -93538,7 +92929,7 @@ cloudberry,ylangylang,11
 cloudberry,parsnip fruit,14
 cloudberry,wild berry,52
 cloudberry,tulip,2
-cloudberry,mango,49
+cloudberry,mango,48
 cloudberry,finocchoi fennel,2
 cloudberry,wine,58
 cloudberry,gastrochilus pandurata,2
@@ -93629,7 +93020,6 @@ cloudberry,grape must,2
 cloudberry,pork belly,33
 cloudberry,zanthoxylum rhetsa,4
 cloudberry,mint,32
-cloudberry,clove,24
 cloudberry,tea tree,4
 cloudberry,palm fruit,14
 cloudberry,peach,38
@@ -93670,7 +93060,7 @@ cloudberry,romano cheese,38
 cloudberry,sea buckthorn,4
 cloudberry,rice,33
 cloudberry,pumpkin,9
-cloudberry,kidney bean,66
+cloudberry,kidney bean,65
 cloudberry,italian orange,2
 cloudberry,goat cheese,38
 cloudberry,yogurt,14
@@ -93759,7 +93149,6 @@ cloudberry,mentha aquatica,4
 cloudberry,fenugreek,6
 cloudberry,malabar cardamom,2
 cloudberry,papaya,45
-cloudberry,clove pink,2
 cloudberry,mutton liver,2
 cloudberry,keta salmon,32
 cloudberry,fruit,17
@@ -94687,7 +94076,7 @@ pork sausage,wood,6
 pork sausage,taiwan citronella,4
 pork sausage,wild strawberry,28
 pork sausage,white bread,41
-pork sausage,rice,49
+pork sausage,rice,48
 pork sausage,pumpkin,13
 pork sausage,russian cheese,58
 pork sausage,port wine,40
@@ -94761,7 +94150,7 @@ pork sausage,turkey,77
 pork sausage,prickly pear,18
 pork sausage,rutabaga,10
 pork sausage,sake,16
-pork sausage,shiitake,49
+pork sausage,shiitake,48
 pork sausage,yam,2
 pork sausage,spike,2
 pork sausage,violet leaf,7
@@ -94826,7 +94215,7 @@ pork sausage,tulip,2
 pork sausage,veal,49
 pork sausage,shoro,2
 pork sausage,vachellia farnesiana,2
-pork sausage,wine,63
+pork sausage,wine,62
 pork sausage,scotch,9
 pork sausage,turmeric,2
 broccoli,mastic gum fruit,2
@@ -94959,7 +94348,6 @@ broccoli,corn tortilla,2
 broccoli,pepper,4
 broccoli,lemon balm,4
 broccoli,pinto bean,9
-broccoli,chokecherry,9
 broccoli,cauliflower,16
 broccoli,filbert,9
 broccoli,salmon,18
@@ -95101,7 +94489,7 @@ broccoli,potato chip,4
 broccoli,starfruit,6
 broccoli,lamb,21
 broccoli,satsuma,6
-broccoli,clove,2
+broccoli,chokecherry,9
 broccoli,lemon,6
 broccoli,southern pea,11
 broccoli,peach,9
@@ -95217,7 +94605,6 @@ asarum europaeum root,cajeput,2
 asarum europaeum root,myrtle,2
 asarum europaeum root,holy basil,2
 asarum europaeum root,betel,2
-asarum europaeum root,clove,2
 asarum europaeum root,mastic gum leaf,2
 asarum europaeum root,tarragon,2
 asarum europaeum root,rose,2
@@ -95257,7 +94644,7 @@ butter,parmesan,2
 butter,grape vine,7
 butter,reunion geranium,6
 butter,guava,53
-butter,passion fruit,49
+butter,passion fruit,48
 butter,milk,62
 butter,wood spirit,2
 butter,sour milk,17
@@ -95265,7 +94652,7 @@ butter,grape,47
 butter,mastic gum leaf,6
 butter,peanut,82
 butter,lemon flower,4
-butter,champagne wine,49
+butter,champagne wine,48
 butter,geranium,7
 butter,dairy,17
 butter,mozzarella cheese,59
@@ -95288,7 +94675,7 @@ butter,sauvignon blanc grape,47
 butter,loganberry,36
 butter,malt,63
 butter,sauvignon grape,47
-butter,pork,95
+butter,pork,94
 butter,randia formosa flower,2
 butter,enokidake,51
 butter,cabernet sauvignon grape,47
@@ -95304,7 +94691,7 @@ butter,porcini,51
 butter,sauerkraut,13
 butter,cayenne linaloe,2
 butter,chrysocoris stolli,2
-butter,white wine,61
+butter,white wine,60
 butter,larch tree,2
 butter,litchi,13
 butter,filbert,60
@@ -95485,7 +94872,7 @@ butter,spanish anise,2
 butter,spermaceti,2
 butter,cowberry,31
 butter,toasted sesame seed,19
-butter,coconut,66
+butter,coconut,65
 butter,star anise,4
 butter,cinnamomum,4
 butter,violet,2
@@ -95498,7 +94885,6 @@ butter,grape must,4
 butter,pork belly,58
 butter,zanthoxylum rhetsa,4
 butter,mint,22
-butter,clove,25
 butter,palm fruit,2
 butter,peach,43
 butter,carphephorus paniculatus leaf,2
@@ -95506,7 +94892,7 @@ butter,sherry,52
 butter,lily,2
 butter,ceylon cinnamon,4
 butter,lavender vera,2
-butter,salmon,67
+butter,salmon,66
 butter,ruta chalepensis,2
 butter,hevea brasiliensis flower,2
 butter,mace,6
@@ -95655,7 +95041,6 @@ butter,jamaican rum,57
 butter,muscadine grape,47
 butter,fenugreek,10
 butter,papaya,47
-butter,clove pink,2
 butter,mutton liver,7
 butter,keta salmon,47
 butter,cloudberry,40
@@ -95754,7 +95139,7 @@ butter,mastic gum,13
 butter,rye bread,45
 butter,java citronella,10
 butter,plumcot,13
-butter,cocoa,70
+butter,cocoa,69
 butter,wintergreen,2
 butter,corn salad,9
 butter,caviar,20
@@ -96051,7 +95436,7 @@ fatty fish,teucrium chamaedrys,6
 fatty fish,grape vine,6
 fatty fish,reunion geranium,6
 fatty fish,porcini,70
-fatty fish,passion fruit,63
+fatty fish,passion fruit,62
 fatty fish,milk,72
 fatty fish,sour milk,14
 fatty fish,grape,70
@@ -96083,7 +95468,7 @@ fatty fish,randia formosa flower,6
 fatty fish,sea buckthorn,6
 fatty fish,lavender,27
 fatty fish,japanese whiskey,2
-fatty fish,frankfurter,63
+fatty fish,frankfurter,62
 fatty fish,lavandin,10
 fatty fish,pork liver,24
 fatty fish,sausage,77
@@ -96127,7 +95512,7 @@ fatty fish,pecan,80
 fatty fish,olive,53
 fatty fish,malt whiskey,18
 fatty fish,krill,36
-fatty fish,spearmint,61
+fatty fish,spearmint,60
 fatty fish,pickled ham,6
 fatty fish,hog plum,6
 fatty fish,hinoki,6
@@ -96155,7 +95540,7 @@ fatty fish,plum brandy,24
 fatty fish,litsea zeylanica,6
 fatty fish,tomato,76
 fatty fish,wild berry,55
-fatty fish,mango,68
+fatty fish,mango,67
 fatty fish,kumazasa,2
 fatty fish,wine,82
 fatty fish,tobacco leaf,10
@@ -96166,7 +95551,7 @@ fatty fish,katsuobushi,44
 fatty fish,lima bean,69
 fatty fish,pawpaw,10
 fatty fish,walnut,36
-fatty fish,fig,68
+fatty fish,fig,67
 fatty fish,orange,71
 fatty fish,trassi,51
 fatty fish,wild marjoram,6
@@ -96280,10 +95665,10 @@ fatty fish,white currant,6
 fatty fish,huckleberry,55
 fatty fish,pennyroyal,14
 fatty fish,grain,6
-fatty fish,peanut butter,77
+fatty fish,peanut butter,76
 fatty fish,marjoram,27
 fatty fish,thea chinensis,6
-fatty fish,scallop,63
+fatty fish,scallop,62
 fatty fish,oxidized milk,6
 fatty fish,turkey,83
 fatty fish,shiitake,71
@@ -96306,19 +95691,19 @@ fatty fish,wild raspberry,55
 fatty fish,jamaican rum,70
 fatty fish,muscadine grape,69
 fatty fish,fenugreek,24
-fatty fish,papaya,63
+fatty fish,papaya,62
 fatty fish,polysiphonia fastigiata,6
 fatty fish,mutton liver,6
 fatty fish,keta salmon,84
 fatty fish,garlic,18
 fatty fish,hogweed,6
-fatty fish,whale,63
+fatty fish,whale,62
 fatty fish,pork sausage,72
 fatty fish,fatty fish,84
 fatty fish,jasminum grandiflorum,10
 fatty fish,green mate,6
 fatty fish,feces,6
-fatty fish,veal,63
+fatty fish,veal,62
 fatty fish,rose wine,69
 fatty fish,kaffir lime,36
 fatty fish,finnish pine,6
@@ -96377,9 +95762,9 @@ fatty fish,octopus,6
 fatty fish,rye bread,69
 fatty fish,java citronella,27
 fatty fish,plumcot,10
-fatty fish,rice,72
+fatty fish,rice,71
 fatty fish,piper officinarum,6
-fatty fish,israeli orange,63
+fatty fish,israeli orange,62
 fatty fish,gin,24
 fatty fish,violet leaf,14
 fatty fish,sea bass,81
@@ -96716,7 +96101,6 @@ california laurel,champagne wine,2
 california laurel,cinnamon leaf,4
 california laurel,lime,2
 california laurel,satsuma,2
-california laurel,clove,4
 california laurel,myrtle,2
 california laurel,lemon,2
 california laurel,tarragon,2
@@ -96974,7 +96358,7 @@ crowberry,sauvignon grape,40
 crowberry,pork,84
 crowberry,sheep cheese,31
 crowberry,lavender,16
-crowberry,currant,72
+crowberry,currant,71
 crowberry,frankfurter,22
 crowberry,lavandin,11
 crowberry,pork liver,2
@@ -97060,14 +96444,14 @@ crowberry,melaleuca trichostachya,2
 crowberry,tulip,2
 crowberry,mango,40
 crowberry,egg,18
-crowberry,wine,49
+crowberry,wine,48
 crowberry,french bean,29
 crowberry,winter savory,2
 crowberry,katsuobushi,9
 crowberry,lima bean,29
 crowberry,pawpaw,6
 crowberry,walnut,11
-crowberry,fig,49
+crowberry,fig,48
 crowberry,orange,57
 crowberry,trassi,10
 crowberry,lovage root,6
@@ -97168,7 +96552,7 @@ crowberry,taiwan citronella,2
 crowberry,romano cheese,31
 crowberry,rice,27
 crowberry,pumpkin,9
-crowberry,kidney bean,61
+crowberry,kidney bean,60
 crowberry,italian orange,2
 crowberry,goat cheese,31
 crowberry,yogurt,9
@@ -97358,7 +96742,7 @@ crowberry,sturgeon caviar,2
 crowberry,tangerine peel,2
 crowberry,violet leaf,6
 crowberry,morus bombycis,2
-crowberry,potato,69
+crowberry,potato,68
 crowberry,guarana,14
 crowberry,myrrh,2
 feces,trassi,2
@@ -97571,7 +96955,6 @@ camphor,orange flower,2
 camphor,french potato,7
 camphor,pork belly,7
 camphor,zanthoxylum rhetsa,7
-camphor,clove,7
 camphor,sherry,16
 camphor,salmon,13
 camphor,orange peel,10
@@ -98298,7 +97681,6 @@ choke cherry,quince,14
 choke cherry,lime,14
 choke cherry,litchi,14
 choke cherry,pepper,7
-choke cherry,chokecherry,14
 choke cherry,rum,6
 choke cherry,pear,14
 choke cherry,corn,4
@@ -98394,7 +97776,7 @@ choke cherry,durian,14
 choke cherry,cream,4
 choke cherry,lamb,6
 choke cherry,satsuma,14
-choke cherry,clove,4
+choke cherry,chokecherry,14
 choke cherry,lemon,14
 choke cherry,dill blossom,2
 choke cherry,peach,14
@@ -98475,7 +97857,7 @@ rose wine,temple orange,2
 rose wine,wild rice,2
 rose wine,violet,2
 rose wine,soursop,10
-rose wine,sausage,49
+rose wine,sausage,48
 rose wine,sauerkraut,14
 rose wine,tarragon,6
 rose wine,rubus arcticus,10
@@ -98530,7 +97912,7 @@ rose wine,wheaten bread,36
 rose wine,sheep cheese,57
 rose wine,yellow passion fruit,18
 rose wine,sesame,2
-rose wine,strawberry,63
+rose wine,strawberry,62
 rose wine,wort,36
 rose wine,sweet potato,7
 rose wine,sapodilla fruit,4
@@ -98687,7 +98069,7 @@ kaffir lime,lovage,18
 kaffir lime,purple passion fruit,2
 kaffir lime,petitgrain bergamot,4
 kaffir lime,tobacco,4
-kaffir lime,orange,66
+kaffir lime,orange,65
 kaffir lime,sauvignon blanc grape,35
 kaffir lime,monarda punctata,2
 kaffir lime,thymus,9
@@ -99292,7 +98674,7 @@ limburger cheese,pork liver,10
 limburger cheese,winter savory,2
 limburger cheese,pine turpentine,2
 limburger cheese,sausage,58
-limburger cheese,mutton,67
+limburger cheese,mutton,66
 limburger cheese,mentha timija,2
 limburger cheese,sauerkraut,14
 limburger cheese,rubus arcticus,11
@@ -99472,7 +98854,7 @@ limburger cheese,roquefort cheese,74
 limburger cheese,polysiphonia fastigiata,2
 limburger cheese,origanum,2
 limburger cheese,mutton liver,4
-limburger cheese,salmon,66
+limburger cheese,salmon,65
 limburger cheese,ruta chalepensis,2
 limburger cheese,orange peel,16
 limburger cheese,plum brandy,16
@@ -99999,7 +99381,6 @@ azalea,thai pepper,2
 azalea,cassia,4
 azalea,bog blueberry,2
 azalea,tuberose,9
-azalea,clove,2
 azalea,lemon,6
 azalea,dill blossom,9
 azalea,peach,2
@@ -100456,7 +99837,6 @@ cilantro,mint,10
 cilantro,tuberose,2
 cilantro,lamb,21
 cilantro,satsuma,14
-cilantro,clove,2
 cilantro,pinus sabiniana,2
 cilantro,gruyere cheese,11
 cilantro,peach,6
@@ -100579,7 +99959,7 @@ huckleberry,russian cheese,30
 huckleberry,key lime leaf,2
 huckleberry,pinto bean,29
 huckleberry,safflower seed,9
-huckleberry,kidney bean,61
+huckleberry,kidney bean,60
 huckleberry,southern pea,24
 huckleberry,lovage root,6
 huckleberry,italian orange,2
@@ -100858,7 +100238,7 @@ huckleberry,violet leaf,6
 huckleberry,melaleuca trichostachya,2
 huckleberry,morus bombycis,2
 huckleberry,jasminum grandiflorum,2
-huckleberry,potato,69
+huckleberry,potato,68
 huckleberry,rubus arcticus,6
 huckleberry,ylangylang,11
 huckleberry,parsnip fruit,14
@@ -101102,7 +100482,6 @@ cherry,orange leaf,2
 cherry,grape must,4
 cherry,pork belly,14
 cherry,mint,20
-cherry,clove,17
 cherry,savory,2
 cherry,tea tree,4
 cherry,mentha crispa,2
@@ -101543,7 +100922,6 @@ cayenne,french potato,11
 cayenne,melaleuca trichostachya,2
 cayenne,pork belly,2
 cayenne,mint,23
-cayenne,clove,17
 cayenne,tea tree,4
 cayenne,palm fruit,4
 cayenne,sherry,14
@@ -101988,7 +101366,6 @@ andropogon intermedius,mustard,2
 andropogon intermedius,roquefort cheese,2
 andropogon intermedius,cardamom,2
 andropogon intermedius,pear,2
-andropogon intermedius,clove,2
 andropogon intermedius,keta salmon,2
 andropogon intermedius,cloudberry,2
 andropogon intermedius,hogweed,2
@@ -102069,7 +101446,7 @@ cognac,peanut,77
 cognac,lemon flower,2
 cognac,geranium,14
 cognac,dairy,2
-cognac,mozzarella cheese,61
+cognac,mozzarella cheese,60
 cognac,schizandra nigra,2
 cognac,white bread,35
 cognac,robinia pseudoacacia,4
@@ -102106,7 +101483,7 @@ cognac,sauerkraut,14
 cognac,tarragon,2
 cognac,magnolia,2
 cognac,honey fungus,2
-cognac,white wine,70
+cognac,white wine,69
 cognac,litchi,20
 cognac,filbert,57
 cognac,tabasco pepper,17
@@ -102145,7 +101522,7 @@ cognac,munster cheese,60
 cognac,wild strawberry,31
 cognac,ruta montana,2
 cognac,myrrh,2
-cognac,pecan,49
+cognac,pecan,48
 cognac,olive,37
 cognac,malt whiskey,22
 cognac,krill,14
@@ -102173,7 +101550,7 @@ cognac,fermented tea leaf,2
 cognac,rice bran,16
 cognac,durian,2
 cognac,tuberose,4
-cognac,lamb,67
+cognac,lamb,66
 cognac,grape,59
 cognac,rhubarb,9
 cognac,pine,2
@@ -102349,7 +101726,7 @@ cognac,eucalyptus amygdalina,4
 cognac,japanese star anise,2
 cognac,corn tortilla,6
 cognac,mutton,59
-cognac,strawberry,65
+cognac,strawberry,64
 cognac,sea buckthorn,14
 cognac,elderberry,38
 cognac,melissa,2
@@ -102360,7 +101737,7 @@ cognac,lemon balm,25
 cognac,satureia montana,2
 cognac,concord grape,59
 cognac,rabbiteye blueberry,29
-cognac,feta cheese,61
+cognac,feta cheese,60
 cognac,provolone cheese,60
 cognac,white currant,2
 cognac,ham,48
@@ -102412,7 +101789,7 @@ cognac,ewe,28
 cognac,sapodilla,2
 cognac,vegetable,4
 cognac,starfruit,46
-cognac,jamaican rum,68
+cognac,jamaican rum,67
 cognac,muscadine grape,58
 cognac,fenugreek,14
 cognac,papaya,53
@@ -102473,7 +101850,7 @@ cognac,wintergreen,2
 cognac,daffodil,2
 cognac,long pepper,17
 cognac,palm,6
-cognac,domiati cheese,61
+cognac,domiati cheese,60
 cognac,orchid,2
 cognac,leaf,10
 cognac,okra,16
@@ -102507,7 +101884,7 @@ cognac,plumcot,14
 cognac,corn salad,17
 cognac,tangerine peel,2
 cognac,parsnip,2
-cognac,israeli orange,49
+cognac,israeli orange,48
 cognac,gin,11
 cognac,globefish,33
 cognac,sea bass,33
@@ -103069,7 +102446,6 @@ carob fruit,mint,7
 carob fruit,durian,14
 carob fruit,cream,2
 carob fruit,satsuma,14
-carob fruit,clove,4
 carob fruit,lemon,14
 carob fruit,southern pea,2
 carob fruit,peach,14
@@ -103623,7 +102999,7 @@ cottage cheese,wood apple,2
 cottage cheese,monkey orange,25
 cottage cheese,seal,38
 cottage cheese,eucalyptus amygdalina,4
-cottage cheese,mutton,67
+cottage cheese,mutton,66
 cottage cheese,whiskey,56
 cottage cheese,elderberry,36
 cottage cheese,mandarin,25
@@ -103760,7 +103136,7 @@ cottage cheese,pistachio,9
 cottage cheese,imperatoria,2
 cottage cheese,cranberry,46
 cottage cheese,phellodendron japonicum,2
-cottage cheese,rye bread,49
+cottage cheese,rye bread,48
 cottage cheese,java citronella,7
 cottage cheese,plumcot,10
 cottage cheese,seabream,40
@@ -103869,7 +103245,7 @@ port wine,yogurt,21
 port wine,quince,29
 port wine,satureia montana,2
 port wine,rancid coconut,2
-port wine,rum,65
+port wine,rum,64
 port wine,tabasco pepper,13
 port wine,thymus caespeititius,2
 port wine,sesame seed,22
@@ -103897,7 +103273,7 @@ port wine,soybean,57
 port wine,tamarind,30
 port wine,tuna,38
 port wine,rose apple,13
-port wine,turkey,61
+port wine,turkey,60
 port wine,rhizopus,2
 port wine,purple passion fruit,2
 port wine,rutabaga,10
@@ -104123,7 +103499,7 @@ endive,french peppermint,4
 endive,furcraea gigantean flower,2
 endive,myrtleberry,16
 endive,parmesan cheese,23
-endive,pork,77
+endive,pork,76
 endive,sheep cheese,18
 endive,nut,10
 endive,scotch spearmint,13
@@ -104361,7 +103737,7 @@ gruyere cheese,petitgrain bigarade,4
 gruyere cheese,tobacco leaf,4
 gruyere cheese,hog plum,7
 gruyere cheese,jasminum odoratissimum,2
-gruyere cheese,sparkling wine,61
+gruyere cheese,sparkling wine,60
 gruyere cheese,strawberry jam,14
 gruyere cheese,mandarin peel,7
 gruyere cheese,satureia thymera,2
@@ -104385,7 +103761,7 @@ gruyere cheese,sauerkraut,14
 gruyere cheese,magnolia,2
 gruyere cheese,umbelliferae,2
 gruyere cheese,honey fungus,2
-gruyere cheese,white wine,67
+gruyere cheese,white wine,66
 gruyere cheese,litchi,19
 gruyere cheese,tabasco pepper,17
 gruyere cheese,jasmine,4
@@ -104399,7 +103775,7 @@ gruyere cheese,popcorn,17
 gruyere cheese,mussel,20
 gruyere cheese,radish,22
 gruyere cheese,oak musk,4
-gruyere cheese,soybean,61
+gruyere cheese,soybean,60
 gruyere cheese,laurel leaf,2
 gruyere cheese,herring,62
 gruyere cheese,lime,27
@@ -104440,12 +103816,12 @@ gruyere cheese,raisin,19
 gruyere cheese,honey,40
 gruyere cheese,rice bran,11
 gruyere cheese,tuberose,2
-gruyere cheese,lamb,72
+gruyere cheese,lamb,71
 gruyere cheese,pinus sabiniana,2
 gruyere cheese,rhubarb,7
 gruyere cheese,guava peel,2
 gruyere cheese,lovage leaf,2
-gruyere cheese,hop,70
+gruyere cheese,hop,69
 gruyere cheese,plant,2
 gruyere cheese,ocimum gratissimum,2
 gruyere cheese,kohlrabi,22
@@ -104574,7 +103950,7 @@ gruyere cheese,wood,2
 gruyere cheese,spanish sage,4
 gruyere cheese,taiwan citronella,4
 gruyere cheese,romano cheese,74
-gruyere cheese,rice,49
+gruyere cheese,rice,48
 gruyere cheese,pumpkin,10
 gruyere cheese,kidney bean,76
 gruyere cheese,italian orange,2
@@ -104592,7 +103968,7 @@ gruyere cheese,monkey orange,30
 gruyere cheese,violet,2
 gruyere cheese,japanese star anise,4
 gruyere cheese,mutton,67
-gruyere cheese,strawberry,65
+gruyere cheese,strawberry,64
 gruyere cheese,mandarin,29
 gruyere cheese,pinus jeffreyi terpentine,2
 gruyere cheese,lemon balm,19
@@ -104602,7 +103978,7 @@ gruyere cheese,petitgrain lime,6
 gruyere cheese,rabbiteye blueberry,34
 gruyere cheese,provolone cheese,74
 gruyere cheese,white currant,2
-gruyere cheese,ham,61
+gruyere cheese,ham,60
 gruyere cheese,pennyroyal,6
 gruyere cheese,monodora grandiflora,2
 gruyere cheese,peanut butter,59
@@ -104638,7 +104014,7 @@ gruyere cheese,wild raspberry,33
 gruyere cheese,ruta pinnata leaf,2
 gruyere cheese,macaroni,2
 gruyere cheese,vegetable,4
-gruyere cheese,jamaican rum,66
+gruyere cheese,jamaican rum,65
 gruyere cheese,muscadine grape,60
 gruyere cheese,origanum floribundum,2
 gruyere cheese,papaya,55
@@ -104692,11 +104068,11 @@ gruyere cheese,pea,60
 gruyere cheese,pepper,29
 gruyere cheese,wheat,2
 gruyere cheese,rancid coconut,2
-gruyere cheese,rum,66
+gruyere cheese,rum,65
 gruyere cheese,thymus caespeititius,2
 gruyere cheese,sesame seed,29
 gruyere cheese,rue,6
-gruyere cheese,raspberry,65
+gruyere cheese,raspberry,64
 gruyere cheese,pike,42
 gruyere cheese,lingonberry,9
 gruyere cheese,split pea,2
@@ -104825,7 +104201,7 @@ sauvignon grape,trifolium incarnatum,2
 sauvignon grape,tamarind,32
 sauvignon grape,vervain,2
 sauvignon grape,turkey,58
-sauvignon grape,shiitake,49
+sauvignon grape,shiitake,48
 sauvignon grape,winter melon,2
 sauvignon grape,yam,2
 sauvignon grape,whale,26
@@ -105139,7 +104515,7 @@ guineafowl,pumpkin,10
 guineafowl,russian cheese,38
 guineafowl,port wine,28
 guineafowl,pinto bean,29
-guineafowl,kidney bean,61
+guineafowl,kidney bean,60
 guineafowl,southern pea,21
 guineafowl,licorice,18
 guineafowl,magnolia fuscata,2
@@ -105407,7 +104783,7 @@ chinese quince,guava,43
 chinese quince,passion fruit,49
 chinese quince,milk,31
 chinese quince,sour milk,2
-chinese quince,grape,49
+chinese quince,grape,48
 chinese quince,mastic gum leaf,4
 chinese quince,peanut,62
 chinese quince,geranium,7
@@ -105591,7 +104967,6 @@ chinese quince,grape must,2
 chinese quince,pork belly,25
 chinese quince,zanthoxylum rhetsa,2
 chinese quince,mint,19
-chinese quince,clove,16
 chinese quince,tea tree,4
 chinese quince,palm fruit,16
 chinese quince,sherry,40
@@ -105833,7 +105208,7 @@ chinese quince,rapeseed,6
 chinese quince,sturgeon caviar,7
 chinese quince,cuttlefish,2
 chinese quince,violet leaf,2
-chinese quince,potato,67
+chinese quince,potato,66
 chinese quince,guarana,14
 chinese quince,irish whiskey,2
 wild grape,wood apple,2
@@ -105905,7 +105280,7 @@ california orange,petitgrain,13
 california orange,graminaceae,2
 california orange,cayenne rosewood,2
 california orange,ginger grass,6
-california orange,sauvignon grape,49
+california orange,sauvignon grape,48
 california orange,pork,86
 california orange,sea buckthorn,4
 california orange,lavender,27
@@ -105959,7 +105334,7 @@ california orange,spike,7
 california orange,italian lime,54
 california orange,french marigold,2
 california orange,horse mackerel,23
-california orange,tangerine,61
+california orange,tangerine,60
 california orange,munster cheese,43
 california orange,wild strawberry,42
 california orange,tea leaf,2
@@ -106013,7 +105388,7 @@ california orange,melaleuca smithii,2
 california orange,plum brandy,9
 california orange,mentha citrata,2
 california orange,litsea zeylanica,6
-california orange,tomato,49
+california orange,tomato,48
 california orange,ylangylang,18
 california orange,mexican lime,55
 california orange,wild berry,42
@@ -106036,7 +105411,7 @@ california orange,eucalyptus australianavar,2
 california orange,pawpaw,14
 california orange,walnut,11
 california orange,sherry wine,2
-california orange,fig,49
+california orange,fig,48
 california orange,orange,82
 california orange,citronella grass,2
 california orange,trassi,14
@@ -106141,7 +105516,6 @@ california orange,grape must,2
 california orange,pork belly,32
 california orange,zanthoxylum rhetsa,9
 california orange,mint,36
-california orange,clove,27
 california orange,tea tree,4
 california orange,mentha crispa,2
 california orange,sherry,42
@@ -106189,7 +105563,7 @@ california orange,romano cheese,44
 california orange,helichrysum angustifolium,2
 california orange,rice,31
 california orange,pumpkin,4
-california orange,kidney bean,63
+california orange,kidney bean,62
 california orange,italian orange,2
 california orange,goat cheese,43
 california orange,yogurt,14
@@ -106255,7 +105629,7 @@ california orange,shiitake,40
 california orange,parsley,32
 california orange,filipendula ulmaria flower,4
 california orange,yam,2
-california orange,cognac,49
+california orange,cognac,48
 california orange,hyacinth,10
 california orange,mushroom,40
 california orange,vinegar,16
@@ -106296,15 +105670,15 @@ california orange,carnation,4
 california orange,vegetable,4
 california orange,starfruit,46
 california orange,jamaican rum,46
-california orange,muscadine grape,49
+california orange,muscadine grape,48
 california orange,mentha aquatica,4
 california orange,origanum floribundum,2
 california orange,thuja occidentalis,4
-california orange,papaya,49
+california orange,papaya,48
 california orange,orthodon citraliferum,2
 california orange,polysiphonia fastigiata,2
 california orange,keta salmon,31
-california orange,cloudberry,49
+california orange,cloudberry,48
 california orange,garlic,4
 california orange,feronia elephantum,2
 california orange,hogweed,2
@@ -106313,7 +105687,7 @@ california orange,tuna,31
 california orange,calyptranthes parriculata,2
 california orange,melaleuca,2
 california orange,eucalyptus,24
-california orange,fatty fish,63
+california orange,fatty fish,62
 california orange,peach,34
 california orange,cymbopogon citralis,2
 california orange,crowberry,41
@@ -106343,7 +105717,7 @@ california orange,cottage cheese,43
 california orange,key lime leaf,4
 california orange,safflower seed,11
 california orange,endive,16
-california orange,gruyere cheese,49
+california orange,gruyere cheese,48
 california orange,lemon peel,21
 california orange,guineafowl,18
 california orange,chinese quince,41
@@ -106435,7 +105809,7 @@ california orange,cassia,13
 california orange,cream,11
 california orange,sandalwood,6
 california orange,satsuma,51
-california orange,lemon,63
+california orange,lemon,62
 california orange,dill blossom,6
 california orange,nectandra elaiophora,4
 california orange,cascarilla,2
@@ -107265,7 +106639,7 @@ clam,peanut butter,43
 clam,marjoram,9
 clam,provolone cheese,38
 clam,scallop,29
-clam,turkey,61
+clam,turkey,60
 clam,shiitake,40
 clam,parsley,16
 clam,cognac,31
@@ -107296,7 +106670,6 @@ clam,fenugreek,4
 clam,papaya,29
 clam,satsuma,9
 clam,mutton liver,2
-clam,clove,10
 clam,keta salmon,34
 clam,cloudberry,26
 clam,garlic,6
@@ -107316,7 +106689,7 @@ clam,finnish pine,2
 clam,malay apple,2
 clam,limburger cheese,38
 clam,laurel,9
-clam,ham,49
+clam,ham,48
 clam,rose,9
 clam,juniper berry,24
 clam,grapefruit,21
@@ -107368,7 +106741,7 @@ clam,cranberry,31
 clam,octopus,2
 clam,rye bread,26
 clam,plumcot,6
-clam,cocoa,61
+clam,cocoa,60
 clam,israeli orange,25
 clam,gin,6
 clam,wood tar,2
@@ -107415,7 +106788,7 @@ onion,porcini,38
 onion,pinaceae,4
 onion,sour milk,4
 onion,shellfish,6
-onion,peanut,77
+onion,peanut,76
 onion,pawpaw,7
 onion,walnut,11
 onion,wood,10
@@ -108504,7 +107877,7 @@ eel,mung bean,31
 eel,rosemary,7
 eel,french peppermint,10
 eel,parmesan cheese,42
-eel,fish,88
+eel,fish,87
 eel,prawn,2
 eel,petitgrain,4
 eel,lemongrass,9
@@ -108700,7 +108073,7 @@ eel,gin,7
 eel,globefish,59
 eel,sea bass,59
 eel,valerian,2
-eel,potato,69
+eel,potato,68
 eel,field mint,2
 eel,tobacco flower,2
 eel,eucalyptus globulus,2
@@ -108784,7 +108157,7 @@ snap bean,turkey,64
 snap bean,yam,2
 snap bean,whale,29
 snap bean,spike,2
-snap bean,tomato,49
+snap bean,tomato,48
 snap bean,tangerine,23
 snap bean,wild rice,6
 snap bean,sweetfish,31
@@ -108863,17 +108236,17 @@ blackberry,mandarin peel,10
 blackberry,satureia thymera,2
 blackberry,sheep milk,4
 blackberry,lamb liver,2
-blackberry,sauvignon blanc grape,49
+blackberry,sauvignon blanc grape,48
 blackberry,monarda punctata,4
 blackberry,loganberry,55
 blackberry,cayenne rosewood,2
 blackberry,ginger grass,6
-blackberry,sauvignon grape,49
+blackberry,sauvignon grape,48
 blackberry,pork,88
 blackberry,sheep cheese,41
-blackberry,cabernet sauvignon grape,49
+blackberry,cabernet sauvignon grape,48
 blackberry,lavender,20
-blackberry,currant,77
+blackberry,currant,76
 blackberry,frankfurter,26
 blackberry,lavandin,13
 blackberry,pork liver,6
@@ -108905,7 +108278,7 @@ blackberry,chamaecyparis formosensis root,2
 blackberry,radish,17
 blackberry,bulgarian clary sage,2
 blackberry,oak musk,4
-blackberry,soybean,49
+blackberry,soybean,48
 blackberry,herring,47
 blackberry,crownberry,52
 blackberry,lime,38
@@ -109002,7 +108375,7 @@ blackberry,walnut,13
 blackberry,eucalyptus cinereea,2
 blackberry,chinese cabbage,4
 blackberry,fig,51
-blackberry,orange,67
+blackberry,orange,66
 blackberry,citronella grass,2
 blackberry,trassi,16
 blackberry,coffee,40
@@ -109037,7 +108410,6 @@ blackberry,flower,2
 blackberry,sumatra benzoin,2
 blackberry,rubus arcticus,16
 blackberry,sea algae,2
-blackberry,clove pink,2
 blackberry,violet root,2
 blackberry,mate,46
 blackberry,swiss cheese,43
@@ -109105,7 +108477,6 @@ blackberry,pork belly,37
 blackberry,zanthoxylum rhetsa,4
 blackberry,mint,38
 blackberry,bog blueberry,52
-blackberry,clove,27
 blackberry,savory,2
 blackberry,tea tree,4
 blackberry,palm fruit,14
@@ -109196,7 +108567,7 @@ blackberry,lemon balm,22
 blackberry,satureia montana,2
 blackberry,cauliflower,17
 blackberry,myrcia acris,2
-blackberry,concord grape,49
+blackberry,concord grape,48
 blackberry,petitgrain lime,4
 blackberry,rabbiteye blueberry,52
 blackberry,feta cheese,41
@@ -109263,7 +108634,7 @@ blackberry,catfish,28
 blackberry,sapodilla,2
 blackberry,starfruit,47
 blackberry,jamaican rum,44
-blackberry,muscadine grape,49
+blackberry,muscadine grape,48
 blackberry,strawberry,62
 blackberry,origanum floribundum,2
 blackberry,malabar cardamom,2
@@ -109432,7 +108803,7 @@ blackberry,potato,77
 blackberry,guarana,14
 blackberry,soy sauce,2
 blackberry,pinus jeffreyi,2
-blackberry,wine,63
+blackberry,wine,62
 turmeric,watermelon,4
 turmeric,wild bergamot,2
 turmeric,wild raspberry,9
@@ -109641,7 +109012,7 @@ pilchard,whale,27
 pilchard,pork sausage,38
 pilchard,tomato,38
 pilchard,sperm whale,2
-pilchard,potato,69
+pilchard,potato,68
 pilchard,rubus arcticus,7
 pilchard,wild berry,23
 pilchard,veal,26
@@ -110400,7 +109771,7 @@ domiati cheese,scotch spearmint,13
 domiati cheese,monkey orange,25
 domiati cheese,violet,2
 domiati cheese,eucalyptus amygdalina,4
-domiati cheese,mutton,67
+domiati cheese,mutton,66
 domiati cheese,sour cherry,10
 domiati cheese,elderberry,36
 domiati cheese,mandarin,25
@@ -110478,7 +109849,7 @@ domiati cheese,malay apple,4
 domiati cheese,limburger cheese,74
 domiati cheese,magnolia tripetala,2
 domiati cheese,laurel,11
-domiati cheese,ham,61
+domiati cheese,ham,60
 domiati cheese,rose,13
 domiati cheese,juniper berry,30
 domiati cheese,phebalium dentatum,2
@@ -110531,7 +109902,7 @@ domiati cheese,shrimp,62
 domiati cheese,pistachio,9
 domiati cheese,imperatoria,2
 domiati cheese,phellodendron japonicum,2
-domiati cheese,rye bread,49
+domiati cheese,rye bread,48
 domiati cheese,java citronella,7
 domiati cheese,plumcot,10
 domiati cheese,rice,46
@@ -110897,7 +110268,7 @@ okra,rosemary,2
 okra,orange tree,2
 okra,sauvignon grape,11
 okra,parmesan cheese,14
-okra,pork,72
+okra,pork,71
 okra,randia formosa flower,2
 okra,scotch spearmint,13
 okra,roman chamomile,7
@@ -111172,7 +110543,6 @@ american cranberry,pork belly,2
 american cranberry,cassia,2
 american cranberry,cream,4
 american cranberry,satsuma,4
-american cranberry,clove,6
 american cranberry,lemon,4
 american cranberry,camembert cheese,6
 american cranberry,hop,9
@@ -111184,7 +110554,6 @@ american cranberry,leek,7
 american cranberry,champaca,2
 american cranberry,papaya,6
 american cranberry,roquefort cheese,4
-american cranberry,clove pink,2
 american cranberry,feijoa,4
 american cranberry,buckwheat,4
 american cranberry,orange peel,4
@@ -112526,7 +111895,7 @@ rum,ruta pinnata leaf,2
 rum,vitis,4
 rum,sapodilla,2
 rum,vegetable,4
-rum,sherry,66
+rum,sherry,65
 rum,starfruit,40
 rum,salmon,62
 rum,ruta chalepensis,2
@@ -112618,7 +111987,7 @@ corn,laurel leaf,4
 corn,herring,60
 corn,crownberry,40
 corn,lime,31
-corn,raspberry,70
+corn,raspberry,69
 corn,rutabaga,6
 corn,sake,25
 corn,hoary basil,4
@@ -112663,7 +112032,7 @@ corn,tuberose,7
 corn,lamb,77
 corn,pinus sabiniana,4
 corn,rhubarb,7
-corn,hop,68
+corn,hop,67
 corn,ocimum gratissimum,2
 corn,kohlrabi,23
 corn,melaleuca smithii,4
@@ -112816,7 +112185,7 @@ corn,japanese star anise,4
 corn,wheat bread,48
 corn,mutton,66
 corn,strawberry,60
-corn,elderberry,49
+corn,elderberry,48
 corn,mandarin,33
 corn,pinus jeffreyi terpentine,4
 corn,lemon balm,25
@@ -112840,7 +112209,7 @@ corn,parsley,26
 corn,hyacinth,7
 corn,mushroom,52
 corn,neroli,18
-corn,cream cheese,61
+corn,cream cheese,60
 corn,cypress,6
 corn,eremocitrus glauca,4
 corn,elettaria caradmomum,4
@@ -112850,7 +112219,7 @@ corn,vanilla,35
 corn,wheaten bread,41
 corn,yellow passion fruit,10
 corn,sesame,6
-corn,cottage cheese,61
+corn,cottage cheese,60
 corn,pandanus odoratissimus,7
 corn,corn mint,20
 corn,naranjilla,7
@@ -112943,7 +112312,7 @@ corn,shrimp,64
 corn,pistachio,11
 corn,cranberry,49
 corn,phellodendron japonicum,2
-corn,rye bread,49
+corn,rye bread,48
 corn,java citronella,19
 corn,plumcot,13
 corn,seabream,38
@@ -113000,7 +112369,6 @@ asarum canadense root,cajeput,2
 asarum canadense root,myrtle,2
 asarum canadense root,holy basil,2
 asarum canadense root,betel,2
-asarum canadense root,clove,2
 asarum canadense root,mastic gum leaf,2
 asarum canadense root,tarragon,2
 asarum canadense root,rose,2
@@ -113385,7 +112753,7 @@ jaborandi leaf,phellodendron amurense,2
 jaborandi leaf,rue,4
 jaborandi leaf,palm,4
 jaborandi leaf,litsea odorifera,4
-raspberry,rose wine,63
+raspberry,rose wine,62
 raspberry,raspberry brandy,4
 raspberry,sage,21
 raspberry,teucrium chamaedrys,4
@@ -113417,13 +112785,13 @@ raspberry,sheep milk,9
 raspberry,tobacco,18
 raspberry,thyme,20
 raspberry,scallop,35
-raspberry,sauvignon blanc grape,68
+raspberry,sauvignon blanc grape,67
 raspberry,thymus,17
 raspberry,vervain,2
 raspberry,snap bean,58
 raspberry,rosemary,25
 raspberry,sour cherry,30
-raspberry,sauvignon grape,68
+raspberry,sauvignon grape,67
 raspberry,wintergreen,4
 raspberry,waste wort,2
 raspberry,sea buckthorn,9
@@ -113738,7 +113106,7 @@ pike,tuna,59
 pike,pork sausage,38
 pike,tomato,38
 pike,sperm whale,2
-pike,potato,69
+pike,potato,68
 pike,rubus arcticus,7
 pike,wild berry,23
 pike,veal,26
@@ -113881,7 +113249,7 @@ botrytized wine,whale,28
 botrytized wine,rhubarb,6
 botrytized wine,camembert cheese,57
 botrytized wine,brazil rosewood,2
-botrytized wine,hop,61
+botrytized wine,hop,60
 botrytized wine,plant,2
 botrytized wine,ocimum gratissimum,2
 botrytized wine,kohlrabi,17
@@ -113996,7 +113364,6 @@ botrytized wine,grape must,4
 botrytized wine,pork belly,41
 botrytized wine,zanthoxylum rhetsa,2
 botrytized wine,mint,25
-botrytized wine,clove,24
 botrytized wine,savory,2
 botrytized wine,sherry,75
 botrytized wine,lily,4
@@ -114101,12 +113468,12 @@ botrytized wine,juniper berry,28
 botrytized wine,scallop,23
 botrytized wine,green bell pepper,13
 botrytized wine,brussels sprout,9
-botrytized wine,turkey,61
+botrytized wine,turkey,60
 botrytized wine,caraway seed,2
 botrytized wine,shiitake,44
 botrytized wine,parsley,18
 botrytized wine,buttermilk,7
-botrytized wine,cognac,65
+botrytized wine,cognac,64
 botrytized wine,hyacinth,7
 botrytized wine,mushroom,44
 botrytized wine,vinegar,24
@@ -114156,7 +113523,7 @@ botrytized wine,pimento,4
 botrytized wine,tuna,38
 botrytized wine,pork sausage,40
 botrytized wine,kencur,2
-botrytized wine,butter,49
+botrytized wine,butter,48
 botrytized wine,eucalyptus,2
 botrytized wine,fatty fish,68
 botrytized wine,peach,34
@@ -114523,7 +113890,6 @@ petitgrain lemon,rosemary,2
 petitgrain lemon,vanilla,2
 petitgrain lemon,wine,10
 boldo,mastic gum fruit,2
-boldo,clove,2
 boldo,lemon,2
 boldo,eucalyptus globulus,2
 boldo,calabash nutmeg,2
@@ -115639,6 +115005,7 @@ chive,japanese peppermint,4
 chive,sheep cheese,7
 chive,fish,28
 chive,scotch spearmint,13
+chive,endive,2
 chive,currant,4
 chive,monkey orange,2
 chive,seal,4
@@ -115766,22 +115133,20 @@ chive,orange leaf,2
 chive,pork belly,4
 chive,welsh onion,4
 chive,durian,4
-chive,endive,2
+chive,cream,2
 chive,lamb,10
 chive,satsuma,2
-chive,clove,9
 chive,lemon,2
 chive,southern pea,2
 chive,peach,2
 chive,rhubarb,2
 chive,wild raspberry,2
 chive,chokecherry,2
-chive,scotch,2
 chive,ewe,4
 chive,oat,2
 chive,hop,7
 chive,sherry,7
-chive,cream,2
+chive,yogurt,2
 chive,dill seed,6
 chive,muscadine grape,6
 chive,cod,9
@@ -115808,7 +115173,7 @@ chive,eucalyptus,4
 chive,toasted sesame seed,2
 chive,fatty fish,21
 chive,potato,13
-chive,yogurt,2
+chive,scotch,2
 chive,wild berry,2
 chive,mastic gum,4
 chive,crowberry,2
@@ -115965,7 +115330,6 @@ angelica root,ocotea usambarensis,4
 angelica root,cantaloupe,7
 angelica root,lemon balm,4
 angelica root,pinto bean,4
-angelica root,chokecherry,13
 angelica root,cauliflower,7
 angelica root,filbert,10
 angelica root,corn,16
@@ -116101,7 +115465,7 @@ angelica root,bog blueberry,13
 angelica root,endive,4
 angelica root,lamb,18
 angelica root,satsuma,7
-angelica root,clove,6
+angelica root,chokecherry,13
 angelica root,myrtle,10
 angelica root,pinus sabiniana,7
 angelica root,southern pea,4
@@ -116521,7 +115885,7 @@ rye bread,saffron,4
 rye bread,sherry,47
 rye bread,wheat flake,2
 rye bread,tahiti vanilla,4
-rye bread,salmon,61
+rye bread,salmon,60
 rye bread,sturgeon caviar,11
 rye bread,whale,30
 rye bread,watercress,7
@@ -116867,7 +116231,6 @@ celery seed,thai pepper,4
 celery seed,mint,9
 celery seed,starfruit,4
 celery seed,satsuma,6
-celery seed,clove,7
 celery seed,lemon,6
 celery seed,hop,4
 celery seed,sherry,2
@@ -117049,7 +116412,6 @@ almond flower,cassia,2
 almond flower,bog blueberry,2
 almond flower,starfruit,4
 almond flower,satsuma,2
-almond flower,clove,2
 almond flower,lemon,6
 almond flower,dill blossom,9
 almond flower,peach,2
@@ -117125,7 +116487,7 @@ cocoa,lamb liver,10
 cocoa,sauvignon blanc grape,69
 cocoa,loganberry,47
 cocoa,magnolia fuscata,4
-cocoa,sauvignon grape,69
+cocoa,sauvignon grape,68
 cocoa,pork,97
 cocoa,enokidake,68
 cocoa,lavender,26
@@ -117197,7 +116559,7 @@ cocoa,wort,57
 cocoa,potato chip,40
 cocoa,mammee,4
 cocoa,mountain papaya,36
-cocoa,whiskey,72
+cocoa,whiskey,71
 cocoa,pear brandy,7
 cocoa,dolphin,4
 cocoa,passion fruit wine,4
@@ -117229,7 +116591,7 @@ cocoa,french bean,67
 cocoa,grapefruit peel,18
 cocoa,pineapple,67
 cocoa,winter savory,4
-cocoa,katsuobushi,49
+cocoa,katsuobushi,48
 cocoa,lima bean,67
 cocoa,pawpaw,25
 cocoa,walnut,24
@@ -117318,7 +116680,7 @@ cocoa,seal,61
 cocoa,ginger,51
 cocoa,kumquat peel,10
 cocoa,seed,10
-cocoa,french potato,70
+cocoa,french potato,69
 cocoa,orange leaf,10
 cocoa,grape must,6
 cocoa,pork belly,71
@@ -117424,7 +116786,7 @@ cocoa,wild rice,26
 cocoa,liver,4
 cocoa,sweetfish,51
 cocoa,vanilla,56
-cocoa,wheaten bread,69
+cocoa,wheaten bread,68
 cocoa,yellow passion fruit,24
 cocoa,hedychium spicatum,4
 cocoa,sesame,10
@@ -117442,7 +116804,7 @@ cocoa,wild raspberry,44
 cocoa,ewe,60
 cocoa,starfruit,51
 cocoa,jamaican rum,78
-cocoa,muscadine grape,69
+cocoa,muscadine grape,68
 cocoa,fenugreek,19
 cocoa,malabar cardamom,4
 cocoa,papaya,65
@@ -117554,7 +116916,7 @@ cocoa,malagueta pepper,20
 cocoa,palm,7
 cocoa,dill,29
 cocoa,palmarosa,13
-cocoa,crisp bread,67
+cocoa,crisp bread,66
 cocoa,thai pepper,20
 cocoa,cream,41
 cocoa,sandalwood,13
@@ -118167,7 +117529,6 @@ anise,zanthoxylum rhetsa,4
 anise,mint,14
 anise,bog blueberry,4
 anise,cayenne,9
-anise,clove,16
 anise,savory,2
 anise,pinus communis,2
 anise,phellodendron amurense fruit,2
@@ -118582,7 +117943,7 @@ israeli orange,melaleuca smithii,2
 israeli orange,plum brandy,9
 israeli orange,mentha citrata,2
 israeli orange,litsea zeylanica,6
-israeli orange,tomato,49
+israeli orange,tomato,48
 israeli orange,ylangylang,18
 israeli orange,parsnip fruit,16
 israeli orange,wild berry,43
@@ -118932,9 +118293,9 @@ blue cheese,sauerkraut,14
 blue cheese,magnolia,2
 blue cheese,umbelliferae,2
 blue cheese,honey fungus,2
-blue cheese,white wine,67
+blue cheese,white wine,66
 blue cheese,litchi,16
-blue cheese,filbert,61
+blue cheese,filbert,60
 blue cheese,tabasco pepper,10
 blue cheese,egg noodle,7
 blue cheese,french lavender,17
@@ -119146,7 +118507,6 @@ blue cheese,pork belly,57
 blue cheese,zanthoxylum rhetsa,4
 blue cheese,mint,24
 blue cheese,bog blueberry,32
-blue cheese,clove,18
 blue cheese,palm fruit,6
 blue cheese,french bean,47
 blue cheese,sherry,63
@@ -119154,7 +118514,7 @@ blue cheese,lily,4
 blue cheese,ceylon cinnamon,4
 blue cheese,lavender vera,2
 blue cheese,sugarcane,2
-blue cheese,salmon,67
+blue cheese,salmon,66
 blue cheese,ruta chalepensis,2
 blue cheese,orange peel,18
 blue cheese,mace,6
@@ -119454,7 +118814,7 @@ blue cheese,burley tobacco,4
 blue cheese,orris,9
 blue cheese,leek,47
 blue cheese,furcraea gigantean flower,2
-blue cheese,ham,63
+blue cheese,ham,62
 blue cheese,mustard,13
 blue cheese,roquefort cheese,74
 blue cheese,feijoa,7
@@ -120477,14 +119837,12 @@ acacia caven,pinto bean,2
 acacia caven,french potato,2
 acacia caven,bog blueberry,2
 acacia caven,tuberose,4
-acacia caven,clove,4
 acacia caven,wild raspberry,2
 acacia caven,sapodilla,2
 acacia caven,orris,2
 acacia caven,jamaican rum,2
 acacia caven,muscadine grape,2
 acacia caven,papaya,2
-acacia caven,clove pink,2
 acacia caven,plum brandy,2
 acacia caven,cloudberry,2
 acacia caven,birch,2
@@ -120551,7 +119909,7 @@ potato,walnut,31
 potato,wood,10
 potato,spanish sage,7
 potato,taiwan citronella,9
-potato,wild strawberry,69
+potato,wild strawberry,68
 potato,white bread,71
 potato,violet flower,7
 potato,pumpkin,35
@@ -120566,14 +119924,14 @@ potato,sheep milk,31
 potato,thyme,38
 potato,tobacco,27
 potato,scallop,65
-potato,sauvignon blanc grape,78
+potato,sauvignon blanc grape,77
 potato,thymus,14
 potato,soursop,25
 potato,rafanus sativus root,7
 potato,snap bean,76
 potato,rosemary,31
 potato,sour cherry,31
-potato,sauvignon grape,78
+potato,sauvignon grape,77
 potato,wintergreen,7
 potato,sea buckthorn,14
 potato,wood apple,7
@@ -120599,7 +119957,7 @@ potato,tabasco pepper,38
 potato,thymus caespeititius,7
 potato,sesame seed,65
 potato,rue,14
-potato,rabbiteye blueberry,69
+potato,rabbiteye blueberry,68
 potato,provolone cheese,80
 potato,raspberry,85
 potato,sapodilla fruit,13
@@ -120612,7 +119970,7 @@ potato,tilsit cheese,81
 potato,wheat bread,79
 potato,radish,38
 potato,rye bread,77
-potato,seabream,69
+potato,seabream,68
 potato,soybean,84
 potato,trifolium incarnatum,7
 potato,tamarind,69
@@ -120628,16 +119986,16 @@ potato,spike,7
 potato,tomato,83
 potato,shallot,18
 potato,tangerine,61
-potato,sea bass,69
+potato,sea bass,68
 potato,scotch spearmint,54
 potato,romano cheese,80
 potato,wild rice,17
 potato,valerian,7
-potato,sweetfish,69
+potato,sweetfish,68
 potato,spearmint,63
 potato,tsuga canadensis,13
 potato,rhus cotinus leaf,7
-potato,rice,78
+potato,rice,77
 potato,prune,22
 potato,tobacco flower,7
 potato,sweet grass,22
@@ -120664,7 +120022,7 @@ potato,starfruit,68
 potato,sandalwood,14
 potato,satsuma,55
 potato,rhubarb,18
-potato,wild raspberry,69
+potato,wild raspberry,68
 potato,saffron,13
 potato,sapodilla,7
 potato,sherry,78
@@ -120684,7 +120042,7 @@ potato,potato,92
 potato,rubus arcticus,38
 potato,ylangylang,30
 potato,tea leaf,13
-potato,wild berry,69
+potato,wild berry,68
 potato,soy sauce,2
 potato,veal,74
 potato,vachellia farnesiana,2
@@ -120850,7 +120208,6 @@ artemisia,mint,7
 artemisia,bog blueberry,2
 artemisia,cream,4
 artemisia,satsuma,4
-artemisia,clove,4
 artemisia,lemon,4
 artemisia,wild raspberry,2
 artemisia,domiati cheese,2
@@ -121088,7 +120445,6 @@ citrus peel,grape must,2
 citrus peel,pork belly,32
 citrus peel,zanthoxylum rhetsa,4
 citrus peel,mint,47
-citrus peel,clove,30
 citrus peel,tea tree,7
 citrus peel,palm fruit,7
 citrus peel,sherry,38
@@ -121123,7 +120479,7 @@ citrus peel,romano cheese,33
 citrus peel,helichrysum angustifolium,4
 citrus peel,rice,28
 citrus peel,pumpkin,4
-citrus peel,kidney bean,61
+citrus peel,kidney bean,60
 citrus peel,goat cheese,31
 citrus peel,yogurt,4
 citrus peel,watermelon,7
@@ -121520,7 +120876,7 @@ cheddar cheese,grapefruit peel,7
 cheddar cheese,winter savory,2
 cheddar cheese,katsuobushi,17
 cheddar cheese,demon red,2
-cheddar cheese,lima bean,49
+cheddar cheese,lima bean,48
 cheddar cheese,pawpaw,21
 cheddar cheese,walnut,13
 cheddar cheese,eucalyptus cinereea,2
@@ -121619,13 +120975,12 @@ cheddar cheese,lavandin,6
 cheddar cheese,pork belly,57
 cheddar cheese,zanthoxylum rhetsa,4
 cheddar cheese,mint,26
-cheddar cheese,clove,19
 cheddar cheese,phellodendron amurense fruit,2
 cheddar cheese,sherry,63
 cheddar cheese,lily,4
 cheddar cheese,lavender vera,2
 cheddar cheese,sugarcane,2
-cheddar cheese,salmon,67
+cheddar cheese,salmon,66
 cheddar cheese,ruta chalepensis,2
 cheddar cheese,hevea brasiliensis flower,2
 cheddar cheese,mace,7
@@ -121639,7 +120994,7 @@ cheddar cheese,pinus jeffreyi leaf,2
 cheddar cheese,chinese quince,41
 cheddar cheese,mastic gum,10
 cheddar cheese,pepino melon,2
-cheddar cheese,pineapple,49
+cheddar cheese,pineapple,48
 cheddar cheese,wintergreen leaf,4
 cheddar cheese,vachellia farnesiana,2
 cheddar cheese,valencia orange,2
@@ -121661,7 +121016,7 @@ cheddar cheese,wood,2
 cheddar cheese,spanish sage,2
 cheddar cheese,taiwan citronella,4
 cheddar cheese,romano cheese,74
-cheddar cheese,rice,49
+cheddar cheese,rice,48
 cheddar cheese,pumpkin,10
 cheddar cheese,kidney bean,75
 cheddar cheese,italian orange,2
@@ -121702,7 +121057,7 @@ cheddar cheese,rabbiteye blueberry,32
 cheddar cheese,feta cheese,74
 cheddar cheese,provolone cheese,75
 cheddar cheese,white currant,2
-cheddar cheese,ham,63
+cheddar cheese,ham,62
 cheddar cheese,seseli tortuosum,2
 cheddar cheese,pennyroyal,6
 cheddar cheese,cod,40
@@ -122241,7 +121596,7 @@ apricot,horse mackerel,21
 apricot,tangerine,41
 apricot,munster cheese,40
 apricot,plant,4
-apricot,melon,49
+apricot,melon,48
 apricot,tea leaf,2
 apricot,pinus jeffreyi,2
 apricot,pecan,34
@@ -122313,7 +121668,7 @@ apricot,eucalyptus australianavar,2
 apricot,pawpaw,14
 apricot,walnut,9
 apricot,eucalyptus cinereea,2
-apricot,fig,49
+apricot,fig,48
 apricot,savory,2
 apricot,kumquat peel,4
 apricot,avocado,28
@@ -122325,7 +121680,7 @@ apricot,citrus,48
 apricot,hevea brasiliensis flower,2
 apricot,castoreum,2
 apricot,bartlett pear,33
-apricot,muskmelon,49
+apricot,muskmelon,48
 apricot,bread,19
 apricot,coriander,18
 apricot,weinbrand,2
@@ -122383,7 +121738,7 @@ apricot,whale,18
 apricot,cassava,2
 apricot,clary sage,23
 apricot,lime peel,2
-apricot,cantaloupe,49
+apricot,cantaloupe,48
 apricot,licorice,17
 apricot,prickly pear,18
 apricot,cognac,45
@@ -122423,7 +121778,6 @@ apricot,pork belly,31
 apricot,zanthoxylum rhetsa,9
 apricot,mint,28
 apricot,bog blueberry,36
-apricot,clove,20
 apricot,tea tree,4
 apricot,chrysanthemum japonicum,2
 apricot,phellodendron amurense fruit,2
@@ -122715,7 +122069,7 @@ apricot,passion fruit wine,2
 apricot,sea bass,21
 apricot,parsnip root,2
 apricot,valerian,2
-apricot,potato,66
+apricot,potato,65
 apricot,artemisia,4
 apricot,citrus peel,47
 apricot,cheddar cheese,43
@@ -124208,7 +123562,7 @@ crisp bread,marjoram,7
 crisp bread,thea chinensis,2
 crisp bread,scallop,25
 crisp bread,oxidized milk,2
-crisp bread,turkey,61
+crisp bread,turkey,60
 crisp bread,shiitake,38
 crisp bread,parsley,13
 crisp bread,yam,2
@@ -124462,7 +123816,6 @@ bourbon whiskey,mantis shrimp,4
 bourbon whiskey,pea,10
 bourbon whiskey,pepper,4
 bourbon whiskey,pinto bean,4
-bourbon whiskey,chokecherry,2
 bourbon whiskey,filbert,9
 bourbon whiskey,pear,6
 bourbon whiskey,corn,6
@@ -124586,7 +123939,7 @@ bourbon whiskey,seed,2
 bourbon whiskey,kidney bean,10
 bourbon whiskey,lamb,6
 bourbon whiskey,satsuma,4
-bourbon whiskey,clove,6
+bourbon whiskey,chokecherry,2
 bourbon whiskey,lemon,4
 bourbon whiskey,gruyere cheese,9
 bourbon whiskey,peach,4
@@ -124858,7 +124211,6 @@ cassia,french potato,10
 cassia,orange leaf,4
 cassia,pork belly,7
 cassia,mint,7
-cassia,clove,10
 cassia,phellodendron amurense fruit,2
 cassia,sherry,17
 cassia,lily,2
@@ -124958,7 +124310,6 @@ cassia,muscadine grape,14
 cassia,fenugreek,2
 cassia,citrus flower,2
 cassia,papaya,9
-cassia,clove pink,2
 cassia,keta salmon,6
 cassia,cloudberry,13
 cassia,cucumber,2
@@ -125219,7 +124570,6 @@ acacia,cassia,2
 acacia,bog blueberry,2
 acacia,tuberose,9
 acacia,satsuma,2
-acacia,clove,6
 acacia,lemon,6
 acacia,dill blossom,9
 acacia,peach,2
@@ -125690,7 +125040,6 @@ angelica,litchi,4
 angelica,buckwheat,4
 angelica,pepper,7
 angelica,lemon balm,4
-angelica,chokecherry,7
 angelica,rum,6
 angelica,pear,2
 angelica,corn,4
@@ -125778,7 +125127,7 @@ angelica,bog blueberry,7
 angelica,cream,4
 angelica,angelica,6
 angelica,satsuma,7
-angelica,clove,4
+angelica,chokecherry,7
 angelica,myrtle,7
 angelica,lemon,7
 angelica,southern pea,4
@@ -126265,7 +125614,7 @@ lemon,tuna,21
 lemon,rose apple,21
 lemon,turkey,36
 lemon,yam,2
-lemon,raspberry,61
+lemon,raspberry,60
 lemon,rutabaga,4
 lemon,sake,9
 lemon,shiitake,26
@@ -126437,7 +125786,7 @@ mushroom,spanish sage,4
 mushroom,taiwan citronella,2
 mushroom,orange,56
 mushroom,white bread,34
-mushroom,rice,49
+mushroom,rice,48
 mushroom,tea leaf,2
 mushroom,pumpkin,11
 mushroom,russian cheese,53
@@ -126535,7 +125884,7 @@ mushroom,rose,13
 mushroom,popcorn,18
 mushroom,mussel,16
 mushroom,peanut butter,50
-mushroom,sauvignon grape,49
+mushroom,sauvignon grape,48
 mushroom,seabream,37
 mushroom,parmesan cheese,59
 mushroom,radish,18
@@ -126544,7 +125893,7 @@ mushroom,plumcot,9
 mushroom,scallop,32
 mushroom,toasted oat groat,2
 mushroom,oak musk,6
-mushroom,soybean,61
+mushroom,soybean,60
 mushroom,wild strawberry,28
 mushroom,narcissus,9
 mushroom,tamarind,33
@@ -126608,12 +125957,12 @@ mushroom,orange flower,6
 mushroom,seed,2
 mushroom,sturgeon caviar,11
 mushroom,orange leaf,6
-mushroom,pork belly,49
+mushroom,pork belly,48
 mushroom,thai pepper,14
 mushroom,zanthoxylum rhetsa,4
 mushroom,shrimp,61
 mushroom,potato chip,17
-mushroom,pork sausage,49
+mushroom,pork sausage,48
 mushroom,starfruit,40
 mushroom,sandalwood,4
 mushroom,satsuma,18
@@ -126627,7 +125976,7 @@ mushroom,oat,30
 mushroom,vitis,2
 mushroom,vegetable,4
 mushroom,veal,33
-mushroom,sauvignon blanc grape,49
+mushroom,sauvignon blanc grape,48
 mushroom,tuberose,7
 mushroom,oat groat,2
 mushroom,tuna,43
@@ -126970,7 +126319,6 @@ cashew,kumquat peel,4
 cashew,french potato,14
 cashew,pork belly,7
 cashew,mint,10
-cashew,clove,7
 cashew,palm fruit,2
 cashew,sherry,13
 cashew,lily,2
@@ -128146,7 +127494,6 @@ champaca,rice bran,2
 champaca,mint,4
 champaca,tuberose,6
 champaca,satsuma,6
-champaca,clove,4
 champaca,lemon,7
 champaca,nectandra elaiophora,2
 champaca,wild raspberry,4
@@ -128407,7 +127754,7 @@ mustard,nutmeg,4
 mustard,rosemary,4
 mustard,sauvignon grape,17
 mustard,parmesan cheese,17
-mustard,pork,68
+mustard,pork,67
 mustard,nut,10
 mustard,prawn,2
 mustard,turnip,2
@@ -129188,7 +128535,7 @@ pear,sturgeon caviar,2
 pear,vervain,2
 pear,pork sausage,17
 pear,violet leaf,6
-pear,potato,49
+pear,potato,48
 pear,wild berry,27
 pear,veal,13
 pear,pineapple,24
@@ -129206,7 +128553,6 @@ cinnamomum oliveri leaf,thai pepper,2
 cinnamomum oliveri leaf,laurel,2
 cinnamomum oliveri leaf,myrtle,2
 cinnamomum oliveri leaf,holy basil,2
-cinnamomum oliveri leaf,clove,2
 cinnamomum oliveri leaf,mastic gum leaf,2
 cinnamomum oliveri leaf,tarragon,2
 cinnamomum oliveri leaf,rose,2
@@ -129530,7 +128876,6 @@ brandy,cardamom,2
 brandy,mutton liver,2
 brandy,cranberry,9
 brandy,pear,6
-brandy,clove,6
 brandy,orange peel,4
 brandy,chive,2
 brandy,lobster,2
@@ -129777,7 +129122,7 @@ navy bean,pork sausage,46
 navy bean,tobacco,6
 navy bean,oyster,16
 navy bean,okra,16
-navy bean,tomato,49
+navy bean,tomato,48
 navy bean,sperm whale,2
 navy bean,nectandra elaiophora,2
 navy bean,potato,76
@@ -130388,7 +129733,7 @@ globefish,sperm whale,2
 globefish,morus bombycis,2
 globefish,jasminum grandiflorum,4
 globefish,green mate,2
-globefish,potato,69
+globefish,potato,68
 globefish,wild berry,23
 globefish,irish whiskey,2
 globefish,mango,28
@@ -130559,7 +129904,6 @@ caraway,cassia,2
 caraway,mint,9
 caraway,cream,2
 caraway,satsuma,6
-caraway,clove,6
 caraway,lemon,6
 caraway,wild raspberry,6
 caraway,domiati cheese,2
