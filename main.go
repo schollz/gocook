@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"strings"
 )
 
 var commonFoods []string
@@ -18,9 +19,9 @@ func init() {
 
 func main() {
 
-	fmt.Println(commonFoods)
-	fmt.Println(badContextWords)
-	fmt.Println(goodContextWords)
+	// fmt.Println(commonFoods)
+	// fmt.Println(badContextWords)
+	// fmt.Println(goodContextWords)
 
 	testContent := `Hi
 Ingredients
@@ -53,6 +54,20 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
+	testContent = parseURL("http://steamykitchen.com/26014-chinese-fried-wontons-recipe-video.html")
 
-	fmt.Println(getIndredientText(testContent))
+	text := getIndredientText(testContent)
+	fmt.Println(text)
+
+	text = strings.Replace(text, ",", "", -1)
+	text = strings.Replace(text, ".", "", -1)
+	text = strings.Replace(text, "!", "", -1)
+	text = strings.Replace(text, "?", "", -1)
+
+	for _, food := range commonFoods {
+		if strings.Contains(text, " "+food+" ") {
+			fmt.Println(food)
+		}
+	}
+
 }

@@ -50,17 +50,23 @@ func getIndredientText(testContent string) string {
 	for i, _ := range scores {
 		gaussianScore := 0
 		if i > 0 {
-			gaussianScore += scores[i-1] * 64
+			gaussianScore += scores[i-1] * 18
 		}
 		if i > 1 {
-			gaussianScore += scores[i-2] * 32
+			gaussianScore += scores[i-2] * 12
 		}
-		gaussianScore += scores[i] * 100
+		if i > 2 {
+			gaussianScore += scores[i-3] * 6
+		}
+		gaussianScore += scores[i] * 20
 		if i < len(scores)-1 {
-			gaussianScore += scores[i+1] * 64
+			gaussianScore += scores[i+1] * 18
 		}
 		if i < len(scores)-2 {
-			gaussianScore += scores[i+1] * 32
+			gaussianScore += scores[i+2] * 12
+		}
+		if i < len(scores)-3 {
+			gaussianScore += scores[i+3] * 6
 		}
 		gaussianScores[i] = gaussianScore
 	}
@@ -86,16 +92,17 @@ func getIndredientText(testContent string) string {
 			minResidual = resid
 		}
 	}
-	// fmt.Println(gaussianScores)
-	// fmt.Println(gaussianFunc(maxScoreI, bestSigma, maxScore, gaussianScores))
-	// fmt.Println(maxScoreI, bestSigma)
+	fmt.Println(gaussianScores)
+	fmt.Println(gaussianFunc(maxScoreI, bestSigma, maxScore, gaussianScores))
+	fmt.Println(maxScoreI, bestSigma)
 
 	text := ""
 	for i, line := range lines {
 		if i > (maxScoreI-int(float64(bestSigma)/1.5)) && i < (maxScoreI+int(float64(bestSigma)/1.5)) {
-			text += line + "\n"
+			text += line + " \n"
 		}
 	}
+
 	return text
 }
 
