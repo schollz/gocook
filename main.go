@@ -82,8 +82,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://www.foodnetwork.com/recipes/food-network-kitchens/slow-cooker-pork-tacos-recipe.html")
-
+	testContent = parseURL("http://allrecipes.com/recipe/18897/company-couscous/")
 	text := getIndredientText(testContent)
 
 	text = strings.ToLower(text)
