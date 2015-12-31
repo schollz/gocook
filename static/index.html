@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Ask Chef Hops</title>
+    <link href="/static/img/favicon.ico" rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64">
+    <meta content='initial-scale=1,maximum-scale=1,user-scalable=no' name='viewport'><!-- Bootstrap and JQuery JS -->
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js">
+    </script>
+    <script crossorigin="anonymous" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A=="
+    src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
+    </script><!-- Bootstrap Core CSS -->
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity=
+    "sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" rel="stylesheet">
+    <style>
+    /*!
+    * Start Bootstrap - 2 Col Portfolio HTML Template (http://startbootstrap.com)
+    * Code licensed under the Apache License v2.0.
+    * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+    */
+    body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    .portfolio-item {
+    margin-bottom: 25px;
+    }
+    footer {
+    margin: 50px 0;
+    }
+    header, main { padding: 0 20px; }
+    /*** wrapper div for both header and main ***/
+    .wrapper { margin-top: 0px; }
+    /*** anchor tags ***/
+    a:link, a:visited, a:hover, a:active { color: #CE534D; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    /*** main content list ***/
+    .main-list-item { font-weight: bold; font-size: 1.2em; margin: 0.8em 0; }
+    /* override the left margin added by font awesome for the main content list,
+    since it must be aligned with the content */
+    .fa-ul.main-list { margin-left: 0; }
+    /* list icons */
+    .main-list-item-icon { width: 36px; color: #46433A; }
+    /*** logo ***/
+    .logo-container { text-align: center; }
+    .logo { width: 96px; height: 96px; display: inline-block; background-size: cover; border-radius: 50%; -moz-border-radius: 50%; border: 2px solid #F1EED9; box-shadow: 0 0 0 3px #46433A; }
+    /*** author ***/
+    .author-container h1 { font-size: 2.8em; margin-top: 0; margin-bottom: 0; text-align: center; }
+    /*** tagline ***/
+    .tagline-container p { font-size: 1.3em; text-align: center; margin-bottom: 2em; }
+    /******/
+    hr { border: 0; height: 1px; background-image: -webkit-linear-gradient(left, transparent, #46433A, transparent); background-image: -moz-linear-gradient(left, transparent, #46433A, transparent); background-image: -ms-linear-gradient(left, transparent, #46433A, transparent); background-image: -o-linear-gradient(left, transparent, #46433A, transparent); }
+    /*** footer ***/
+    footer { position: fixed; bottom: 0; right: 0; height: 20px; }
+    .poweredby { font-family: "Arial Narrow", Arial; font-size: 0.6em; line-height: 0.6em; padding: 0 5px; }
+    /*** media queries ***/
+    /* X-Small devices (phones, 480px and up) */
+    @media (min-width: 480px) { /* wrapper stays 480px wide past 480px wide and is kept centered */
+    .wrapper { width: 480px; margin: 10% auto 0 auto; } }
+    /* All other devices (768px and up) */
+    @media (min-width: 768px) { /* past 768px the layout is changed and the wrapper has a fixed width of 680px to accomodate both the header column and the content column */
+    .wrapper { width: 680px; }
+    /* the header column stays left and has a dynamic width with all contents aligned right */
+    header { float: left; width: 46%; text-align: right; }
+    .author-container h1, .logo-container, .tagline-container p { text-align: right; }
+    main { width: 46%; margin-left: 54%; padding: 0; } }
+    </style>
+    <meta content="Zack Scholl" name="author">
+    <meta content="" name="description">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <div class="logo-container">
+                <a class="logo" href="" style="background-image: url('/static/img/compass.png')"></a>
+            </div>
+
+
+            <div class="author-container">
+                <h1>Ask Chef Hops.</h1>
+            </div>
+
+
+            <div class="tagline-container">
+                <p>Copy and paste URL and Chef Hops will tell you whether its a good meal pairing.<br>
+                <iframe frameborder="0" height="30px" scrolling="0" src="https://ghbtns.com/github-btn.html?user=schollz&repo=justread&type=star&count=true&size=large" width="160px"></iframe></p>
+            </div>
+        </header>
+
+
+        <main>
+            <div class="content">
+                <input autofocus="" class="form-control input-lg" id='urlinput' name='urlinput' placeholder='Type a URL' type='text'>
+
+                <p class="lead">...or use /?url=X in the browser.</p>
+                <p class="lead" id="title"></p>
+                <p class="lead" id="score"></p>
+                <p class="lead" id="good"></p>
+                <p class="lead" id="bad"></p>
+
+
+    <div id="loadingDiv"><img src="https://d13yacurqjgara.cloudfront.net/users/12755/screenshots/1037374/hex-loader2.gif"></img></div>
+
+            </div>
+        </main>
+    </div>
+    <script>
+
+    var $loading = $('#loadingDiv')
+  .hide();
+$(document)
+  .ajaxStart(function () {
+    $('.outer')
+      .hide()
+    $loading.show();
+  })
+  .ajaxStop(function () {
+    $loading.hide();
+  });
+
+$(document)
+  .ready(function () {
+
+    $('#urlinput').keydown(function (e){
+    if(e.keyCode == 13){
+        $.ajax({
+          url: '/',
+          data: {
+            'url': $('#urlinput').val()
+          },
+          dataType: 'json',
+          success: function (result) {
+            console.log(result)
+            $('#urlinput').val("")
+            $('#title').html("Title: ??")
+            $('#score').html("Score: " + result["Score"])
+            text = "Good:</br>"
+            array = result["Good"]
+            if (array != null) {
+              for (var i=0;i<array.length; i++) {
+                text = text + array[i].split(",")[0] + " and " + array[i].split(",")[1] + "<br>"
+              }
+              $('#good').html(text)
+            }
+
+            text = "Bad:</br>"
+            array = result["Bad"];
+            if (array != null) {
+              for (var i=0;i<array.length; i++) {
+                text = text + array[i].split(",")[0] + " and " + array[i].split(",")[1] + "<br>"
+              }
+              $('#bad').html(text)
+            }
+          }
+        });
+    }
+    })
+
+  });
+    </script>
+</body>
+</html>

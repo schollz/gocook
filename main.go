@@ -1,11 +1,16 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
+	"net/http"
+	"runtime"
 	"sort"
 	"strconv"
 	"strings"
+	"time"
 )
 
 var commonFoods []string
@@ -17,51 +22,9 @@ var cdfTable map[int]int
 
 // func gaussianFilter(data []int) (filtered []int) {
 
-func init() {
-	loadData()
-
-	pairing = make(map[[2]string]int, 221777)
-
-	f, err := ioutil.ReadFile("resources/pairing.csv")
-	if err != nil {
-		panic(err)
-	}
-	for _, l := range strings.Split(string(f), "\n") {
-		arr := strings.Split(string(l), ",")
-		if len(arr) == 3 {
-			k := arr[:2]
-			sort.Sort(sort.StringSlice(k))
-			key := [2]string{k[0], k[1]}
-
-			val, err := strconv.Atoi(arr[2])
-			if err != nil {
-				panic(err)
-			}
-			pairing[key] = val
-
-		}
-	}
-	fmt.Println(pairing[[2]string{"mint oil", "pinto bean"}])
-	fmt.Println(len(pairing), len(uniqueFoods))
-
-	loadCdfData()
-	getCdf(49)
-}
-
-func getCdf(val int) int {
-	bestDiff := 10000
-	bestVal := 0
-	for k, _ := range cdfTable {
-		diff := k - val
-		if diff < 0 {
-			diff = diff * -1
-		}
-		if diff < bestDiff {
-			bestDiff = diff
-			bestVal = k
-		}
-	}
-	return cdfTable[bestVal]
+func timeTrack(start time.Time, name string) {
+	elapsed := time.Since(start)
+	log.Printf("%s took %s", name, elapsed)
 }
 
 func loadCdfData() {
@@ -89,44 +52,74 @@ func loadCdfData() {
 
 }
 
+func init() {
+	loadData()
+
+	pairing = make(map[[2]string]int, 221777)
+
+	f, err := ioutil.ReadFile("resources/pairing.csv")
+	if err != nil {
+		panic(err)
+	}
+	for _, l := range strings.Split(string(f), "\n") {
+		arr := strings.Split(string(l), ",")
+		if len(arr) == 3 {
+			k := arr[:2]
+			sort.Sort(sort.StringSlice(k))
+			key := [2]string{k[0], k[1]}
+
+			val, err := strconv.Atoi(arr[2])
+			if err != nil {
+				panic(err)
+			}
+			pairing[key] = val
+
+		}
+	}
+	fmt.Println(pairing[[2]string{"mint oil", "pinto bean"}])
+	fmt.Println(len(pairing), len(commonFoods))
+
+	loadCdfData()
+	getCdf(49)
+}
+
+type FoodJson struct {
+	Score int
+	Good  []string
+	Bad   []string
+}
+
 func main() {
+	fmt.Println(getScore("http://www.foodnetwork.com/recipes/alton-brown/eggs-benedict-recipe.html"))
+	runtime.GOMAXPROCS(runtime.NumCPU() - 1) // one core for wrk
+	http.HandleFunc("/static/", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, r.URL.Path[1:])
+	})
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		if r.Method == "GET" {
+			url := r.URL.Query()["url"]
+			fmt.Println(url)
+			if len(url) > 0 {
+				defer timeTrack(time.Now(), "/url="+url[0])
+				b, err := json.Marshal(getScore(url[0]))
+				if err != nil {
+					panic(err)
+				}
 
-	// fmt.Println(commonFoods)
-	// fmt.Println(badContextWords)
-	// fmt.Println(goodContextWords)
+				w.Header().Set("Content-Type", "application/json")
+				w.Write([]byte(b))
+			} else {
+				http.ServeFile(w, r, "./static/index.html")
+			}
+		}
+	})
 
-	testContent := `Hi
-Ingredients
-2 cups all-purpose flour
-1/4 cup sugar
-1 tablespoon baking powder
-1/2 teaspoon salt
-1 1/2 cups milk
-1 tablespoon plus 1 teaspoon vanilla extract
-2 large eggs, separated, plus 2 additional egg whites
-1 stick (8 tablespoons) salted butter, melted, plus softened butter, for serving
-Warm syrup, for serving
-Directions
-Watch how to make this recipe.
-Special equipment: Waffle iron
-Preheat the waffle iron to the regular setting.
-Sift together the flour, sugar, baking powder and salt in a bowl. In a separate bowl, whisk together the milk, vanilla and 2 egg yolks. Pour over the dry ingredients and very gently stir         until halfway combined. Pour in the melted butter and continue mixing very gently until combined.
-In a separate bowl using a
-whisk
-(or a
-mixer
-), beat the 4 egg whites until stiff. Slowly fold them into the batter, stopping short of mixing them all the way         through.
-Scoop the
-batter
-into your
-waffle iron
-in batches and cook according to its directions (lean toward the
-waffles
-being a little deep golden and
-crisp
-!). Serve immediately with softened butter and warm syrup.
-Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://allrecipes.com/recipe/17110/omas-fabulous-matzo-ball-soup/")
+	fmt.Println("Running on Port 4000")
+	http.ListenAndServe(":4000", nil)
+}
+
+func getScore(url string) FoodJson {
+	testContent := parseURL(url)
 	text := getIndredientText(testContent)
 
 	text = strings.ToLower(text)
@@ -149,6 +142,8 @@ Recipe courtesy of Ree Drummond`
 
 	score := float64(0)
 	foods := float64(0)
+	var badCombos []string
+	var goodCombos []string
 	for i, food1 := range ingredients {
 		for j, food2 := range ingredients {
 			if j > i {
@@ -162,10 +157,40 @@ Recipe courtesy of Ree Drummond`
 				}
 				if score > 0 {
 					foods += float64(1)
+					if score > 70 {
+						goodCombos = append(goodCombos, food1+","+food2)
+					}
+					if score < 30 {
+						badCombos = append(badCombos, food1+","+food2)
+					}
 				}
 			}
 		}
 	}
-	fmt.Println(score, foods, int(score/foods), getCdf(int(score/foods)))
+	newScore := -1
+	if score > 0 {
+		newScore = getCdf(int(score / foods))
+	}
+	return FoodJson{
+		Score: newScore,
+		Bad:   badCombos,
+		Good:  goodCombos,
+	}
 
+}
+
+func getCdf(val int) int {
+	bestDiff := 10000
+	bestVal := 0
+	for k, _ := range cdfTable {
+		diff := k - val
+		if diff < 0 {
+			diff = diff * -1
+		}
+		if diff < bestDiff {
+			bestDiff = diff
+			bestVal = k
+		}
+	}
+	return cdfTable[bestVal]
 }
