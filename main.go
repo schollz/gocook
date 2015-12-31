@@ -92,10 +92,7 @@ type FoodJson struct {
 func main() {
 	fmt.Println(getScore("http://www.foodnetwork.com/recipes/alton-brown/eggs-benedict-recipe.html"))
 	runtime.GOMAXPROCS(runtime.NumCPU() - 1) // one core for wrk
-	http.HandleFunc("/static/", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, r.URL.Path[1:])
-	})
-	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/score", func(w http.ResponseWriter, r *http.Request) {
 		if r.Method == "GET" {
 			url := r.URL.Query()["url"]
 			fmt.Println(url)
@@ -108,10 +105,11 @@ func main() {
 
 				w.Header().Set("Content-Type", "application/json")
 				w.Write([]byte(b))
-			} else {
-				http.ServeFile(w, r, "./static/index.html")
 			}
 		}
+	})
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, r.URL.Path[1:])
 	})
 
 	fmt.Println("Running on Port 4000")

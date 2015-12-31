@@ -109,6 +109,9 @@
     </div>
     <script>
 
+
+
+
     function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }
@@ -129,7 +132,6 @@ $(document)
 
 $(document)
   .ready(function () {
-
     $('#urlinput').keydown(function (e){
     if(e.keyCode == 13){
         $.ajax({
@@ -162,20 +164,27 @@ $(document)
             }
 
             if (result["Score"] < 50) {
-              rI = getRandomInt(1,5)
+              rI = getRandomInt(1,7)
               if (rI==1) {
                 b.Say("Look at that!\n...like a bisons...\nwhat is that sh&*?!",null,"http://rpiai.com/sounds/bad1.mp3")                
               } else if (rI == 2) {
                 b.Say("Look at all this f*&%ing\nwhose putting all this\n in the bin???",null,"http://rpiai.com/sounds/bad2.mp3")                
+              } else if (rI == 3) {
+                b.Say("Look! What the f&^k is this!\nLOOK. AT. THIS.",null,"http://rpiai.com/sounds/bad3.mp3")                
+              } else if (rI == 4) {
+                b.Say("Oh my god.\nRight now, I rather eat\npoodle s*&% than\nput that in my mouth",null,"http://rpiai.com/sounds/bad4.mp3")                
+              } else if (rI == 5) {
+                b.Say("Its a bleeping mess!\nLook at it,\nyou can't use that!",null,"http://rpiai.com/sounds/bad5.mp3")                
+              } else if (rI == 6) {
+                b.Say("NO!! I'm trying to find this @*&#$\nIts a bleeping mess!",null,"http://rpiai.com/sounds/bad6.mp3")                
               }
             }
 
-            if (results["Score"] > 70) {
+            if (result["Score"] > 70) {
               rI = getRandomInt(1,2)
               if (rI==1) {
                 b.Say("The flavors amazing...k?\nDelicious..so well done.\nCongratulations.",null,"http://rpiai.com/sounds/good1.mp3")                
               } else if (rI == 2) {
-
                 b.Say("Well hold on a minute\nthat was delicious.\nReally good indeed.",null,"http://rpiai.com/sounds/good2.mp3")                
               }
 
