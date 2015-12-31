@@ -13,6 +13,7 @@ var goodContextWords []string
 var badContextWords []string
 var pairing map[[2]string]int
 var uniqueFoods []string
+var cdfTable map[int]int
 
 // func gaussianFilter(data []int) (filtered []int) {
 
@@ -42,6 +43,49 @@ func init() {
 	}
 	fmt.Println(pairing[[2]string{"mint oil", "pinto bean"}])
 	fmt.Println(len(pairing), len(uniqueFoods))
+
+	loadCdfData()
+	getCdf(49)
+}
+
+func getCdf(val int) int {
+	bestDiff := 10000
+	bestVal := 0
+	for k, _ := range cdfTable {
+		diff := k - val
+		if diff < 0 {
+			diff = diff * -1
+		}
+		if diff < bestDiff {
+			bestDiff = diff
+			bestVal = k
+		}
+	}
+	return cdfTable[bestVal]
+}
+
+func loadCdfData() {
+	cdfTable = make(map[int]int)
+	f, err := ioutil.ReadFile("resources/cdf.tab")
+	if err != nil {
+		panic(err)
+	}
+	for _, l := range strings.Split(string(f), "\n") {
+		arr := strings.Split(string(l), " ")
+		if len(arr) == 2 {
+			val1, err := strconv.Atoi(arr[0])
+			if err != nil {
+				panic(err)
+			}
+			val2, err := strconv.Atoi(arr[1])
+			if err != nil {
+				panic(err)
+			}
+			cdfTable[val1] = val2
+		}
+	}
+
+	fmt.Println(cdfTable)
 
 }
 
@@ -82,7 +126,7 @@ being a little deep golden and
 crisp
 !). Serve immediately with softened butter and warm syrup.
 Recipe courtesy of Ree Drummond`
-	testContent = parseURL("http://allrecipes.com/recipe/18897/company-couscous/")
+	testContent = parseURL("http://allrecipes.com/recipe/17110/omas-fabulous-matzo-ball-soup/")
 	text := getIndredientText(testContent)
 
 	text = strings.ToLower(text)
@@ -122,6 +166,6 @@ Recipe courtesy of Ree Drummond`
 			}
 		}
 	}
-	fmt.Println(score, foods, score/foods)
+	fmt.Println(score, foods, int(score/foods), getCdf(int(score/foods)))
 
 }
