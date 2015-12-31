@@ -14,3 +14,8 @@ python process.py
 ```bash
 go run *.go
 ```
+
+# Todo
+
+- Add chef-hops
+- Add web page
