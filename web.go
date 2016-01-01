@@ -1,12 +1,11 @@
 package main
 
 import (
-	"bytes"
-	"golang.org/x/net/html"
-	"golang.org/x/net/html/atom"
-	"io/ioutil"
 	"net/http"
 	"strings"
+
+	"golang.org/x/net/html"
+	"golang.org/x/net/html/atom"
 )
 
 var badTags = []atom.Atom{
@@ -16,23 +15,18 @@ var badTags = []atom.Atom{
 	atom.Figcaption,
 }
 
-func parseURL(url string) string {
+func parseURL(url string) (text string) {
 	resp, err := http.Get(url)
 	if err != nil {
-		// handle error
+		panic(err) // TODO: handle errors better?
 	}
 	defer resp.Body.Close()
 
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
-
-	HTML := string(body)
-	root, err := html.Parse(bytes.NewReader([]byte(HTML)))
+	root, err := html.Parse(resp.Body)
 	if err != nil {
-		panic(err)
+		panic(err) // TODO: handle errors better?
 	}
 
-	text := ""
 	var f func(n *html.Node)
 	f = func(n *html.Node) {
 		if n.Type == html.ElementNode && n.DataAtom == atom.Meta {
@@ -41,6 +35,9 @@ func parseURL(url string) string {
 		if n.Type == html.TextNode {
 			for _, l := range strings.Split(n.Data, "\n\n") {
 				if s := strings.TrimSpace(l); s != "" {
+					if n.Parent != nil && n.Parent.Type == html.ElementNode && n.DataAtom == atom.Title {
+						s = "__TITLE__=" + s + "__TITLE__"
+					}
 					text += strings.Replace(s, "\n", " ", -1) + "\n"
 				}
 			}
@@ -51,5 +48,5 @@ func parseURL(url string) string {
 	}
 	f(root)
 
-	return text
+	return
 }
