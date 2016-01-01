@@ -84,6 +84,7 @@ func init() {
 }
 
 type FoodJson struct {
+	Title string
 	Score int
 	Good  []string
 	Bad   []string
@@ -155,10 +156,10 @@ func getScore(url string) FoodJson {
 				}
 				if score > 0 {
 					foods += float64(1)
-					if score > 70 {
+					if float64(pairing[[2]string{food1, food2}]) > 70 || float64(pairing[[2]string{food2, food1}]) > 70 {
 						goodCombos = append(goodCombos, food1+","+food2)
 					}
-					if score < 30 {
+					if float64(pairing[[2]string{food1, food2}]) < 30 || float64(pairing[[2]string{food2, food1}]) < 30 {
 						badCombos = append(badCombos, food1+","+food2)
 					}
 				}
@@ -170,6 +171,7 @@ func getScore(url string) FoodJson {
 		newScore = getCdf(int(score / foods))
 	}
 	return FoodJson{
+		Title: strings.Split(testContent, "\n")[0],
 		Score: newScore,
 		Bad:   badCombos,
 		Good:  goodCombos,
